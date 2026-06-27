@@ -1,0 +1,84 @@
+===== PAGE 1 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Toán rời rạc
+Phépđếm(Counting)
+
+===== PAGE 2 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Phépđếm(sốlượngcácphầntử)❑Cácnguyênlícơbản❑Nguyênlýlồngchimbồcâu❑Hoánvịvàtổhợp❑Hệsốnhịthức❑Thuậttoánchia đểtrị❑Thuậttoánquyhoạchđộng
+
+===== PAGE 3 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Lýthuyếttổhợp❑Làmộtphầnquantrọngcủatoánrờirạc, chuyênnghiêncứusựsắpxếpcácđốitượng.❑Liệtkê, đếmcácđốitượngcónhữngtínhchấtnàođó.Đếmcácphầntửxuấthiệnnhiềutrongtoánhọccũngnhưtin học, Đểgiảiquyếtnhiềuvấnđềcũngnhưđượcdùngnhiềukhitínhxácsuấtcủacácbiếncố.Vídụ, cầnđếmsốcáchkhácnhauđặtmậtkhẩuthỏamãncácđiềukiện: Độdàiítnhất6 kýtựvàkhôngvượtquá8 kýtựvàmỗikýtưlấytừtập[‘0’..’9’,’a’..’z’]❑Tạora mộtcáchsắpxếpcácđốitượngthỏamãntínhchấtnàođó. Vídụ, xâydựngthờikhóabiểu, lịchthi, hay phươngánsảnxuất,…
+
+===== PAGE 4 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Cácnguyênlícơbảncủaphépđếm❑Quy tắccộng: Giảsửcóhaicôngviệc. Việcthứnhấtcóthểlàmbằng𝑛!cách, việcthứhaicóthểlàmbằng𝑛"cách, khiđócó𝑛!+𝑛"cáchlàmmộttronghaicôngviệcđó.❑Vídụ: Cầnchọnmộtđạibiểulànamsinhviêncóđiểmtrungbìnhtừ8.0 trởlênhoặclànữsinhviêncóđiểmtrungbìnhtừ7.5 trởlên. Biếtrằngcó20 sinhviênnamthỏamãntiêuchuẩn, 25 nữsinhviênthỏamãntiêuchuẩn. Có20 + 25 cáchchọnđạibiểu.❑Quytắcnàycóthểphátbiểudướidạngngônngữtậphợpnhưsau: Nếu𝐴!,𝐴",…,𝐴#làcáctậprờinhau, khiđósốphầntửcủahợpcáctậpnàybằngtổngsốcácphầntửcủacáctậpthànhphần.𝐴!∪𝐴"∪⋯∪𝐴#=𝐴!+𝐴"+⋯+|𝐴#|
+
+===== PAGE 5 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Cácnguyênlícơbảncủaphépđếm❑Quy tắccộng: Mộtsinhviênchọn1 dựánmáytínhtừmộttrong3 danhsách, lầnlượtcó23, 15 và19 dựán. Cóbao nhiêudựánsinhviênnàycóthểchọn?Giátrịcủaklàbao nhiêusaukhiđoạncốtsauđượcchạy, trongđón1, n2, . . . , nmlàcácsốnguyêndương?
+
+
+===== PAGE 6 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Cácnguyênlícơbảncủaphépđếm❑Quy tắcnhânGiảsửcómộtnhiệmvụđượctáchra làmhaicôngviệc. Việcthứnhấtcóthểlàmbằng𝑛!cách, việcthứhaicóthểlàmbằng𝑛"cách, khiđócó𝑛!×𝑛"cáchlàmnhiệmvụđó.❑Vídụ: Cầnchọnhaiđạibiểu, mộtlànamsinhviêncóđiểmtrungbìnhtừ8.0 trởlênvàmộtlànữsinhviêncóđiểmtrungbìnhtừ7.5 trởlên. Biếtrằngcó20 sinhviênnamthỏamãntiêuchuẩn, 25 nữsinhviênthỏamãntiêuchuẩn. Có20´25 cáchchọnđạibiểu.❑Quytắcnàycóthểphátbiểudướidạngngônngữtậphợpnhưsau: ChọnmộtphầntửcủatíchĐề-các𝐴!×𝐴"×⋯×𝐴#đượctiếnhànhbằngcáchchọnlầnlượttừngphầntửcủa𝐴!, mộtphầntửcủa𝐴", …, mộtphầntửcủa𝐴#.𝐴!×𝐴"×⋯×𝐴#=𝐴!×𝐴"×⋯×|𝐴#|
+
+===== PAGE 7 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Cácnguyênlícơbảncủaphépđếm❑Quy tắcnhânCóbao nhiêuhàmtừmộttậpcóm phầntửtớimộttậpcón phầntử?Cóbao nhiêuhàm1-1 từmộttậpcóm phầntửtớimộttậpcón phầntử?Giátrịcủaklàbao nhiêusaukhichạyđoạncốtsau, vớin1, n2, …, nmlàcácsốnguyêndương?
+
+
+===== PAGE 8 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+❑Đếmsốcáchkhácnhauđặtmậtkhẩuthỏamãncácđiềukiệnsau:üĐộdàiítnhất6 kýtựvàkhôngvượtquá8 kýtự;üMỗikýtựlấytừtập[‘0’..’9’,’a’..’z’]❑Sửdụngquytắcnhânchứngminhrằngsốlượngtậpcon củamộttậphữuhạnS là2|S|❑Cóbao nhiêuđịachỉIPv4 trênIn tơnét?
+Cácnguyênlícơbảncủaphépđếm
+
+
+===== PAGE 9 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+❑Nguyênlýbùtrừ(Exclusive principle)Đểgiảiquyếtcáctrườnghợpbịtínhnhiềuhơn mộtlầnkhiđếmtheoQuytắccộng.Theo nguyênlýtậphợp: 𝐴∪𝐵=𝐴+𝐵−|𝐴∩𝐵|❑Vídụ: đếmsốlượngxâunhịphânđộdài8, bắtđầubằngbit 1 hoặckếtthúcbằnghaibit 00.128 (sốxâubắtđầubằng1) + 64 (sốxâukếtthúc00) –32 (sốxâubắtđầubằng1 vàkếtthúc00) = 160
+Cácnguyênlýcủaphépđếm
+
+===== PAGE 10 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Cácnguyênlýcủaphépđếm❑NguyênlýbùtrừTrongmộttrườngđạihọccó18 sinhviênngànhtoánvà325 sinhviênngànhtin học○Cóbao nhiêucáchchọnhaisinhviênlàmđạidiện, saochomộtlàsinhviêntoánvàmộtlàsinhviêntin học.○Cóbao nhiêucáchchọnmộtsinhviênlàmsinhviênđạidiệnTừ1 đến1000 cóbao nhiêusốchia hếtcho6 hoặcchia hếtcho9?Cóbao nhiêuxâubit cóđộdài8, bắtđầubằngbít1 hoặckếtthúcvới2 bít00?
+
+===== PAGE 11 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Cácnguyênlýcủaphépđếm❑TừNew York tớiDenver có6 hang hangkhôngvàcó7 hang bay từDeveltớiSan Francisco.  Cóbao nhiêukhảnăngkhácnhauđểbay từNew York đếnSan Francisco màcóqua Denver?❑Mộtphiếutrắcnghiệmgồm10 câuhỏi. Mỗicâuhỏicó4 phươngántrảlời.Cóbao nhiêucáchđiềnphiếutrắcnghiệmnàynếumọicâuhỏiđềuphảiđượctrảlời.Cóbao nhiêucáchđiềnphiếutrắcnghiệmnàynếucóthểbỏtrốngcáccâuhỏi.
+
+===== PAGE 12 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+❑Luật chia“Có n/d cách để thực hiện 1 tác vụ nếu nó có thể được thực hiện theo n cách, và với mỗi một cách w như vậy, có đúng d trong n cách tương ứng với w.”NếutậphữuhạnA làhợpcủan tậpcon đôimộtrờinhaucód phầntử, thìn = |A|/d.Nếuf làmộthàmtừA tớiB, vàvớimọiy ∈B cóđúngd giátrịx ∈A saochof (x)= y, thì|B| = |A|/d.❑Vídụ: Cóbao nhiêucáchkhácnhausắpxếp4 ngườingồiquanhmộtbàntròn?
+Cácnguyênlýcủaphépđếm
+
+===== PAGE 13 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+NguyênlýDirichlet (tổbồcâu)❑Định lý1: Nếucó𝑘+1(hoặc nhiềuhơn) đồvậtđượcđặtvàotrong𝑘hộpthìcóítnhấtmộthộpchứachứahaihoặcnhiềuhơnhaiđồvật.Vídụ: Mộttậpthểgồm367 người, nhưvậycóítnhất2 ngườitrùngngàysinh.❑Địnhlý2: Nếucó𝑘đồvậtđượcđặtvàotrong𝑏hộp, sẽtồntạimộthộpchứaítnhất!"vật.Vídụ: Trong100 ngườicóítnhất!""!#=9ngườicùngthángsinh.
+
+===== PAGE 14 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+❑Trong27 từtiếngAnh, phảicóítnhất2 từbắtđầubằngcùng1 chữcái.❑Cầnbao nhiêusinhviêntrongmộtlớpđểđảmbảorằngcóítnhất2 sinhviêncócùngđiểmsốkhithicuốikỳ, nếuđiểmđượcchấmtheothang 100?❑CMR vớimọisốnguyênn tồntạimộtbộicủan cóbiểudiễnthậpphânchỉtoàn0 và1.
+NguyênlýDirichlet (tổbồcâu)
+
+===== PAGE 15 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+NguyênlýDirichlet (tổbồcâu)❑Chứng tỏrằngtrong𝑛+1sốnguyêndươngđộimộtkhácnhaukhôngvượtquá2𝑛, luôntồntạihaisốnguyêntốcùngnhau.
+
+===== PAGE 16 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+NguyênlýDirichlet (tổbồcâu)❑Mộtphòngthínghiệmcó15 máytrạmvà10 máychủ. Mộtdâycápcóthểkếtnốitrựctiếpmộtmáytrạmtới1 máychủ. Vớimỗimáychủ, chỉmộtđườngkếtnốitrựctiếpđếnnócóthểđượckíchhoạttạimộtthờiđiểm. Tạimộtthờiđiểm, phảiđảmbảo<=10 máytrạmcóthểđồngthờitruycậpcácmáychủkhácnhauthôngqua cáckếtnốitrựctiếp. Cầntốithiểubao nhiêukếtnốitrựctiếpđểđảmbảođiềukiệntrên?
+
+===== PAGE 17 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+NguyênlýDirichlet (tổbồcâu)❑Chứng tỏrằngtrong𝑛+1sốnguyêndươngkhôngvượtquá2𝑛, luôntồntạihaisốchia hếtchonhau.❑Giải: Ta biểudiễn𝑎#=2!$∗𝑞#, trongđó𝑘#làsốnguyênkhôngâmcòn𝑞#làsốnguyêndươnglẻnhỏhơn2n.Vìchỉcón sốnguyêndươnglẻnhỏhơn2n nêntheonguyênlýDirichlet sẽtồntạihaitrongcácsốlẻ𝑞!, 𝑞#, …, 𝑞$%!bằngnhau. Giảsử2 sốđólà𝑞&=𝑞'(=𝑞), khiđóta có𝑎&=2(!∗𝑞,  𝑎'=2("∗𝑞chia hếtchonhau(đpcm)
+
+===== PAGE 18 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+NguyênlýDirichlet (tổbồcâu)❑Vídụ: Trong1 tháng30 ngày, mộtđộibóngchơiítnhất1 trận1 ngày, nhưngkhôngquá45 trận. CMR phảicómộtkhoảngliêntụccácngàytrongthángmàđộibóngchơiđúng14 trậnđấu.❑Địnhlý: Mọichuỗin2+ 1 cácsốthựckhácnhauchứamộtchuỗicon gồmn+1 sốtănghẳnhoặcgiảmhẳndần.
+
+===== PAGE 19 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+❑Giảsửcómộtnhómgồm6 ngườimàcứmỗihaingườithìđềucóhoặc2 bạnchunghoặc2 kẻthùchung. CMR cóhoặc3 bạnchunghoặc3 kẻthùchungtrongnhómnày.
+NguyênlýDirichlet (tổbồcâu)

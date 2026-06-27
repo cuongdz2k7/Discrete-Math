@@ -1,0 +1,58 @@
+===== PAGE 1 =====
+1 
+ 
+ ĐẠI HỌC QUỐC GIA HÀ NỘI ĐỀ CUỐI KỲ: Toán học rời rạc 
+TRƯỜNG ĐẠI HỌC CÔNG NGHỆ Học kỳ II, Năm học 2023-2024 
+ 
+Đề số 1 
+Thời gian làm bài: 90 phút 
+Đề thi gồm 02 trang. 
+ 
+Câu 1: 
+Cho đơn đồ thị G như ở hình bên: 
+a. Hãy tìm số đồ thị con là đồ thị đầy đủ trong G. 
+b. Đồ thị G có bao nhiêu cây khung? 
+ 
+ 
+Câu 2: 
+Có bao nhiêu đơn đồ thị có đúng 4 đỉnh, có chu trình 3 cạnh, và đôi một không đẳng 
+cấu với nhau? 
+ 
+Câu 3: 
+Cho các vị từ sau đây: 
+• E(x): x là đồ thị Euler; 
+• DE(x): mọi đỉnh của x có bậc chẵn; 
+• M(x): x có nhiều hơn hai đỉnh bậc lẻ;  
+• CE(x): x có chu trình Euler; 
+và 6 câu  
+[c1]  Nếu một đồ thị là đồ thị Euler thì mọi đỉnh đều có bậc chẵn. 
+[c2]  Tất cả đồ thị có nhiều hơn hai đỉnh bậc lẻ đều không phải là đồ thị Euler. 
+[c3]  Đồ thị G có nhiều hơn hai đỉnh bậc lẻ. 
+[c4]  Nếu một đồ thị là đồ thị Euler thì nó có chu trình Euler. 
+[c5]  Hoặc đồ thị G là đồ thị Euler hoặc G không có chu trình Euler. 
+[c6]  Đồ thị G không có chu trình Euler. 
+Giả sử rằng miền xác định của x là các đồ thị. Hãy: 
+a. Dùng các lượng từ, các liên từ logic cùng với các vị từ đã cho để diễn đạt các 
+câu [c1], …, c[6].  
+b. Cho biết [c6] có suy ra được từ những mệnh đề còn lại hay không? Chứng 
+minh bằng mô hình suy diễn. 
+ 
+Câu 4: 
+
+
+===== PAGE 2 =====
+2 
+ 
+a. Xây dựng automat không đơn định đoán nhận tập xâu 0*(101)*0*. 
+b. Xây dựng văn phạm chính quy sinh ngôn ngữ mà automat trên đoán nhận 
+được. 
+ 
+ 
+Câu 5: 
+a. Em hãy viết một thuật toán sử dụng mã giả để tìm cây khung nhỏ nhất của một 
+đồ thị có trọng số. 
+b. Áp dụng thuật toán ở câu a để tìm cây khung nhỏ nhất của đồ thị dưới đây. 
+ 
+ 
+ 
+-Hết-

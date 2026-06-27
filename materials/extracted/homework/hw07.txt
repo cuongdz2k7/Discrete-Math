@@ -1,0 +1,23 @@
+===== PAGE 1 =====
+Bài tập về nhà tuần 07
+Bộ môn Khoa học và Kỹ thuật tính toán (VNU-UET-FIT)
+2026-03-04
+Họ và tên: …………………………………………………… MSV: ………………………..
+Bài 1 (Rosen 6.3.2): Có bao nhiêu hoán vị khác nhau của tập hợp {a, b, c, d, e, f, g}.
+Bài 2 (Rosen 6.3.4): Cho 𝑆 = {1, 2, 3, 4, 5}.
+a) Liệt kê tất cả các hoán vị 3 phần tử của S.
+b) Liệt kê tất cả các tổ hợp 3 phần tử của S.
+Bài 3 (Rosen 6.3.6): Hãy tìm giá trị của mỗi đại lượng sau: a) 𝐶(5, 1) b) 𝐶(5, 3) c) 𝐶(8, 4)
+d) 𝐶(8, 8)
+Bài 4 (Rosen 6.3.8): Hỏi có bao nhiêu thứ tự khác nhau mà năm vận động viên có thể về
+đích trong một cuộc đua nếu không được phép hòa?
+Bài 5 (Rosen 6.3.20): Có bao nhiêu chuỗi bit có độ dài 10: a) Chứa đúng 3 bit 0. b) Chứa
+nhiều bit 0 hơn bit 1. c) Chứa ít nhất 7 bit 1. d) Chứa ít nhất 3 bit 1.
+Bài 6 (Rosen 6.4.4): Tìm hệ số của 𝑥5𝑦8 trong khai triển (𝑥 + 𝑦) 13.
+Bài 7 (Rosen 6.4.6): Tìm hệ số của 𝑥7 trong khai triển (1 + 𝑥)11.
+Bài 8 (Rosen 6.4.10): Sử dụng định lý nhị thức để khai triển (3𝑥 − 𝑦2)4 thành tổng các số
+hạng có dạng 𝑐𝑥𝑎𝑦𝑏, trong đó 𝑐 là số thực và 𝑎 và 𝑏 là các số nguyên không âm.
+Bài 9 (Rosen 6.4.8): Tìm hệ số của 𝑥8𝑦9 trong khai triển (3𝑥 + 2𝑦)17.
+Bài 10 (Rosen 6.4.12): Sử dụng định lý nhị thức để khai triển 𝑥𝑎𝑦𝑏 trong khai triển (5𝑥2 +
+2𝑦3)6 trong đó: a) 𝑎 = 6 và 𝑏 = 9. b) 𝑎 = 2 và 𝑏 = 15. c) 𝑎 = 3 và 𝑏 = 12. d) 𝑎 = 12 và 𝑏 = 0.
+1

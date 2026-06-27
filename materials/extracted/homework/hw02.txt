@@ -1,0 +1,78 @@
+===== PAGE 1 =====
+Bài tập về nhà tuần 02: Lô gích và Chứng minh (tiếp)
+Bộ môn Khoa học và Kỹ thuật tính toán (VNU-UET-FIT)
+2026-02-25
+Họ và tên: …………………………………………………… MSV: ………………………..
+PHẦN 1: Các quy tắc suy diễn (Section 1.6)
+Bài 1 (Rosen.1.6.3): Mỗi lập luận sau đây sử dụng quy tắc suy luận nào?
+a) Alice là sinh viên chuyên ngành Toán. Vì vậy, Alice là sinh viên chuyên ngành Toán hoặc
+chuyên ngành Khoa học máy tính.
+b) Jerry là sinh viên chuyên ngành Toán và Khoa học máy tính. Vì vậy, Jerry là sinh viên
+chuyên ngành Toán.
+c) Nếu trời mưa, hồ bơi sẽ bị đóng cửa. Trời đang mưa. Vì vậy, hồ bơi bị đóng cửa.
+d) Nếu có tuyết rơi hôm nay, trường đại học sẽ đóng cửa. Trường đại học không bị đóng cửa
+hôm nay. Vì vậy, không có tuyết rơi hôm nay.
+e) Nếu tôi đi bơi thì tôi sẽ ở ngoài nắng quá lâu. Nếu tôi ở ngoài nắng quá lâu thì tôi sẽ bị
+cháy nắng. Vì vậy, nếu tôi đi bơi thì tôi sẽ bị cháy nắng.
+Bài 2 (Rosen.1.6.4): Mỗi lập luận sau đây sử dụng quy tắc suy luận nào?
+a) Chuột túi sống ở Úc và là động vật có túi. Vì vậy, chuột túi là động vật có túi.
+b) Hôm nay nóng hơn 100 độ hoặc ô nhiễm là nguy hiểm. Hôm nay nhiệt độ thấp hơn 100
+độ. Vì vậy, ô nhiễm là nguy hiểm.
+c) Linda là một vận động viên bơi xuất sắc. Nếu Linda là một vận động viên bơi xuất sắc
+thì cô ấy có thể làm nhân viên cứu hộ. Vì vậy, Linda có thể làm nhân viên cứu hộ.
+d) Steve sẽ làm việc tại một công ty máy tính vào mùa hè này. Vì vậy, mùa hè này Steve sẽ
+làm việc ở một công ty máy tính hoặc anh ấy sẽ là một kẻ vô công rồi nghề.
+e) Nếu tôi làm bài tập về nhà này suốt đêm thì tôi có thể giải hết tất cả bài tập. Nếu tôi
+giải hết tất cả bài tập thì tôi sẽ hiểu được tài liệu. Vì vậy, nếu tôi làm bài tập về nhà này
+suốt đêm thì tôi có thể hiểu được tài liệu.
+Bài 3 (Rosen.1.6.6): Sử dụng các quy tắc suy luận để chứng minh các giả thuyết:
+“Nếu trời không mưa hoặc nếu trời không có sương mù, thì cuộc đua thuyền buồm sẽ được tổ
+chức và cuộc trình diễn cứu hộ sẽ diễn ra. ”
+“Nếu cuộc đua thuyền buồm được tổ chức, thì cúp sẽ được trao. ”
+“Cúp không được trao. ”
+Dẫn tới kết luận “Trời đã mưa. ”
+1
+
+===== PAGE 2 =====
+Bài 4 (Rosen.1.6.9a,b,c; Rosen.1.6.10a,b): Với mỗi nhóm giả thiết dưới đây, hãy xác định
+kết luận (hoặc các kết luận) phù hợp có thể suy ra, và trình bày rõ các quy tắc suy luận được
+áp dụng để rút ra từng kết luận từ các giả thiết đó.
+a) “Nếu tôi nghỉ một ngày thì trời mưa hoặc có tuyết rơi. ” “Tôi nghỉ ngày thứ 3 hoặc thứ
+5. ” “Trời nắng vào thứ 3. ” “Không có tuyết rơi vào thứ 5. ”
+b) “Nếu tôi ăn đồ ăn cay thì tôi có những giấc mơ kì lạ. ” “Tôi có những giấc mơ kì lạ nếu
+có sấm trong lúc tôi ngủ. ” “Tôi không có những giấc mơ kì lạ. ”
+c) “Tôi thông minh hoặc may mắn. ” “Tôi không may mắn. ” “Nếu tôi may mắn thì tôi sẽ
+trúng xổ số. ”
+d) “Nếu tôi chơi khúc gôn cầu thì hôm sau tôi sẽ bị đau nhức. ” “Tôi sử dụng bồn tắm sục
+nếu tôi bị đau nhức. ” “Tôi đã không dùng bồn tắm sục. ”
+e) “Nếu tôi đi làm thì trời nắng hoặc nhiều mây. ” “Tôi đi làm thứ 2 hoặc thứ 6 tuần trước. ”
+“Trời không nắng vào thứ 3. ” “Trời không nhiều mây vào thứ 6. ”
+PHẦN 2: Giới thiệu về chứng minh (Section 1.7)
+Bài 5 (Rosen.1.7.5): Chứng minh rằng nếu 𝑚 + 𝑛 và 𝑛 + 𝑝 là số nguyên chẵn, với m, n và p
+là các số nguyên thì 𝑚 + 𝑝 là số chẵn. Bạn đã sử dụng loại chứng minh nào?
+Bài 6 (Rosen.1.7.6): Hãy sử dụng phương pháp chứng minh trực tiếp để chỉ ra rằng tích của
+hai số lẻ là một số lẻ.
+Bài 7 (Rosen.1.7.8): Hãy chứng minh nếu n là một số chính phương thì 𝑛 + 2 không phải là
+số chính phương.
+Bài 8 (Rosen.1.7.16): Hãy chứng minh rằng nếu x, y và z là các số nguyên và 𝑥 + 𝑦 + 𝑧 là
+số lẻ thì ít nhất một trong ba số x, y, z là số lẻ.
+Bài 9 (Rosen.1.7.17): Sử dụng cách chứng minh bằng cách chứng minh gián tiếp để chứng
+minh nằng nếu 𝑥 + 𝑦 ≥ 2 với x và y là các số thực thì 𝑥 ≥ 1 hoặc 𝑦 ≥ 1 .
+Bài 10 (Rosen.1.7.19): Chứng minh rằng nếu n là một số nguyên và 𝑛3 + 5 là số lẻ thì n là
+số chẵn, sử dụng:
+a) Phương pháp chứng minh gián tiếp
+b) Phương pháp chứng minh bằng phản chứng
+Bài 11 (Rosen.1.7.21): Chứng minh mệnh để P(0) với P(n) là mệnh đề “Nếu n là một số
+nguyên dương lớn hơn 1 thì 𝑛2 > 𝑛. ” Bạn đã sử dụng loại chứng minh nào?
+Bài 12 (Rosen.1.7.22): Chứng minh mệnh để P(1) với P(n) là mệnh đề “Nếu n là một số
+nguyên dương lớn hơn 1 thì 𝑛2 ≥ 𝑛. ” Bạn đã sử dụng loại chứng minh nào?
+PHẦN 3: Các phương pháp chứng minh (Section 1.8)
+Bài 13 (Rosen.1.8.2): Sử dụng phương pháp chứng minh bằng các trường hợp để chứng
+minh rằng 100 không phải lập phương của một số nguyên dương. (Gợi ý: Xét 2 trường hợp:
+1 ≤ 𝑥 ≤ 3 và 𝑥 ≥ 4 )
+2
+
+===== PAGE 3 =====
+Bài 14 (Rosen.1.8.4): Chứng minh không tồn tại số lập phương dương nào nhỏ hơn 1000 mà
+có thể được biểu diễn dưới dạng tổng của hai số lập phương dương.
+3

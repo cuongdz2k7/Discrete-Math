@@ -1,0 +1,152 @@
+===== PAGE 1 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Toánrờirạc
+VănphạmvàNgônngữhìnhthức
+
+===== PAGE 2 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+NgônngữvàvănphạmqNgônngữtựnhiên(Natural language)¨Cúpháp(syntax) vàngữnghĩa(semantic)¡“Colorless green ideas sleep furiously” -N. Chomsky, 1957¨RấtphứctạpqNgônngữhìnhthức(Formal language)¨Cómộttậphoàntoànxácđịnhcácquytắccúpháp¡Làmthếnàođểxácđịnhmộttổhợptừcólàmộtcâuhợplệtrongmộtngônngữhìnhthứchaykhông?¡Làmthếnàođểsinhracáccâuhợplệtrongmộtngônngữhìnhthức?
+
+===== PAGE 3 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+NgônngữvàVănphạm1.Mộtcâuđượctạobởimộtcụm_danh_từtheosaulàmộtcụm_động_từ;2.Mộtcụm_danh_từđượctạobởimộtmạo_từtheosaulàmộttính_từtheosaulàmộtdanh_từ,hoặc3.Mộtcụm_danh_từđượctạobởimộtmạo_từtheosaulàmộtdanh_từ;4.Mộtcụm_động_từđượctạobởimộtđộng_từtheosaulàmộttrạng_từ,hoặc5.Mộtcụm_động_từđượctạobởimộtđộng_từ;6.Mộtmạo_từlà“a”,hoặc7.Mộtmạo_từlà“the”;8.Mộttính_từlà“large”,hoặc9.Mộttính_từlà“hungry”;10.Mộtdanh_từlà“rabbit”,hoặc11.Mộtdanh_từlà“mathematician”;12.Mộtđộng_từlà“eats”,hoặc13.Mộtđộng_từlà“hops”;14.Mộttrạng_từlà“quickly”,hoặc15.Mộttrạng_từlà“wildly”.
+
+===== PAGE 4 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+NgônngữvàVănphạmcâucụm_danh_từcụm_động_từmạo_từtính_từdanh_từcụm_động_từmạo_từtính_từdanh_từđộng_từtrạng_từthetính_từdanh_từđộng_từtrạng_từthe largedanh_từđộng_từtrạng_từthe large rabbitđộng_từtrạng_từthe large rabbit hopstrạng_từthe large rabbit hops quickly
+
+===== PAGE 5 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+VănphạmcấutrúcđoạnMộttừvựng(vocabulary)𝑉làmộttậphữuhạn,khôngrỗngcủacácphầntửgọilàcáckýhiệu(symbol).Mộttừ(word)trên𝑉làmộtxâuhữuhạncácphầntửcủa𝑉.Xâurỗng(emptystring)đượckýhiệulà𝜆,làxâukhôngchứamộtkýhiệunào.Tậptấtcảcáctừtrên𝑉đượckýhiệulà𝑉∗.Mộtngônngữ(language)trên𝑉làtậpconcủa𝑉∗.qKýhiệukếtthúc(terminal)¨LàmộtphầntửcủatừvựngkhôngthểthaythếbằngcáckýhiệukhácqKýhiệuxuấtphát(startsymbol–S)¨LàphầntửcủangữvựngmàtaluônbắtđầutừnóqLuậtsinh(production)củavănphạm(grammar)¨Cácquytắcchỉrõkhinàotacóthểthaythếmộtxâutrong𝑉∗bởimộtxâukhác
+
+===== PAGE 6 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+VănphạmcấutrúcđoạnMộtvănphạmcấutrúcđoạn(phrase-structuregrammar)𝐺=𝑉,𝑇,𝑆,𝑃gồmmộttừvựng𝑉,mộttậpcon𝑇của𝑉gồmcácphầntửkếtthúc,mộtkýhiệuxuấtphát𝑆vàtậpcácluậtsinh𝑃.Tập𝑉−𝑇đượckýhiệulà𝑁.Cácphầntửthuộc𝑁đượcgọilàcáckýhiệukhôngkếtthúc(nonterminal).Mỗiluậtsinhtrong𝑃cầnphảichứaítnhấtmộtkýhiệukhôngkếtthúcởvếtráicủanó.qVídụ:Cho𝐺=𝑉,𝑇,𝑆,𝑃,trongđó𝑉={𝑎,𝑏,𝐴,𝐵,𝑆},𝑇={𝑎,𝑏},𝑆làkýhiệuxuấtphátvàtậpcácluậtsinh𝑃={𝑆⇒𝐴𝐵𝑎,𝐴→𝐵𝐵,𝐵→𝑎𝑏,𝐴𝐵→𝐵}.q𝐺làmộtvídụvềvănphạmcấutrúccâu.
+
+===== PAGE 7 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+VănphạmcấutrúccâuCho𝐺=𝑉,𝑇,𝑆,𝑃làmộtvănphạmcấutrúccâu.Cho𝑤!=𝐼𝑧!𝑟(tứclàphépghépcủa𝐼,𝑧!và𝑟)và𝑤"=𝐼𝑧"𝑟làcácxâutrên𝑉.Nếu𝑧!→𝑧"làmộtluậtsinhcủa𝐺,thìtanóirằng𝑤"đượcdẫnxuấttrựctiếp(directlyderivable)từ𝑤!vàviết𝑤!⇒𝑤".Nếu𝑤!,𝑤",…𝑤#với𝑛≥0làcácxâutrên𝑉saocho𝑤!⇒𝑤",𝑤"⇒𝑤$,…,𝑤#%"⇒𝑤#,thìtanóirằng𝑤#đượcdẫnxuấttừ𝑤!vàviết𝑤!⇒∗𝑤#.Dãycácbướcđượcdùngđểnhậnđược𝑤#từ𝑤!đượcgọilàmộtdẫnxuất.
+qXâu Aaba là dẫn xuất trực tiếp từ Aba trong văn phạm G ở ví dụ trướcqXâu abababa là dẫn xuất từ ABa
+
+===== PAGE 8 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+VănphạmcấutrúccâuCho𝐺=𝑉,𝑇,𝑆,𝑃làmộtvănphạmcấutrúccâu.Ngônngữđượcsinhbởivănphạm𝐺(hayngônngữcủa𝐺),đượckýhiệulà𝐿𝐺,làtậphợptấtcảcácxâukýhiệukếtthúcđượcdẫnxuấttừkýhiệuxuấtphát𝑆.Nóicáckhác,𝐿𝐺=𝑤∈𝑇∗𝑆⇒∗𝑤}
+
+===== PAGE 9 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+VănphạmcấutrúccâuqVídụ:Cho𝐺làvănphạmvớitừvựng𝑉={𝑆,𝐴,𝑎,𝑏},tậpcákýhiệukếtthúcT={a,b},kýhiệubắtđầu𝑆vàtậpcácluậtsinh𝑃=𝑆→𝑎𝐴,𝑆→𝑏,𝐴→𝑎𝑎.Xácđịnhngônngữ𝐿(𝐺)củavănphạmđó.qLờigiải:Từkýhiệuxuấtphát𝑆tacóthểdẫnra𝑎𝐴hoặc𝑏bằngcácdùnghailuậtsinh𝑆→𝑎𝐴hoặc𝑆→𝑏tươngứng.Từ𝑎𝐴cóthểdẫnxuấtra𝑎𝑎𝑎.Ngoàira,khôngthểthêmmộttừnàonữa.Dođó𝐿𝐺=𝑏,𝑎𝑎𝑎
+
+===== PAGE 10 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+VănphạmcấutrúccâuqChoGlàmộtvănphạmvớiV={S,A,a,b},T={a,b}vàcácluậtsinhP={S→aA,S→b,A→aa}.NgônngữL(G)củavănphạmnàylàgì?qĐápán:S→aA.SửdụngluậtA→aađểsinhaaa.Ngoàira,cóthểsinhtheoluậtS→b.¨DovậyL(G)={b,aaa}
+
+===== PAGE 11 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+VănphạmcấutrúccâuqChoGlàmộtvănphạmvớiV={S,0,1},T={0,1}vàcácluậtsinhP={S→11S,S→0}.NgônngữL(G)củavănphạmnàylàgì?qĐápán:TừScóthểsinhra0bằngS→0,hoặc11SbằngS→11S.Từ11Scóthểsinh110hoặc1111S.Từ1111Scóthểsinh11110and111111S.Tạibấtkỳbướcnàochúngtađềucóthểhoặcthêmhaisố1vàocuốixâuhoặcthêmmộtsố0vàocuốixâuđểdừngquátrìnhsinh.¨L(G)={0,110,11110,1111110,...}¡Tậptấtcảcácxâubắtđầuvớimộtsốlẻsố1vàkếtthúcbằngmộtsố0.
+
+===== PAGE 12 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+VănphạmcấutrúccâuqTìmvănphạmcấutrúccâusinhratập{0n1n|n=0,1,2,...}.qĐápán:G=(V,T,S,P),V={0,1,S},T={0,1},P={S→0S1,S→λ}¨Luậtđầuliêntạoracácxâudàihơnbằngcáchthêmmộtsố0vàođầuxâuvàmộtsố1vàocuối.¨LuậtthứhaithaySbằngxâurỗng.
+
+===== PAGE 13 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+VănphạmcấutrúccâuqTìmvănphạmcấutrúccâusinhratập{0m1n|m,n=0,1,2,...}.qĐápán:¨G1vớiV={S,0,1};T={0,1};P={S→0S,S→S1,vàS→λ}¨G2vớiV={S,A,0,1};T={0,1};P={S→0S,S→1A,S→1,A→1A,A→1,vàS→λ}
+
+===== PAGE 14 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+VănphạmcấutrúccâuqVănphạmG=(V,T,S,P),vớiV={0,1,2,S,A,B,C};T={0,1,2};P={S→C,C→0CAB,S→λ,BA→AB,0A→01,1A→11,1B→12,và2B→22}sinhrangônngữgì?qĐápán:L(G)={0n1n2n|n=0,1,2,3,...}
+
+===== PAGE 15 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+qTìmmộtvănphạmcấutrúccâuchomỗimộtngônngữsau:¨Tậpxâubit 10, 01 và101¨Tậpxâubit bắtđầubằng00 vàkếtthúcbởinhiềuhơnmộtbít1¨Tậpxâubit chứamộtsốchẵnbít1 vàkếtthúcbởimộtbit 0¨Tậpxâubit chứahoặchaibit 0 liêntụchoặchaibit 1 liêntụcqCho V = {S, A, B, a, b} vàT = {a, b}. Tìmngônngữđượcsinhrabởivănphạm(V , T , S, P ) khitậpluậtsinhP bao gồm? ¨S → AB, A → ab, B → bb.¨S → AB, S → aA, A → a, B → ba.¨S → AB, S → AA, A → aB, A → ab, B → b.¨S → AA, S → B, A → aaA, A → aa, B → bB, B → b.¨S → AB, A → aAb, B → bBa, A → λ, B → λ.
+Thựchànhvănphạmcấutrúccâu
+
+===== PAGE 16 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+qXâydựngcácvănphạmcấutrúccâuđểsinhcáctậpsau¨{1n| n ≥ 0} ¨{10n| n ≥ 0}¨{(11)n| n ≥ 0}
+Thựchànhvănphạmcấutrúccâu
+
+===== PAGE 17 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+CácloạivănphạmcấutrúcđoạnqCácloạivănphạmcấutrúcđoạn¨Dựatheocácloạiluậtsinh¡Loại0:khôngcócáchạnchếđốivớicácluậtsinhcủachúng¡Loại1:cácluậtsinhcódạng𝑙𝐴𝑟→𝑙𝑤𝑟²Với𝐴làkýhiệukhôngkếtthúc;𝑙và𝑟làcácxâukhônghoặcnhiềukýhiệukếtthúchoặckhôngkếtthúc;và𝑤làmộtxâukhôngrỗngcủacáckýtựkếtthúchoặckhôngkếtthúc.²Luậtsinh𝑆→𝜆cũngnhư𝑆khôngxuấthiệntrongvéphảicủabấtkỳluậtsinhnàokhác.²Vănphạmcảmngữcảnh
+
+===== PAGE 18 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+CácloạivănphạmcấutrúcđoạnqCácloạivănphạmcấutrúcđoạn¨Dựatheocácloạiluậtsinh¡Loại2:cácluậtsinhchỉcódạng𝑤!→𝑤"²𝑤"làkýhiệuđơnkhôngphảikýhiệukếtthúc²Vănphạmphingữcảnh¡Loại3:cácluậtsinhchỉcódạng𝑤!→𝑤"²Vớiw"=𝐴và𝑤#=𝑎𝐵hoặc𝑤#=𝑎,trongđó𝐴và𝐵làcáckýhiệukhôngkếtthúcvà𝑎làkýhiệukếtthúc,hoặcvới𝑤"=𝑆và𝑤#=𝜆.²Vănphạmchínhquy
+
+===== PAGE 19 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+CácloạivănphạmcấutrúcđoạnqLuậtsinhkhôngràngbuộc(noncontracting)¨Dạng𝑤!→𝑤"vớiđộdàicủa𝑤!nhỏhơnhoặcbằngđộdàicủa𝑤"¨Vănphạmkhôngràngbuộc(noncontracting)hoặcvănphạmđơnđiệu(monotonic)BẢNG1.CÁCLOẠIVĂNPHẠMLoạiNhữnghạnchếđốivớicácluậtsinh𝑤"→𝑤#0Khôngcóhạnchếnào1w"=𝑙𝐴𝑟vàw#=𝑙𝑤𝑟,trongđó𝐴∈𝑁,𝑙,𝑟,𝑤∈𝑁∪𝑇∗và𝑤≠𝜆;hoặc𝑤"=𝑆và𝑤#=𝜆cũngnhư𝑆khôngxuấthiệntrongvếphảicủabấtkỳluậtsinhnàokhác2𝑤"=𝐴,trongđó𝐴làkýhiệukhôngkếtthúc3𝑤"=𝐴và𝑤#=𝑎𝐵hoặc𝑤#=𝑎,trongđó𝐴∈𝑁,𝐵∈𝑁,và𝑎∈𝑇;hoặc𝑤"=𝑆và𝑤#=𝜆
+
+===== PAGE 20 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+q{0m1n| m, n = 0, 1, 2, . . .} làmộtngônngữchínhquy¨Vìđượcsinhrabởimộtvănphạmchínhquy.q{0n1n| n = 0, 1, 2, . . .} làmộtngônngữphi ngữcảnh¨S → 0S1 vàS → λq{0n1n2n| n = 0, 1, 2, . . . } làmộtngônngữcóngữcảnh¨Đượcsinhbởivănphạmloại1
+VídụCácloạivănphạmcấutrúcđoạn
+
+===== PAGE 21 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+qCho V = {S, A, B, a, b} vàT = {a, b}. HỏiG= (V , T , S, P ) cóphảilàmộtvănphạmloại0 nhưngkhôngphảiloại1, mộtloại1 nhưngkhôngphảiloại2, hay làmộtloại2 nhưngkhôngphảiloại3 hay khôngnếutậpluậtP làcáctậpsau:¨S → aAB, A → Bb, B → λ.¨S → aA, A → a, A → b.¨S → ABa, AB → a.¨S → ABA, A → aB, B → ab.¨S → bA, A → B, B → a.¨S → aA, aA→ B, B → aA, A → b.¨S → bA, A → b, S → λ.¨S → AB, B → aAb, aAb→ b.¨S → aA, A → bB, B → b, B → λ.¨S → A, A → B, B → λ
+ThựchànhCácloạivănphạm
+
+===== PAGE 22 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+CâydẫnxuấtqCâydẫnxuất(derivationtree),hoặccâyphântíchcúpháp(syntaxparsingtree)¨Biểudiễnmộtdẫnxuấttrongngônngữđượcsinhbởimộtvănphạmphingữcảnh¡Gốc:kýhiệuxuấtphát.¡Cácđỉnhtrong:cáckýhiệukhôngkếtthúcxuấthiệntrongdẫnxuất.¡Cáclá:cáckýhiệukếtthúc.
+
+===== PAGE 23 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Câydẫnxuấtcâu
+cụm_danh_từcụm_động_từ
+mạo_từtính_từdanh_từđộng_từtrạng_từ
+thehungryrabbiteatsquickly
+HÌNH 1. CÂY  DẪN XUẤT
+
+===== PAGE 24 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Cây dẫn xuấtqTừcbabcóthuộcngônngữđượcsinhbởivănphạmG= (V , T , S, P ), vớiV = {a, b, c, A, B, C, S}, T = {a, b, c}, vàtậpluậtsinhnhưsaukhông?¨S → AB¨A → Ca¨B → Ba¨B → Cb¨B → b¨C → cb¨C → b.
+
+===== PAGE 25 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Thực hành Cây dẫn xuấtqCho G làvănphạmvớiV = {a, b, c, S}; T={a, b, c}; vàcácluậtsinhP = {S → abS, S → bcS, S → bbS, S → a, vàS → cb}. Xâydựngcáccâydẫnxuấtchocácxâusau:¨bcbba¨bbbcbba.¨bcabbbbbcb.
+
+===== PAGE 26 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+DạngBackus –NaurqĐượcđặttheotêncủaJohnBackus–ngườiphátminhranó–vàPeterNaurngườiđãcảitiếnnóđểdùngđặctảngônngữlậptrìnhALGOL.¨Đángngạcnhiênlà,kýhiệutươngtựđãđượcsửdụngkhoảng2500nămtrướcđểmôtảngữphápcủatiếngPhạn.qĐôikhiđượcsửdụngđểxácđịnhvănphạmloại2qĐượcsửdụngđểxácđịnhcácquytắccúphápcủamộtsốngônngữmáytính,baogồmJava.
+
+===== PAGE 27 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+DạngBackus –NaurqLuậtsinhcủavănphạmloại2¨Gộptấtcảcácluậtsinhcócùngkýhiệukhôngkếtthúcởvếtráithànhmộtmệnhđề.¨Sửdụngkýhiệu∷=¨Đưatấtcảcáckýhiệukhôngkếtthúcvàotrongdấungoặc,¨Liệtkêtấtcảvếphảicủacácluậtsinhtrongmộtmệnhđề,ngăncáchgiữachúngbởimộtgạchđứngVídụ:luậtsinh𝑨→𝑨𝒂,𝑨→𝒂,và𝑨→𝑨𝑩cóthểkếthợpthành𝑨∷=𝑨𝐚|𝐚|𝑨𝑩
+
+===== PAGE 28 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+qVí dụ:¨⟨sentence⟩::= ⟨noun phrase⟩⟨verb phrase⟩¨⟨noun phrase⟩::= ⟨article⟩⟨adjective⟩⟨noun⟩| ⟨article⟩⟨noun⟩¨⟨verb phrase⟩::= ⟨verb⟩⟨adverb⟩| ⟨verb⟩¨⟨article⟩::= a | the¨⟨adjective⟩::= large | hungry¨⟨noun⟩::= rabbit | mathematician¨⟨verb⟩::= eats | hops¨⟨adverb⟩::= quickly | wildly
+DạngBackus –Naur
+
+===== PAGE 29 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+qVídụ: TìmbiểudiễndạngBackus–Naurchocácsốnguyêncódấutrongbiểudiễnthậpphân.qĐápán:¨⟨signed integer⟩::= ⟨sign⟩⟨integer⟩¨⟨sign⟩::= + |−¨⟨integer⟩::= ⟨digit⟩| ⟨digit⟩⟨integer⟩¨⟨digit⟩::= 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9
+DạngBackus –Naur
+
+===== PAGE 30 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+qa) Explain what the productions are in a grammar if theqBackus–Naurform for productions is as follows:q⟨expression⟩::= (⟨expression⟩) |q⟨expression⟩+ ⟨expression⟩|q⟨expression⟩∗⟨expression⟩|q⟨variable⟩q⟨variable⟩::= x | yqb) Find a derivation tree for (x ∗y) + x in this grammar.
+ThựchànhDạngBackus –Naur
+
+===== PAGE 31 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+qXâydựngmộtvănphạmcấutrúccâuchotậpcácsốthậpphândướidạnga/b, trongđóa làmộtsốnguyêncódấutrongbiểudiễnthậpphânvàb làsốnguyêndương.¨BiểudiễndạngBackus–Naurchovănphạmnàylàgì?¨Xâydựngcâydẫnxuấtcho+311/17
+ThựchànhDạngBackus –Naur
+
+===== PAGE 32 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+qXâydựngcácluậtsinhtrongdạngBackus–Naurchotênmộtngườibao gồmmộttêngọilàmộtxâucácchữcáivớichỉchữcáiđầuđượcviếthoa, mộtkýtựtênđệmvàmộttênhọlàbấtkỳmộtxâukýtựnào.
+ThựchànhDạngBackus –Naur
+
+===== PAGE 33 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+qXâydựngcácluậtsinhdướidạngBackus–Naurmôtảcácbiểuthứchậutố(kýphápBa Lan ngược).qMỗixâudướiđâycóđượcsinhbởivănphạmvừaxâydựngđượcởtrênhay không? Nếucó, hãyviếtcácbướcđểsinhxâu¨abc∗+ ¨xy++¨xy−z∗¨wxyz−∗/¨ade−∗
+ThựchànhDạngBackus –Naur
+
+===== PAGE 34 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+qSửdụngdạngBackus–Naurđểmôtảcácbiểuthứctrungtố, trongđótậpcáctoántửvàtoánhạnggiốngvớitrongbiểudiễnhậutốởbàitậptrước, nhưngcóthêmcácdấungoặcbao quanhcácbiểuthức.
+ThựchànhDạngBackus –Naur

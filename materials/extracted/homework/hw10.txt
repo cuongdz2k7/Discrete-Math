@@ -1,0 +1,36 @@
+===== PAGE 1 =====
+Bài tập Lý thuyết Đồ thị 2
+Bài 1 (Rosen.8th.10-6.3): Hãy tìm độ dài của đường đi ngắn nhất giữa hai đỉnh 𝑎 và 𝑧
+trong đồ thị có trọng số đã cho.
+Bài 2 (Rosen.8th.10-6.6): Tìm độ dài của đường đi ngắn nhất giữa các cặp đỉnh sau đây
+trong đồ thị có trọng số ở Bài 1 ở trên:
+a. 𝑐 và 𝑓
+b. 𝑏 và 𝑧
+Bài 3: Sử dụng thuật toán Floyd (Floyd-Warshall) để tìm khoảng cách giữa tất cả các cặp
+đỉnh trong đồ thị có trọng số đã cho:
+Bài 4 (Rosen.8th.10-7.4): Hãy vẽ đồ thị phẳng đã cho sao cho không có các cạnh nào cắt
+nhau.
+1
+
+===== PAGE 2 =====
+Bài 5 (Rosen.8th.10-7.16): Giả sử một đơn đồ thị phẳng, liên thông và phân đôi có 𝑒 cạnh
+và 𝑣 đỉnh. Hãy chứng minh rằng nếu 𝑣 ≥ 3 thì:
+𝑒 ≤ 2𝑣 − 4
+Bài 6 (Rosen.8th.10-7.24): Sử dụng định lý Kuratowski để xác định xem đồ thị đã cho có
+phải là đồ thị phẳng hay không.
+Bài 7 (Rosen.8th.10-8.6): Hãy tìm sắc số (chromatic number) của đồ thị đã cho.
+Bài 8 (Rosen.8th.10-8.10): Hãy tìm sắc số (chromatic number) của đồ thị đã cho.
+2
+
+===== PAGE 3 =====
+Bài 9 (Rosen.8th.10-8.15): Sắc số (chromatic number) của đồ thị bánh xe 𝑊𝑛 là bao
+nhiêu?
+Bài 10 (Rosen.8th.10-8.16): Chứng minh rằng một đơn đồ thị có chứa một chu trình với số
+đỉnh lẻ thì không thể được tô màu bằng hai màu.
+Bài 11 (Rosen.8th.10-8.19): Khoa Toán có 6 ủy ban, mỗi ủy ban họp một lần mỗi
+tháng. Cần ít nhất bao nhiêu khung giờ họp khác nhau để đảm bảo không có thành viên
+nào bị trùng lịch họp (không phải tham gia hai cuộc họp cùng một lúc), biết danh sách
+các ủy ban như sau: 𝐶1 = { Arlinghaus, Brand, Zaslavsky }𝐶2 = { Brand, Lee, Rosen }𝐶3 =
+{Arlinghaus, Rosen, Zaslavsky }𝐶4 = {Lee, Rosen, Zaslavsky }𝐶5 = {Arlinghaus, Brand }𝐶6 =
+{Brand, Rosen, Zaslavsky }.
+3

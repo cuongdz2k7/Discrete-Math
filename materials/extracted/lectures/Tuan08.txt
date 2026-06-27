@@ -1,0 +1,130 @@
+===== PAGE 1 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Toán rời rạc
+Đếmnângcao
+
+===== PAGE 2 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+❑Vídụ: BàitoánnuôithỏCác con thỏ không bao giờ chếtHai tháng sau khi ra đời, mỗi cặp thỏ mới sẽ sinh ra một cặp thỏ con (một đực, một cái)Khi đã sinh con rồi thì cứ mỗi tháng tiếp theo chúng lại sinh được một cặp con mới❑Giả sử từ đầu tháng 1 có một cặp mới ra đời thì đến tháng thứ n sẽ có bao nhiêu cặp.
+Kĩthuậttruyhồi
+
+===== PAGE 3 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Gọi 𝑓(𝑛)làsốthỏở thángthứ𝑛Tháng1: Có1 cặp𝑓1=1Tháng2: Có1 cặp𝑓2=1𝑓𝑛=𝑎𝑓𝑛+1=𝑏(có𝑏−𝑎cặpmớisinh)𝑓𝑛+2=𝑏+𝑎=𝑓𝑛+1+𝑓(𝑛)
+Kĩthuậttruyhồi
+
+===== PAGE 4 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+❑Vídụ: Bàitoánnuôithỏ2Các con thỏ không bao giờ chếtBatháng sau khi ra đời, mỗi cặp thỏ mới sẽ sinh ra một cặp thỏ con (một đực, một cái)Khi đã sinh con rồi thì cứ mỗi tháng tiếp theo chúng lại sinh được một cặp con mới❑Giả sử từ đầu tháng 1 có một cặp mới ra đời thì đến tháng thứ n sẽ có bao nhiêu cặp.
+Kĩthuậttruyhồi
+
+===== PAGE 5 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+❑BàitoánthápHàNộiBắtđầu, cácđĩađượcchồnglênnhauở cọcA, đĩanhỏnằmtrênđĩalớn. YêucầuchuyểntoànbộsốđĩatừcọcA sang cọcC, tuântheocácquytắcsau:○Chỉsửdụngthêm1 cọcB đểchuyển;○Mộtlầnchỉđượcdi chuyểnmộtđĩanằmtrêncùngtừcọcnàysang cọckhác;○Mộtđĩachỉđượcđặtlênmộtđĩalớnhơn.
+Kĩthuậttruyhồi
+
+===== PAGE 6 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+❑BàitoánthápHàNộiCáchchuyểnn đĩatừcọcA sang C dướiđâylàtốiưu?○Chuyển(n-1,A,B)○Chuyển(1,A,C)○Chuyển(n-1,B,A)Tínhsốlầnchuyểnđĩa?○𝑓1=1;○𝑓2=3;○𝑓𝑛=𝑓𝑛−1+1+𝑓𝑛−1=2!−1
+Kĩthuậttruyhồi
+
+===== PAGE 7 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+❑Ví dụ: BàitoánđếmsốlượngxâunhịphânĐếmsốlượngxâunhịphânkhôngcóhaibit 1 nàođứngcạnhnhau𝑛=1có2 xâuthỏamãn0, 1𝑛=2có3 xâuthỏamãn00, 01, 10𝑛=3có5 xâu000, 001, 010, 100, 101𝑛=5cóbaonhiêuxâuthỏamãn?
+Kĩthuậttruyhồi
+
+===== PAGE 8 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+❑Mộthệthốngmáytínhxemmộtxâucácchữsốhệthậpphânlàmộttừmãhợplệnếunóchứamộtsốchẵnsố0. Vídụ, 1230407869 làhợplệ, trongkhi120987045608 thìkhông. Gọianlàsốtừmãhợplệcón chữsố. Hãytìmquyluậttruyhồian.
+Kĩthuậttruyhồi
+
+===== PAGE 9 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+❑TìmquyluậttruyhồichoCn, làsốcáchđặtdấungoặc(tròn) đểxácđịnhthứtựthựchiệncácphépnhânchotíchn + 1 số, x0· x1· x2· · · · · xn. Vídụ, C3= 5 vìcó5 cáchđặtdấungoặcchox0· x1· x2· x3là:((x0· x1)· x2)· x3x0· ((x1· x2)· x3)(x0· (x1· x2))· x3x0· (x1· (x2· x3))(x0· x1)· (x2· x3)
+Kĩthuậttruyhồi
+
+===== PAGE 10 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Kĩthuậttruyhồi❑Kĩthuậttruyhồicòndùngđểđánhgiáđộphứctạpthuậttoánchia đểtrị.❑Thuậttoánchia đểtrị(devide& conquer)chia bàitoánthànhcácbàitoáncon cùngdạng(none overlapping) nhỏhơn.❑Thuậttoánquyhoạchđộng(dynamic algorithm)Chia bàitoánthànhcácbàitoáncon cùngdạng(overlapping) nhỏhơn. Dùngbảnglưutrữlạiphươngáncácbàitoáncon, tránhđượcviệcphảigiảilạibàitoáncon khigặplại.
+
+===== PAGE 11 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Thuậttoánchia đểtrịTính 𝑨𝑵❑CáchtínhØTính𝐵=𝐴!"Ø𝐶=𝐵×𝐵×𝐴!%#
+❑ĐộphứctạpØ𝑓𝑛=𝑓$#+1Ø𝑂(𝑙𝑜𝑔𝑛)
+
+===== PAGE 12 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+❑BàitoánlátgạchMộtsànnhàkíchthước2!×2!khuyết1 ô. Hãy lát sàn nhà bằng 4 loại gạch hình thước thợ.
+Thuậttoánchia đểtrị
+
+===== PAGE 13 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Thuậttoánquyhoạchđộng❑Ví dụ: tròchơilòcòNgườichơicầnvượtqua mộtđoạnđườngdàinmétMỗibước, ngườichơicóbacáchnhảyvớiđộdàibướcnhảytươngứnglà1 mét, 2 mét, 3 mét. Mộtcáchnhảythỏamãn○Gồmcácbướcnhảycótổngđúngbằngn. Đếmsốcáchnhảythỏamãn?
+
+===== PAGE 14 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+❑Cho bảnggồm𝑚hàng, 𝑛cột. Mỗiô củabảngchứamộtkítựA hoặcB. ❑Xuấtpháttừgóctráidưới, mỗilầnđượcdi chuyểnsang ô bêntrênhoặcô bênphải. ❑ĐếmsốlượngđườngđiđếngócphảitrênXâughéptừcáckítựtrênđườngđilàmộtxâuđốixứng.
+Thuậttoánquyhoạchđộng
+
+===== PAGE 15 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+❑Giảsửcónbàigiảngđượcđăngkýtạimộtgiảngđường, trongđóbàigiảngthứjbắtđầulúctj, kếtthúclúcejvàcówjsinhviênđăngkýthamdự. Tìmsốlượngsinhviêntốiđathamdựđượctừmộttrongtấtcảcáccáchxếplịchcácbàigiảngnày. Chúýrằngkhimộtsinhviêncóthểthamdựnhiềuhơnmộtbàigiảng, sinhviênnàysẽđượcđếmtheosốlượngbàigiảngthamdự.
+Thuậttoánquyhoạchđộng
+
+===== PAGE 16 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Hàm sinh (chuỗi)❑Định lý 1: Hàm sinh cho chuỗi các số thực 𝑎",𝑎#,…,𝑎$,…là dãyvôhạn:𝐺𝑥=𝑎"+𝑎#𝑥#+,,,+𝑎$𝑥$+,,,=-$%"
+&𝑎$𝑥$
+❑Chú ý: Hàm sinh trên đôi khi được gọi là “hàm sinh thông thường”, để phân biệt với các loại hàm sinh khác cho chuỗi.
+
+===== PAGE 17 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+❑Ví dụ 1: Chuỗi {ak} vớiak= 3, ak= k + 1 vàak= 2klầnlượtcóhàmsinhlàgì?❑Vídụ2: Hàmsinhchochuỗi1, 1, 1, 1, 1, 1làgì?❑Cho sốnguyêndươngm, gọiak= C(m, k), trongđók= 0, 1, 2, . . . , m, hỏihàmsinhchochuỗiaklàgì?
+Hàm sinh (chuỗi)
+
+===== PAGE 18 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+❑Vídụ4: Hàmf(x) = 1/(1-x), với|x| < 1, cóthểđượcbiểudiễuthànhdãyvôhạn:f(x) = 1/(1− x)= 1 + x + x2+ · · ·f(x) làhàmsinhcủachuỗigì?❑Vídụ5: f (x) = 1/(1− ax), với|x| < 1/|a|(a # 0) làhàmsinhcủachuỗigì?
+Hàm sinh (chuỗi)
+
+===== PAGE 19 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+❑Định lý 1:Cho 𝑓𝑥=∑$%"&𝑎$𝑥$và 𝑔𝑥=∑$%"&𝑏$𝑥$. Khi đó
+𝑓(𝑥)+𝑔𝑥=-$%"
+&(𝑎$+𝑏$)𝑥$
+𝑓(𝑥)𝑔𝑥=-$%"
+&-'%"
+$𝑎'𝑏$('𝑥$
+Hàm sinh (chuỗi)
+
+===== PAGE 20 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+❑Chuỗi nào có hàm sinh là 𝑓𝑥=##()!
+Hàm sinh (chuỗi)
+
+===== PAGE 21 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+❑Cho ulà một số thực, klà số nguyên không âm. Hệ số nhị thức mở rộng được định nghĩa như sau:𝐶𝑢,𝑘=7𝑢𝑢−1⋯(𝑢−𝑘+1)/𝑘𝑛ế𝑢𝑘>0,1 𝑛ế𝑢𝑘=0.❑Ví dụ: Tính C(−2, 3) vàC(1/2, 3)❑CMR: 𝐶𝑢,𝑘=−1𝑟𝐶(𝑛+𝑟−1,𝑟)
+Hàm sinh (chuỗi)
+
+===== PAGE 22 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+❑Định lý: Cho x, ulà hai số thực, với |x| < 1. Ta có:(1+𝑥)*=-$%"
+&𝐶𝑢,𝑘𝑥$
+❑Vídụ: Tìmcáchàmsinhcho(1 + x)−nand (1− x)−n, vớinlàmộtsốnguyêndương.
+Hàm sinh (chuỗi)
+
+===== PAGE 23 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+❑Ví dụ 1: Phương trình e1+ e2+ e3= 17 cóbao nhiêunghiệmnguyênkhôngâmthoảmãn2 ≤ e1≤ 5, 3 ≤ e2≤ 6 và4 ≤ e3≤ 7?❑Ví dụ 2: Có bao nhiêu cách chia 8 bánh quy cho 3 cháu bé với điều kiện mỗi một cháu nhận được ít nhất 2 và nhiều nhất 4 cái?❑Ví dụ 3: Sử dụng các hàm sinh để tìm số lượng tổ hợp chập r từ một tập n phần tử khi cho phép các phần tử được lặp nhiều lần.
+Đếm dùng hàm sinh (chuỗi)
+
+===== PAGE 24 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+❑Dùng hàm sinh để tìm số cách cho các đồng xu giá $1, $2 và $5 vào một máy bán hàng tự động để thanh toán cho một món hàng có giá rđô la, trong hai trường hợp: (i) thứ tự cho vào không quan trọng và (ii) thứ tự cho vào là có quan trọng.Ví dụ:có hai cách để thanh toán cho một món hàng giá $3○Khi thứ tự cho các đồng xu vào là không quan trọng:✧Cho vào ba đồng $1, ✧Cho vào một đồng $1 và một đồng $2. ○Khi thứ tự quan trọng, có ba cách: ✧Cho vào ba đồng $1✧Cho vào một đồng $1 rồi đến một đồng $2✧Cho vào một đồng $2 rồi đến một đồng $1.
+Đếm dùng hàm sinh (chuỗi)
+
+===== PAGE 25 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+❑Sửdụngcáchàmsinhđểtìmsốcáchđểchọnr đốitượngtừn loạikhácnhauvớiđiềukiệnmỗiloạiphảicóítnhấtmộtđốitượngđượcchọn.
+Đếm dùng hàm sinh (chuỗi)

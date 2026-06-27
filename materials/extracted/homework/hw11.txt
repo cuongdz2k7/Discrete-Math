@@ -1,0 +1,32 @@
+===== PAGE 1 =====
+Bài tập chương 11: Cây 
+Duyệt cây 
+Bài 1 (Rosen.8th.11.4.14) hãy sử dụng thuật toán tìm kiếm theo chiều sâu (Depth-First 
+Search – DFS) để tạo một cây bao trùm (spanning tree) cho đồ thị đơn đã cho. Chọn đỉnh a 
+làm gốc của cây bao trùm này và giả sử rằng các đỉnh được sắp xếp theo thứ tự bảng chữ 
+cái. 
+ 
+Bài 2: (Rosen.8th.11.4.16) Hãy sử dụng thuật toán tìm kiếm theo chiều rộng (Breadth-First 
+Search – BFS) để tạo một spanning tree cho mỗi đồ thị đơn trong các bài tập 13–15. Chọn 
+đỉnh a làm gốc của mỗi cây spanning tree 
+ 
+ 
+
+
+===== PAGE 2 =====
+Cây khung 
+Bài 1 (Rosen.8th.11.5.2 - Rosen.8th.11.5.4) Hãy sử dụng thuật toán Prim (Prim’s 
+algorithm) để tìm một cây khung nhỏ nhất (Minimum Spanning Tree – MST) cho đồ thị có 
+trọng số đã cho. 
+ 
+ 
+Bài 2: (Rosen.8th.11.5.6 - Rosen.8th.11.5.8) Hãy sử dụng thuật toán Kruskal để tìm một 
+cây khung nhỏ nhất (Minimum Spanning Tree – MST) cho đồ thị có trọng số 
+ 
+
+
+===== PAGE 3 =====
+Bài 3 ( Rosen.8th.11.5.8) Một minimum spanning forest trong một đồ thị có trọng số là một 
+rừng bao trùm (spanning forest) có tổng trọng số nhỏ nhất. Hãy giải thích cách mà các thuật 
+toán Prim và Kruskal có thể được điều chỉnh (thích nghi) để xây dựng các rừng khung nhỏ 
+nhất.

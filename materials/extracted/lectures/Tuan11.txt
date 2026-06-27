@@ -1,0 +1,218 @@
+===== PAGE 1 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Toán rời rạc
+Cây(Tree)
+
+===== PAGE 2 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Cây❑Lịchsửra đờiĐượcđềxuấtbởinhàtoánhọcngườiAnh Arthur Cayley vàonăm1857 ĐểliệtkêcácđồngphâncủacáchợpchấtcódạngCnH2n + 2
+
+
+===== PAGE 3 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Cây❑Câylàđồthịvôhướngliênthôngkhôngcóchu trìnhđơn❑Rừng(forest)Đồthịkhôngchứabấtkỳchu trìnhđơnnàoliênkếtvớinhau❑Địnhlý: Mộtđồthịvôhướnglàcâynếuvàchỉnếutồntạimộtđườngđiduynhấtgiữahaiđỉnhbấtkỳnàocủanó.
+
+===== PAGE 4 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Câycógốc(Rooted tree)❑Mộtđỉnhđượcchỉđịnhlàmgốcvàmọicạnhđượchướngra từgốc.Cha mẹ, con, cácđỉnhtrong(internal nodes), lá❑Cây(cógốc) đượcgọilàcâym-arynếumỗiđỉnhtrongcủanókhôngcónhiềuhơnm con. ❑Câynàyđượcgọilàcâym-aryđầyđủnếucácđỉnhtrongcủanócóchínhxácm con. ❑Vớim = 2, ta cócâynhịphân.
+
+===== PAGE 5 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Câycógốcsắpxếp❑Cây(cógốc) trongđómỗiđỉnhtrongđượcsắpxếp❑Câynhịphânsắpxếp(thườngđượcgọilàcâynhịphân)Câycon bêntráivàcâycon bênphải
+
+===== PAGE 6 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Cây❑Câynhưlàmộtmôhìnhtínhtoán❑Cácbộvi xửlý(CPU) đượctổchứcnhưtronghình12 đượcsửdụngnhằmtìmtổngcủa8 số. ❑Quytrìnhnàygồm3 bước.Cộngx1 vàx2 sửdụngP4Cộngx3 vàx4 sửdụngP5Cộngx5 vàx6 sửdụngP6Cộngx7 vàx8 sửdụngP7
+Mạngkếtnốidướidạngcâycủa07 bộvi xửlý.
+
+===== PAGE 7 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Các tính chất của cây❑Mộtcâycón đỉnhcón-1 cạnhG liênthôngG khôngcóchu trìnhG cón -1 cạnh❑Khimộttrongbađiềukiệntrênthỏamãn, điềukiệncònlạicũngchắcchắncũngthỏamãnvàG làmộtcây.
+
+===== PAGE 8 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Các tính chất của cây❑Mộtcâyđầyđủm-phânvớiiđỉnhtrongthìchứan=mi+1đỉnh.❑Mộtcâyđầyđủm-phânvới:n đỉnhthìcói=(n-1)/m đỉnhtrongvàl = [(m − 1)n + 1]/m lá.iđỉnhtrongthìcón=mi+1 đỉnhvàl=(m-1)i+ 1 lá.l láthìcón=(ml-1)/(m-1) đỉnhvài=(l-1)/(m-1) đỉnhtrong.
+
+===== PAGE 9 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Câym-phânđốixứng❑Bậccủamộtđỉnhv trongcâycógốclàđộdàicủađườngđiduynhấttừgốctớiđỉnhđó.❑Độcaocủacâycógốclàgiátrịlớnnhấtcủabậccủacácđỉnhtrongcâyđó.
+
+===== PAGE 10 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Câym-phân❑Địnhlý: Tồntạinhiềunhấtmhlátrongmộtcâym-phânvớichiềucaolàh.❑Nếumộtcâym-phânchiềucaohcólláthìh>=[logm(l)]. Nếucâyđóđầyđủvàđốixứngthìh=[logm(l)].
+
+
+===== PAGE 11 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Ứng dụng của cây❑Lưutrữcácđốitượngcủamộtdanhsách❑Mỗiđốitượngđượctìmthấymộtcáchdễdàng?❑Hỗtrợra quyếtđịnh❑Tìmra mộtđốitượngvớimộttiêuchícụthể?❑Mãhóamộttậpcáckýtựthànhchuỗibit
+
+===== PAGE 12 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Tìmkiếmcâynhịphân❑Mỗiđỉnhcóduynhấthaicon: con tráivàcon phải. ❑Mỗiđỉnhchứamộtgiátrịtrongdanhsách(mảng) cácgiátrị.❑Giátrịcủamộtđỉnhlớnhơntấtcảcácgiátrịcủacácđỉnhnằmtrongcâycon tráivànhỏhơntấtcảcácgiátrịcủacácđỉnhnằmtrongcâycon phải.
+
+===== PAGE 13 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Câyquyếtđịnh(decision tree)
+Mộtcâyquyếtđịnhchoviệcpháthiệnmộtđồngxugiảtrong6 đồngxu. (Lighter: Nhẹhơn; Balance: Cânbằng; Impossible: Khôngthểxácđịnh). Đồngxugiảđượcin màu(xanh) ở dướimỗilầncâncuốicùng.  
+
+===== PAGE 14 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Thuật toán sắp xếp❑Địnhlý: Mộtthuậttoánsắpxếpdựavàoso sánhnhịphâncầnítnhất[logn!] so sánh.❑Kếtluận: Sốso sánhcầnsửdụngtrongmộtthuậttoánđểsắpxếpn phầntửdựavàoso sánhnhịphânlàΩ(nlogn)
+
+===== PAGE 15 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Mãtiềntố(prefix code)❑Cácdãybit cóđộdàikhácnhauđượcsửdụngđểmãhóacáckýtự.Cáckýtựcótầnsuấtxuấthiệnlớnnênđượcmãhóabởidãybit ngắnCácdãybit dàiđượcsửdụngđểmãhóacáckýtựítxuấthiện.❑Mộtvàiphươngphápđượcsửdụngnhằmxácđịnhdãybit chotừngkýtự.❑MãtiềntốDãybit mãhóamộtkýtựkhôngbao giờlàtiềntố(phầnđầutiên) củadãybit củacáckýtựnàokhác.
+
+===== PAGE 16 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Mã tiền tố❑Một mã tiền tố có thể được biểu diễn bằng một cây nhị phânCác ký tự là nhãn của các lá trên câyCạnh nối với con trái được gán là0 và cạnh được nối với con phảiđược gán là 1.
+
+
+===== PAGE 17 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Mã hóa Huffman❑ĐượcđềxuấtbởiDavid Huffman trongmộtcôngtrìnhôngviếtvàonăm1951 khilàmộtnghiêncứusinhtạiMIT.❑ThuậttoánCóđầuvàolàtầnsuấtxuấthiệncủacáckýtựtrongmộtchuỗiĐầura làmộtmãtiềntốnhằmmãhóachuỗiđósửdụngítnhấtcóthểsốlượngbit.
+
+===== PAGE 18 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+MãhóaHuffmanProcedureHuffman(C: cáckýtự𝑎!vớitầnsố𝑤!,𝑖=1,…,𝑛)F∶=rừnggồmn câycógốc, mỗicâybao gồmchỉmộtđỉnh𝑎!vàtrọngsố𝑤!whileF khôngphảilàmộtcâyThay2 câyTvàT’cótrọngsốnhỏnhấttrongFvớiw(T) ≥ w(T’)bằngmộtcâycógốcmớitrongđóTlàcâycon bêntráicònT’ làcâycon bênphải. GánnhãncạnhmớitớiTlà0 còncạnhmớitớiT’là1.Gánw(T) + w(T’)làtrọngsốchocâymớitạo.{MãHuffman chokýtự𝑎!làchuỗicácnhãncủacáccạnhtrênđườngđiduynhấttừgốctớiđỉnhlá𝑎!}
+
+===== PAGE 19 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+❑A: 0.08, B: 0.10, C: 0.12, D: 0.15, E: 0.20, F: 0.35
+MãhóaHuffman
+
+
+===== PAGE 20 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Câytrongthuậttoánquay lui
+Tômàuđồthị(bêntráimànhình) sửdụngthuậttoánquay lui
+
+===== PAGE 21 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Câytrongthuậttoánquay lui❑Tổngcủatậpcon: Cho mộttậpgồmn phầntửx1, x2, ... xn. Tìmmộttậpcon màtổngcácphầntửcủanóbằngM.
+Lượcđồquay luiđểtìmcácsốcótổngbằng39
+
+===== PAGE 22 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+❑Bài toán ncon hậuCâytrongthuậttoánquay lui
+
+===== PAGE 23 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Cây trò chơi
+
+
+===== PAGE 24 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Duyệtcây(tree traversal)❑Hệthốngđánhđịachỉ
+
+
+===== PAGE 25 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Thuật toán duyệt cây❑Duyệttiềntự(pre-order)❑Duyệttrungtự(in-order)❑Duyệthậutự(post-order)
+
+===== PAGE 26 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+DuyệttiềntựGiảsửTlàcâycógốcr đãsắpxếp. NếuTchứaduynhấtgốcr thìr đượcduyệttiềnthứtự. Ngượclại, giảsửT1, T2, ..., Tnlàcáccâycon tạir từtráisang phảicủaT. Duyệttiềnthứtựbắtđầutạivịtrícủar. Nótiếptụcduyệttiềnthứtựqua T1, rồiđếnT2, cứtiếptụcnhưvậychođếnkhiTnđượcduyệttiềnthứtự
+
+
+===== PAGE 27 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+DuyệttrungtựGiảsửTlàcâycógốcrđãsắpxếp. NếuTchứaduynhấtgốcrthìrđượcduyệttrungthứtự. Ngượclại, giảsửT1, T2, ..., Tnlàcáccâycon tạir từtráisang phảicủaT. DuyệttrungthứtựbắtđầutạivịtrícủaT1. Tiếptheo, nóduyệttrungthứtựqua r. Nótiếptụcduyệttrungthứtựqua T2, rồiđếnT3, cứtiếptụcnhưvậychođếnkhiTnđượcduyệttrungthứtự
+
+
+===== PAGE 28 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+DuyệthậutựGiảsửTlàcâycógốcrđãsắpxếp. NếuTchứaduynhấtgốcrthìrđượcduyệthậuthứtự. Ngượclại, giảsửT1, T2, ..., Tnlàcáccâycon tạir từtráisang phảicủaT. DuyệthậuthứtựbắtđầutạivịtrícủaT1. Nótiếptụcduyệthậuthứtựqua T2, rồiđếnT3, cứtiếptụcnhưvậychođếnkhiTnvàkếtthúcbằngviệcduyệtr.
+
+
+===== PAGE 29 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+❑Ví dụ duyệt tiền tựDuyệtcây
+
+
+===== PAGE 30 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Biểuthứctrung/tiền/hậutố❑Câynhịphânbiểudiễnbiểuthức((x + y) ↑ 2) + ((x− 4)/3)
+❑Biểuthứctiềntố: Biểuthức/kýphápBa Lan❑Biểuthứchậutố: BiểuthứcBa Lan ngược
+
+
+===== PAGE 31 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+❑TìmbiểuthứcBa Lan của((x + y) ↑ 2) + ((x− 4)/3)❑Tínhgiátrịbiểuthức
+Biểuthứctrung/tiền/hậutố
+
+===== PAGE 32 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Câykhung(spanning tree)❑Câykhung(bao trùm) củamộtđơn đồthịGlàmộtđồthịcon củaG, chứatấtcảcácđỉnhcủaG.Mộtđơnđồthịcócâybao trùmthìliênthông.Mộtđơnđồliênthôngthìcócâybao trùm.❑Địnhlý: Mộtđơnđồthìliênthôngnếuvàchỉnếunócócâybao trùm.
+
+===== PAGE 33 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Câykhung(spanning tree)
+
+
+===== PAGE 34 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Câykhung❑Cóthểloạibỏcáccạnhkhỏicácchu trìnhđơnđểtìmcâybao trùmtrongmộtđồthịKhônghiệuquảvìnóyêucầuphảixácđịnhđượccácchu trìnhđơnnày.❑Thayvàođó, tìmbằngcáchthêmcáccạnhsửdụngcácthuậttoánduyệtđồthị❑Theo chiềusâu(Depth-First Search) ❑Theo chiềurộng(Breadth-First Search).
+
+===== PAGE 35 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Tìmtheochiềusâu
+ThủtụcDFS xâydựngcâybao trùmvớiđộphứctạplàO(e) hay O(n2) trongđóe vàn lầnlượtlàsốcạnhvàsốđỉnhcủaG
+ProcedureDFS(G: đồthịliênthôngvớicácđỉnh𝑣!,𝑖=1,…,𝑛)T∶=câycóduynhấtmộtđỉnh𝑣"visit(𝑣")Procedure visit(v: đỉnhcủaG)formỗiđỉnhw kềvớiv vàchưa nằmtrongTThêmđỉnhw vàcạnh{v, w} vàoTvisit(w)
+
+===== PAGE 36 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Tìmtheochiềusâu
+
+
+===== PAGE 37 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Tìmtheochiềurộng
+ĐộphứctạpcủathuậttoánBFS làO(e) hay O(n2)
+ProcedureBFS(G: đồthịliênthôngvớicácđỉnh𝑣!,𝑖=1,…,𝑛)T∶=câycóduynhấtmộtđỉnh𝑣"L∶=danhsáchrỗng(danhsáchcácđỉnhchưađượcthăm)Thêm𝑣"vàoL  whileL khôngrỗngLấyđỉnhđầutiên, v, ra khỏiLformỗilâncậnw củav ifw khôngnămtrongL vàkhôngtrongT thenThêmw vàocuốiLThêmw vàcạnh{v, w} vàoT
+
+===== PAGE 38 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Tìmtheochiềurộng
+
+
+===== PAGE 39 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Thực hành duyệt cây tìm cây khung
+
+
+===== PAGE 40 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+DFS trên đồ thị có hướng❑Ta cóthểdễdàngthayđổi2 thuậttoànDFS vàBFS phùhợpvớiđồthịcóhướng.❑Đầura khôngnhấtthiếtlàmộtcâybao trùm, màđúnghơnlàmộtrừngbao trùmNếuở mộtgiaiđoạncủamộttronghaithuậttoánchúngta thấyrằngkhôngcócạnhnàotồntạitừmộtđỉnhđãđượcthêmvàotớimộtđỉnhchưađượcthêmvào, đỉnhtiếptheođượcthêmbởithuậttoántrởthànhgốccủamộtcâymớitrongrừngbao trùmđó.
+
+===== PAGE 41 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Câybao trùmnhỏnhất
+Tìmcâybao trùmmàtổngtrọngsốtrêncáccạnhcủacâynàylànhỏnhất.
+Mộtđồthịcótrọngsốthểhiệngiáthuêbao hàngthángchocácđườngtruyềntrongmộtmạngmáytính
+
+===== PAGE 42 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Cây bao trùm nhỏ nhất❑Hai thuậttoánthamlam đãđượcđềxuấtđểtìmcâybao trùmnhỏnhất:ThuậttoánPrim○ĐềxuấtbởimộtnhàtoánhọcngườiSécvàonăm1930○PhổbiếnkhiđượctáinghiêncứubởiPrim vàonăm1957ThuậttoánKruskal○Joseph Kruskal đềxuấtvàonăm1956 
+
+===== PAGE 43 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+ThuậttoánPrimProcedurePrim(G: đồthịvôhướngliênthôngcótrọngsốvớin đỉnh)T∶=mộtcạnhcótrọngsốnhỏnhấtfor i∶=1 to n-2e∶=mộtcạnhcótrọngsốnhỏnhấtcógắnvớimộtđỉnhtrongT vàkhôngtạomộtchu trìnhtrongT nếuđượcthêmvàoTT∶=T vớie đượcthêmvàoreturn T {T làcâykhung/bao trùmnhỏnhấtcủaG}
+
+===== PAGE 44 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+ThuậttoánPrim
+
+
+===== PAGE 45 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+ThuậttoánKruskalProcedureKruskal(G: đồthịvôhướngliênthôngcótrọngsốvớin đỉnh)T∶=đồthịrỗngfor i∶=1 to n-1e∶=mộtcạnhcótrọngsốnhỏnhấtkhôngtạomộtchu trìnhtrongT nếuđượcthêmvàoTT∶=T vớie đượcthêmvàoreturn T {T làcâykhung/bao trùmnhỏnhấtcủaG}
+
+===== PAGE 46 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+ThuậttoánKruskal
+
+
+===== PAGE 47 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Thực hành Thuật toán Prim & Kruskal

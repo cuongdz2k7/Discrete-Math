@@ -1,0 +1,188 @@
+===== PAGE 1 =====
+Bài tập về nhà tuần 08: Đếm nâng cao
+Bộ môn Khoa học và Kỹ thuật tính toán (VNU-UET-FIT)
+2026-04-16
+Họ và tên: …………………………………………………… MSV: ………………………..
+PHẦN 1: The basics of counting
+Bài 1: Có bao nhiêu xâu nhị phân có độ dài lớn hơn 0 và nhỏ hơn 7.
+Bài 2: Có bao nhiêu xâu nhị phân độ dài không vượt quá n (n nguyên dương), chỉ chứa toàn số 1, xâu
+rỗng không được tính?
+Bài 3: Có bao nhiêu xâu nhị phân độ dài n (n nguyên dương) được bắt đầu và kết thúc bằng số 1?
+Bài 4: Có bao nhiêu xâu có 4 ký tự là chữ cái in thường và chắc chắn chứa chữ cái ‘x’?
+Bài 5: Có bao nhiêu số nguyên dương bé hơn 1000 và:
+a) chia hết cho 7?
+b) chia hết cho 7 nhưng không chia hết cho 11?
+c) chia hết cho 7 và chia hết cho 11?
+d) chia hết cho 7 hoặc chia hết cho 11?
+e) chia hết cho 7 hoặc chia hết cho 11 nhưng không đồng thời chia hết cho cả 2?
+f) không chia hết cho 7 cũng không chia hết cho 11?
+g) các chữ số của nó là phân biệt?
+h) các chữ số của nó là chẵn và phân biệt?
+Bài 6: Có bao nhiêu số nguyên dương thuộc đoạn [1000, 9999] và:
+a) chia hết cho 9?
+b) là số chẵn?
+c) các chữ số của nó là phân biệt?
+d) không chia hết cho 3?
+e) chia hết cho 5 hoặc chia hết cho 7?
+f) không chia hết cho 5 và không chia hết cho 7?
+g) chia hết cho 5 nhưng không chia hết cho 7?
+1
+
+===== PAGE 2 =====
+h) chia hết cho 5 và chia hết cho 7?
+Bài 7: Có bao nhiêu xâu có 8 ký tự, mỗi ký tự là 1 trong 26 chữ cái tiếng Anh in hoa, thỏa mãn:
+a) một chữ cái có thể xuất hiện nhiều lần?
+b) không chữ cái nào xuất hiện quá 1 lần?
+c) ký tự đầu tiên của xâu là X và một chữ cái có thể xuất hiện nhiều lần?
+d) ký tự đầu tiên của xâu là X và không có chữ cái nào xuất hiện quá 1 lần?
+e) ký tự đầu tiên và cuối cùng của xâu là X, một chữ cái có thể xuất hiện nhiều lần?
+f) bắt đầu bằng BO (theo đúng thứ tự đó, B trước O) và một chữ cái có thể xuất hiện nhiều lần?
+g) bắt đầu và kết thức đều bằng BO (theo đúng thứ tự đó, B trước O) và một chữ cái có thể xuất
+hiện nhiều lần?
+h) bắt đầu hoặc kết thức bằng BO (theo đúng thứ tự đó, B trước O) và một chữ cái có thể xuất hiện
+nhiều lần?
+Bài 8: Có bao nhiêu xâu có 8 ký tự, mỗi ký tự là 1 trong 26 chữ cái tiếng Anh in hoa, thỏa mãn:
+a) Không chứa nguyên âm và một chữ cái có thể xuất hiện nhiều lần?
+b) Không chứa nguyên âm và không có chữ cái nào xuất hiện quá 1 lần?
+c) Bắt đầu bằng một nguyên âm và một chữ cái có thể xuất hiện nhiều lần?
+d) Bắt đầu bằng một nguyên âm và không có chữ cái nào xuất hiện quá 1 lần?
+e) Chứa ít nhất một nguyên âm và một chữ cái có thể xuất hiện nhiều lần?
+f) Chứa đúng một nguyên âm và một chữ cái có thể xuất hiện nhiều lần?
+g) Bắt đầu bằng X, chứa ít nhất một nguyên âm, một chữ cái có thể xuất hiện nhiều lần?
+h) Bắt đầu và kết thúc đều bằng X, chứa ít nhất một nguyên âm, một chữ cái có thể xuất hiện nhiều
+lần?
+(Ghi chú: Có 5 nguyên âm là A, E, I, O, U)
+Bài 9: Một cuỗi RNA có thể xem là 1 xâu chỉ chứa ký tự từ tập hợp {A, U, C, G}. Có bao nhiêu chuỗi
+RNA độ dài 4:
+a) Chứa U?
+b) Không chứa CUG?
+c) Không chứa tất cả 4 ký tự A, U, C, G?
+d) Chỉ chứa đúng 2 trong 4 ký tự A, U, C, G?
+Bài 10: Có bao nhiêu cách để một nhiếp ảnh gia tại một đám cưới nọ sắp xếp 6 người (đã bao gồm cả
+cô dâu và chú rể) thành một hàng ngang thỏa mãn:
+a) Cô dâu phải đứng cạnh chú rể?
+b) Cô dâu không đứng cạnh chú rể?
+c) Cô dâu đứng về phía trái so với chú rể (không nhất thiết phải kề sát ngay bên trái chú rể)?
+2
+
+===== PAGE 3 =====
+Bài 11: Có bao nhiêu xâu nhị phân có độ dài 10 được bắt đầu bằng 3 số 0 hoặc kết thúc bởi 2 số 0?
+Bài 12: Có bao nhiêu xâu nhị phân độ dài 10 chứa 5 số 0 liên tiếp hoặc chứa 5 số 1 liên tiếp?
+Bài 13: Có bao nhiêu xâu nhị phân độ dài 8 chứa 3 số 0 liên tiếp hoặc chứa 4 số 1 liên tiếp?
+Bài 14: Cho p và q là 2 số nguyên tố n = pq. Có bao nhiêu số nguyên dương không vượt quá n và
+nguyên tố cùng nhau với n?
+Bài 15: Có bao nhiêu số nguyên dương nhỏ hơn 10^6 mà không chia hết cho 4 và không chia hết cho
+6?
+Bài 16: Có bao nhiêu bảng chân lý khác nhau cho một mệnh đề logic gồm có n biến (n nguyên dương)?
+Phần 2: The Pigeonhole Principle
+Bài 1: Trong 1 tháng có 30 ngày, một đội bóng đá tập luyện bằng cách mỗi ngày đá ít nhất một trận.
+Tổng số trận được chơi trong tháng đó không quá 45. Chứng minh rằng tồn tại một số ngày liên tiếp
+trong tháng sao cho tổng số trận đá tập chơi trong những ngày đó đúng bằng 14.
+Bài 2: Chứng minh rằng trong n + 1 số nguyên dương bất kỳ không vượt quá 2n, tồn tại 2 số chia hết
+cho nhau.
+Bài 3: Một chiếc túi chứa 10 bi xanh và 10 bi đỏ. Không được nhìn vào túi, bạn bốc một số viên bi
+ra.
+a) Bạn cần bốc ít nhất bao nhiêu viên bi để chắc chắn rằng có ít nhất 3 viên cùng màu?
+b) Bạn cần bốc ít nhất bao nhiêu viên bi để chắc chắn rằng có ít nhất 3 viên bi xanh?
+Bài 4: Cho 9 điểm phân biệt với tọa độ nguyên trong mặt phẳng tọa độ không gian 3 chiều. Chứng
+minh rằng tồn tại một cặp điểm mà trung điểm của đoạn thẳng nối giữa chúng có tọa độ nguyên.
+Bài 5: Chứng minh
+a) Chứng minh rằng khi chọn 5 số nguyên phân biệt bất kỳ tự tập hợp gồm 8 số nguyên dương nhỏ
+nhất, tồn tại một cặp số có tổng bằng 9.
+b) Liệu kết luận trong câu a) còn đúng không nếu chỉ được phép chọn 4 số.
+Bài 6:
+a) Chứng minh rằng khi chọn 7 số nguyên phân biệt bất kỳ tự tập hợp gồm 10 số nguyên dương
+nhỏ nhất, tồn tại một cặp số có tổng bằng 11.
+b) Liệu kết luận trong câu a) còn đúng không nếu chỉ được phép chọn 6 số.
+Bài 7: Cần phải chọn bao nhiêu số từ tập hợp {1, 2, 3, 4, 5, 6} để có thể chắc chắn được rằng ít nhất
+một cặp các số được chọn có tổng bằng 7?
+Bài 8: Chứng minh rằng với mọi số nguyên dương n tồn tại một bội số của n mà trong biểu diễn thập
+phân của nó chỉ bao gồm chữ số 0 và 1.
+Bài 9: Một lớp học Toán rời rạc có 9 học sinh. Giả sử chỉ có 2 giới tính là nam hoặc nữ.
+a) Chứng minh rằng có ít nhất 5 học sinh nam hoặc ít nhất 5 học sinh nữ.
+3
+
+===== PAGE 4 =====
+b) Chứng minh rằng có ít nhất 3 học sinh nam hoặc ít nhất 7 học sinh nữ.
+Bài 10: Có 25 nữ và 25 nam được xếp ngồi xung quanh một chiếc bàn tròn. Chứng minh rằng tồn tại
+ít nhất một người có 2 người ngồi liền kề đều là nam.
+Bài 11: Có một nhóm 6 người, trong đó 2 người bất kỳ hoặc là bạn của nhau, hoặc là ghét nhau.
+Chứng minh rằng có 3 người đều là bạn của nhau, hoặc có 3 người đều ghét nhau.
+Bài 12: Một mạng máy tính có 6 máy tính. Mỗi máy tính được kết nối trực tiếp tới 0 hoặc nhiều hơn
+các máy tính khác. Chứng minh rằng có 2 máy tính có cùng số lượng máy tính được kết nối trực tiếp
+tới nó.
+Bài 13: Có 100 máy tính và 20 máy in, hiện đang không được kết nối với nhau. Bạn cần dùng dây
+cáp để nối máy tính với máy in với nhau. Máy tính truy cập được một máy in nếu có dây cáp nối máy
+in và máy tính đó. Tại một thời điểm, một máy in không được phép truy cập bởi nhiều hơn 1 máy tính.
+Bạn cần sử dụng ít nhất bao nhiêu dây cáp để tồn tại cách nối cáp sao cho tại cùng một thời điểm, 20
+máy tính bất kỳ đều có thể truy cập được 20 máy in?
+Phần 3: Permutation and Combinations
+Bài 1: 𝑆 = 1, 2, 3, 4, 5
+a) Liệt kê tất cả 3-hoán vị của S
+b) Liệt kê tất cả 3-tổ hợp của S
+Bài 2: Có bao nhiêu xâu nhị phân độ dài 12 chứa:
+a) Đúng 3 số 1?
+b) Nhiều nhất 3 số 1?
+c) Ít nhất 3 số 1?
+d) Số lượng 0 và số lượng 1 bằng nhau?
+Bài 3: Có n người nam và n người nữ. Có bao nhiêu cách sắp xếp họ vào một hàng sao cho nam, nữ
+được xếp xen kẽ nhau?
+Bài 4: Có bao nhiêu hoán vị của ABCDEFGH chứa:
+a) Xâu ED?
+b) Xâu CDE?
+c) Xâu BA và FGH?
+d) Xâu AB, DE, và GH?
+e) Xâu CAB và BED?
+f) Xâu BCA và ABF?
+Bài 5: Có bao nhiêu cách sắp xếp 8 nam và 5 nữ vào một hàng sao cho không có 2 nữ nào đứng cạnh
+nhau?
+Bài 6: Một nhà hàng mới tuyển 13 nhân viên mới.
+4
+
+===== PAGE 5 =====
+a) Có bao nhiêu cách chọn ra 10 người để chuyên phụ bếp?
+b) Có 10 vị trí khác nhau đang cần người, mỗi vị trí cần đúng 1 người. Có bao nhiêu cách để sắp
+xếp 13 nhân viên mới vào 10 vị trí này?
+c) Trong số 13 nhân viên mới, có 3 là nữ. Có bao nhiêu cách chọn ra 10 người để chuyên phụ bếp
+sao cho ít nhất 1 nữ được chọn?
+Bài 7: Có 6 người tham gia cuộc đua chạy 100m, trong đó 2 người khác nhau có thể về đích cùng một
+thời điểm. Những người về đích nhanh nhất sẽ được trao huy chương vàng. Những người có đúng
+1 người khác về đích trước họ sẽ được trao huy chương bạc. Những người có đúng 2 người khác về
+đích trước họ sẽ được trao huy chương đồng. Đếm số cách trao huy chương có thể xảy ra.
+Bài 8: Có bao nhiêu xâu nhị phân chứa đúng 5 số 0, 14 số 1 và ngay sau số 0 phải là số 1?
+Phần 4: Binomial Coefficients and Identities
+Bài 1: Chứng minh rằng nếu n là một số nguyên dương thì 1 = 𝐶(𝑛, 0) < 𝐶(𝑛, 1) < …. <
+𝐶(𝑛, [𝑛
+2 ]) = 𝐶(𝑛, 𝑐𝑒𝑖𝑙( 𝑛
+2 )) > … > 𝐶(𝑛, 𝑛) = 1
+Bài 2: Chứng minh 𝐶(𝑛, 𝑘) < 2𝑛 với mọi n nguyên dương, k nguyên và 0 ≤ 𝑘 ≤ 𝑛.
+Bài 3: Chứng minh 𝐶(𝑛, 𝑘) <= 𝑛𝑘
+2𝑘−1 với n, k nguyên và 1 <= k <= n.
+Bài 4: Cho m, n là các số nguyên dương, r là số nguyên không âm và 𝑟 ≤ 𝑚𝑖𝑛(𝑚, 𝑛). Chứng minh
+𝐶(𝑚 + 𝑛, 𝑟) = ∑
+𝑟
+𝑘=0 𝐶(𝑚, 𝑘)𝐶(𝑛, 𝑟 − 𝑘)
+Bài 5: Chứng minh rằng với một tập hợp không rỗng, số lượng tập con của nó có lực lượng lẻ bằng
+số lượng tập con có lực lượng chẵn.
+Bài 6: Chứng minh rằng ∑
+𝑟
+𝑘=0 𝐶(𝑛 + 𝑘, 𝑘) = 𝐶(𝑛 + 𝑟 + 1, 𝑟)với n,r là các số nguyên dương
+Phần 5: Generalized Permutations and Combinations
+Bài 1: Giải phương trình: 𝑥1 + 𝑥2 + 𝑥3 + 𝑥4 = 17 trong đó 𝑥1, 𝑥2, 𝑥3, 𝑥4 là các số nguyên không
+âm.
+Bài 2: Giải phương trình: 𝑥1 + 𝑥2 + 𝑥3 + 𝑥4 + 𝑥5 = 21 với 𝑥𝑖 là các số nguyên không âm và:
+a) 𝑥1 ≥ 1
+b) 𝑥𝑖 ≥ 2 với 𝑖 = 1, 2, 3, 4, 5
+c) 0 ≤ 𝑥 1 ≤ 10
+d) 0 ≤ 𝑥 1 ≤ 3, 1 ≤ 𝑥2 < 4, 𝑥3 ≥ 15
+Bài 3: Đếm số cách phân phối 12 viên bi đồng nhất, giống hệt nhau vào 6 chiếc hộp phân biệt.
+Bài 4: Có bao nhiêu bộ số nguyên không âm 𝑥1, 𝑥2, 𝑥3 thỏa mãn 𝑥1 + 𝑥2 + 𝑥3 ≤ 11?
+Bài 5: Có bao nhiêu xâu độ dài 10 chứa đúng 2 số 0, 3 số 1, 5 số 2?
+5
+
+===== PAGE 6 =====
+Bài 6: Có bao nhiêu xâu khác nhau có thể tạo thành bằng cách sử dụng tất cả các ký tự trong từ
+MISSISSIPPI?
+Bài 7: Một giá sách có 12 quyển sách, được xếp theo một hàng ngang. Có bao nhiêu cách lấy ra 5
+quyển sách sao cho không có 2 quyển sách nào kề nhau được lấy?
+6

@@ -1,0 +1,269 @@
+===== PAGE 1 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Toán rời rạc
+Lýthuyếtđồthị
+
+===== PAGE 2 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+ĐồthịĐịnhnghĩa:Mộtđồthị(graph)𝐺=𝑉,𝐸gồmmộttậpkhôngrỗngcácđỉnh𝑉vàmộttậpcáccạnh𝐸.Mỗicạnhcómộthoặchaiđỉnhkếtnốivớinógọilàđiểmcuối❑Vídụ
+ ab
+cd
+ab
+c
+
+
+===== PAGE 3 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+ĐồthịqCácloạiđồthịcơbảnqĐồthịcóhướng(Directedgraph)qĐồthịvôhướng(Undirectedgraph)
+a b
+cd
+a b
+c
+
+
+===== PAGE 4 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Đồthị❑ĐơnđồthịMỗicạnhkếtnốihaiđỉnhkhácnhauvàkhôngcóhaicạnhnàocùngkếtnốimộtcặpđỉnh.❑ĐađồthịCóthểcónhiềucạnhcùngkếtnốihaiđỉnh.❑Cóvònglặp(loop),haykhuyênCóítnhấtmộtcạnhkếtnốimộtđỉnhvớichínhnó.
+ab
+c
+abcd
+
+===== PAGE 5 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Đồthị❑Đồthịcóthểsửdụngđểmôhìnhhoá:MạngmáytínhMạngxãhộiMạngtruyềnthôngMạngthôngtinThiếtkếphầnmềmMạnggiaothôngMạngsinhhọc
+
+===== PAGE 6 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Đồthị❑MạngmáytínhĐỉnh–cácmáytínhCạnh–cáckếtnối
+
+
+===== PAGE 7 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Đồthị❑MạngxãhộiĐồthịbạnbè○Vôhướng○Haingườikếtnốivớinhaunếuhọlàbạnbè(sửdụngtrongthựctế,trênFacebookhaytrongthếgiớiảo,v.v).Đồthịảnhhưởng○Cóhướng○Mỗicạnhđitừmộtngườiđếnngườikhácnếungườithứnhấtcóthểảnhhưởngđếnngườithứhai.Đồthịcộngtác○Vôhướng○Haingườikếtnốivớinhaunếuhọcộngtácvớinhautheomộtcáchnhấtđịnh.
+
+===== PAGE 8 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Đồthịcộngtác❑ĐồthịHollywoodMôhìnhhoásựcộngtácgiữacácdiễnviêntrongcácbộphim.Mỗidiễnviênlàmộtđỉnhcủađồthị,Haiđỉnhđượckếtnốivớinhaunếuhaidiễnviênđóngchungmộtbộphim.❑ĐồthịcộngtáchọcthuậtMôhìnhhoásựcộngtácgiữacácnhànghiêncứucùngviếtmộtbàibáovềcácchủđềcụthể.Biểudiễncácnhànghiêncứubởicácđỉnh,Kếtnốihaiđỉnhnếuchúngđạidiệnchohainhànghiêncứulàđồngtácgiảmộtbàibáo.
+
+===== PAGE 9 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Đồthịthôngtin❑MạngInternetCáctrangwebđượcđạidiệnbởicácđỉnhvàcácliênkếtđượcđạidiệnbởicáccạnhcóhướngMộtđồthịmạngmôhìnhhoámạngtạimộtthờiđiểmnhấtđịnh.❑Mạngtríchdẫn:Cácbàibáođượcbiểudiễnbởicácđỉnh,Khimộtbàibáođượctríchdẫnbởibàibáothứhai,mộtcạnhkếtnốitừđỉnhđạidiệnchobàibáonàyđếnđỉnhđạidiệnchobàibáothứhai.
+
+===== PAGE 10 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Đồthịgiaothông❑MạnghàngkhôngĐađồthịcóhướngCácsânbayđượcbiểudiễnbằngcácđỉnh,Mỗichuyếnbayđượcbiểudiễnbởimộtcạnhcóhướngtừđỉnhđạidiệnchosânbaykhởihànhđếnđỉnhđạidiệnchosânbayhạcánh.❑MạngđườngbộCáccạnhđạidiệnchocácgiaolộvàcáccạnhđạidiệnchocácconđường.Cáccạnhvôhướngđạidiệnchođườnghaichiềuvàcáccạnhcóhướngđạidiệnchođườngmộtchiều.
+
+===== PAGE 11 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Đồthịgiaothông❑Cácmôhìnhđồthịđượcsửdụngrộngrãitrongcácnghiêncứuvềmạnggiaothông.
+
+
+===== PAGE 12 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Đồthịsinhhọc❑MạngtươngtácProtein-Protein(2898protein,5460tươngtác,Science2004)
+
+
+===== PAGE 13 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Đồthịsinhhọc❑MạngtươngtácProtein-Protein(NatureMethods2012)
+
+
+===== PAGE 14 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Cácđặctrưngcủađồthị: đồthịvôhướng❑Haiđỉnh𝑢,𝑣trongmộtđồthịvôhướng𝐺đượcgọilàliềnkềtrong𝐺nếucómộtcạnh𝑒giữa𝑢và𝑣.Cạnh𝑒đượcgọilàkếtnối𝑢và𝑣.❑Tậptấtcảcácđỉnhliềnkềcủađỉnh𝑣trongđồthị𝐺=(𝑉,𝐸)kýhiệulà𝑁(𝑣)đượcgọilàlâncậncủa𝑣.Nếu𝐴làtậpconcủa𝑉,takýhiệu𝑁𝐴làtậptấtcảcácđỉnhtrong𝐺liềnkềvớiítnhấtmộtđỉnhtrong𝐴.❑Bậccủamộtđỉnhtrongđồthịvôhướnglàsốcạnhnốiđếnnó,trừcácvònglặptạimộtđỉnhlàmtăngbậccủađỉnhlênhai.Bậccủamộtđỉnh𝑣kýhiệulàdeg𝑣.
+
+===== PAGE 15 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Đồthịvôhướng❑Vídụ:Tìmbậcvàlâncậncủacácđỉnhtrongđồthịsau.
+❑Đápán:deg𝑎=2,deg𝑏=deg𝑐=deg𝑓=4,…𝑁𝑎=𝑏,𝑓,𝑁𝑏=𝑎,𝑐,𝑒,𝑓,𝑁𝑑=𝑐,…
+a
+bcd
+ef g
+
+
+===== PAGE 16 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+ĐồthịvôhướngĐịnhlýbắttay(Handshaking):Nếuđồthị𝐺=(𝑉,𝐸)làmộtđồthịvôhướngcó𝑚cạnh,thì2𝑚=*!∈#deg(𝑣)❑Chứngminh:Mỗicạnhđónggóphaivàotổngbậccủatấtcảcáccạnh.Dođócảvếtráivàvếphảicủađẳngthứcbằnghailầntổngsốcạnh.Xemxétđồthịtrongđóđỉnhđạidiệnchongườithamgiamộtbữatiệcvàcạnhkếtnốihaingườicóbắttayvớinhau.
+
+===== PAGE 17 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+ĐồthịvôhướngĐịnhlý2:Mộtđồthịvôhướngcómộtsốchẵncácđỉnhcóbậclẻ.❑Chứngminh:Gọi𝑉$,𝑉%lầnlượtlàtậpcácđỉnhcóbậcchẵn,lẻtrongđồthịvôhướng𝐺=𝑉,𝐸với𝑚cạnh.2𝑚=*!∈#deg(𝑣)=*!∈#!deg(𝑣)+*!∈#"deg(𝑣)Tổngthứnhấtchẵnvìdeg(𝑣)luônchẵn.Tổngthứhaichẵnvì2𝑚chẵnvàtổngthứnhấtchẵn. Do bậccủatấtcảcácđỉnhđềulẻnênđểtổngchẵnthìcầncómộtsốchẵnđỉnh.
+
+===== PAGE 18 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+ĐồthịcóhướngĐịnhnghĩa1:Mộtđồthịcóhướng𝐺=𝑉,𝐸gồmmộttậpkhôngrỗngcácđỉnh𝑉vàmộttậpcáccạnhcóhướng𝐸.Mỗicạnhlàmộtcặpđỉnhcóthứtự.Cạnhcóhướng𝑢,𝑣đượcgọilàbắtđầutừ𝑢vàkếtthúctại𝑣.Địnhnghĩa2:Với(𝑢,𝑣)làmộtcạnhcủa𝐺.Khiđó𝑢làđiểmđầucủacạnhvà𝑣làđiểmcuốicủacạnh.Điểmđầuvàđiểmcuốicủamộtvònglặplàcùngmộtđỉnh.
+
+===== PAGE 19 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+ĐồthịcóhướngĐịnhnghĩa3:Bậcvàocủamộtđỉnh𝑣kýhiệulàdeg!(𝑣)làsốcạnhkếtthúctại𝑣.Bậcracủamộtđỉnh𝑣kýhiệulàdeg"(𝑣)làsốcạnhbắtđầutại𝑣.Vònglặpđónggópmộtvàocảbậcvàovàbậcracủamộtđỉnh.Vídụ:Xácđịnhbậcvàocủacácđỉnhtrongđồthịsau:Giảideg!𝑎=1,deg!𝑏=2,deg!𝑐=2,deg!𝑑=4,deg!𝑒=1
+a bc
+de
+
+===== PAGE 20 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+ĐồthịcóhướngĐịnhlý:Với𝐺=𝑉,𝐸làđồthịcóhướng,khiđó:𝐸=;!∈#deg$(𝑣)=;!∈#deg%(𝑣)
+❑Chứngminh:Tổngthứnhấtlàtổngsốcạnhđiratừtấtcảcácđỉnh,tổngthứhailàtổngsốcạnhđivàotấtcảcácđỉnh.Haitổngnàybằngtổngsốcạnhcủađồthị.
+
+===== PAGE 21 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+ĐồthịđầyđủĐồthịđầyđủ𝑛đỉnh,kýhiệulà𝐾&,làđơnđồthịchứachínhxácmộtcạnhgiữahaiđỉnhphânbiệtbấtkỳ.
+
+
+===== PAGE 22 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Chu trìnhChutrình𝐶&với𝑛≥3chứa𝑛đỉnh𝑣',𝑣(,…,𝑣&vàcáccạnh𝑣',𝑣(,𝑣(,𝑣),…,{𝑣&,𝑣'}
+
+
+===== PAGE 23 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Khốin chiều❑Khối𝑛chiều𝑄&,Đồthịvới2#đỉnhbiểudiễnbằngxâunhịphâncóđộdài𝑛.Haiđỉnhlàliềnkềkhivàchỉkhicácxâunhịphânbiểudiễncủachúngkhácnhauđúngmộtbit.
+
+
+===== PAGE 24 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Đồthịphânđôi(bipartite graph)❑Làđơnđồthị𝐺=𝑉,𝐸,𝑉đượcchiathànhhaitậpcon𝑉$và𝑉%Tấtcảcáccạnhđềunốimộtđỉnhtrong𝑉!vớimộtđỉnhtrong𝑉".Nóicáchkhác,khôngcómộtcạnhnàonốihaiđỉnhtrong𝑉!hoặc𝑉".Nóicáchkhác:đồthịphânđôilàmộtđồthịmàcóthểtômàuđỏ,xanhchocácđỉnhmàkhôngcócạnhnàonốihaiđỉnhcùngmàu.
+
+
+===== PAGE 25 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+ĐồthịphânđôiqVídụ:Chứngminhrằng𝐶&làmộtđồthịphânđôi.
+qLờigiải:Tacóthểchiacácđỉnhthànhhaitập𝑉$={𝑣$,𝑣',𝑣(}và𝑉%=𝑣%,𝑣),𝑣&khiđótấtcảcáccạnhcủa𝐶&nốimộtđỉnhtrong𝑉$vớimộtđỉnhtrong𝑉%.
+
+
+===== PAGE 26 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+ĐồthịphânđôivàghépcặpqĐồthịphânđôiđượcsửdụngđểmôhìnhhoáviệcghépcặpmộtphầntửcủamộttậpvớimộtphầntửcủamộttậpkhác.qVídụ:Phâncôngcôngviệc–đỉnhđạidiệnchocôngviệcvànhânviên,cáccạnhnốinhânviênvớicôngviệchọđãđượcđàotạo.Mụctiêulàđểphâncôngcôngviệcchonhânviênsaochonhiềucôngviệcđượchoànthànhnhất.
+
+
+===== PAGE 27 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Đồthịphânđôiđầyđủ(complete)Địnhnghĩa:Đồthịphânđôiđầyđủ𝐾*,#làmộtđồthịcótậpcáccạnhđượcchiathànhhaitậpcon𝑉$có𝑚đỉnhvà𝑉%có𝑛đỉnhmàmọiđỉnhtrong𝑉$nốivớimọiđỉnhtrong𝑉%.Vídụ:Mộtsốđồthịphânđôiđầyđủ:
+
+
+===== PAGE 28 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Đồthịcon (subgraph)Địnhnghĩa:Đồthịconcủađồthị𝐺=𝑉,𝐸làđồthị𝑊,𝐹trongđó𝑊⊆𝑉và𝐹⊆𝐸.Mộtđồthịcon𝐻của𝐺đượcgọilàđồthịconthựcsựcủa𝐺nếu𝐻≠𝐺.Vídụ:𝐾(vàmộtđồthịcon.
+
+
+===== PAGE 29 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+ĐồthịconĐịnhnghĩa:Cho𝐺=𝑉,𝐸làmộtđơnđồthị.Đồthịconsinhbởitậpcon𝑊củatậpcácđỉnh𝑉làmộtđồthị(𝑊,𝐹)màtậpcáccạnh𝐹chứamộtcạnhtrong𝐸khivàchỉkhihaiđiểmcuốiđềunằmtrong𝑊.Vídụ:𝐾(vàmộtđồthịconsinhbởi𝑊={𝑎,𝑏,𝑐,𝑒}
+
+
+===== PAGE 30 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+BiểudiễncủađồthịMộtdanhsáchkềcóthểđượcsửdụngđểbiểudiễnđồthịkhôngcócạnhbộibằngcáchliệtkêcácđỉnhnốivớimỗiđỉnhtrongđồthịVídụ: ĐỉnhĐỉnhkề𝑎𝑏,𝑐,𝑑,𝑒𝑏𝑏,𝑑𝑐𝑎,𝑐,𝑒𝑑𝑒𝑏,𝑐,𝑑
+
+
+===== PAGE 31 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Ma trận[liền] kề(Adjacent matrix)Cho𝐺=𝑉,𝐸làmộtđơnđồthịvới𝑉=𝑛.Danhsáchcạnhtuỳýcủa𝐺là𝑣#,𝑣$,…,𝑣%.Matrậnkề𝐴&của𝐺ứngvớidanhsáchcácđỉnhnàylàmộtmatrậnkhông-mộtcấp𝑛×𝑛cóphầntửhàng𝑖cột𝑗bằng1nếu𝑣'và𝑣(kềnhau,vàbằng0nếuchúngkhôngđượcnốivớinhau.Nóicáchkhác,matrậnkềcủađồthịlàmatrận𝐴=[𝑎'(]trongđó𝑎'(=21𝑛ế𝑢𝑣',𝑣(𝑙à𝑚ộ𝑡𝑐ạ𝑛ℎ𝑐ủ𝑎𝐺0𝑛ế𝑢𝑘ℎô𝑛𝑔𝑐ó𝑐ạ𝑛ℎ𝑛ố𝑖đỉ𝑛ℎ𝑣'𝑣ớ𝑖𝑣(
+Vídụ:matrậnkềcóthứtựđỉnhlà𝑎,𝑏,𝑐,𝑑.
+
+
+===== PAGE 32 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Ma trậnkềqCóthểsửdụngđểbiểudiễnđồthịcóvònglặpvàcạnhbội.qVònglặptạiđỉnh𝑣#biểudiễnbởi1tạivịtrí𝑖,𝑖trongmatrận.qKhicạnhbộinốicùngcặpđỉnh𝑣#và𝑣$(hoặcnhiềuvònglặpbộitrêncùngmộtđỉnh)vịtrí(𝑖,𝑗)bằngsốcạnhnốihaiđỉnh.Vídụ:matrậnkềcóthứtựđỉnhlà𝑎,𝑏,𝑐,𝑑.
+
+
+===== PAGE 33 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+ĐồthịđẳngcấuĐịnhnghĩa:Cácđồthịđơn𝐺!=(𝑉!,𝐸!)và𝐺"=(𝑉",𝐸")làđẳngcấunếucóhàmsongánh𝑓từ𝑉!lên𝑉"saochocácđỉnh𝑎và𝑏làliềnkềtrong𝐺!khivàchỉkhi𝑓𝑎và𝑓𝑏làliềnkềtrong𝐺"vớimọi𝑎và𝑏trong𝑉!.Hàm𝑓nhưthếđượcgọilàmộtđẳngcấu.Vídụ:đồthị𝐻và𝐺làhaiđồthịđẳngcấu.
+
+
+===== PAGE 34 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Toán rời rạc
+Đườngđi, chutrình
+
+===== PAGE 35 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Tínhliênthông, đườngđiMộtđườngđi(Path)làmộtchuỗicáccạnhbắtđầutừmộtđỉnhcủađồthịvàđitừđỉnhđếnđỉnhquacáccạnhcủađồthị.Ứngdụng:Nhiềubàitoáncóthểmôhìnhhoábằngcácđườngđiquacáccạnhcủađồthị,vídụ:qXácđịnhxemmộtthôngđiệpcóthểtruyềngiữahaimáytính.qĐịnhtuyếnthưđiệntử,tinnhắngửiđimộtcáchhiệuquả.
+
+===== PAGE 36 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Tínhliênthông(Connectivity)qTacóthểsửdụngmatrậnkềcủamộtđồthịđểtínhsốlượngđườngđikhácnhaugiữahaiđỉnhcủađồthị.Địnhlý:Cho𝐺làmộtđồthịcómatrậnkề𝐴vớithứtựđỉnh𝑣',…,𝑣&.Sốlượngđườngđicóđộdài𝑟từ𝑣<đến𝑣=,với𝑟>0làsốnguyêndương,bằngphầntử(𝑖,𝑗)của𝐴>.
+
+===== PAGE 37 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+TínhliênthôngĐịnhlý:Cho𝐺làmộtđồthịcómatrậnkề𝐴vớithứtựđỉnh𝑣$,…,𝑣#.Sốlượngđườngđicóđộdài𝑟từ𝑣,đến𝑣-,với𝑟>0làsốnguyêndương,bằngphầntử(𝑖,𝑗)của𝐴..Vídụ:
+Đườngđicóđộdài4Làphầntử1,4củamatrận𝐴)
+
+
+===== PAGE 38 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Địnhnghĩa:Mộtđồthịvôhướngđượcgọilàliênthôngnếucóđườngđigiữatấtcảcáccặpđỉnhphânbiệtcủađồthị.
+Tínhliênthôngtrongđồthịvôhướng
+
+
+===== PAGE 39 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Mộtthànhphầnliênthông(Connectedcomponent)củađồthịGlàmộtđồthịconliênthôngcủaGkhôngchungđỉnhvớimộtđồthịconliênthôngnàokháccủaG.
+Cácthànhphầnliênthông
+
+
+===== PAGE 40 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+qKhớp(cuttingvertex)qKhixoábỏnóvàtấtcảcáccạnhnốivớinósẽtạoramộtđồthịconmớicónhiềuthànhphầnliênthônghơnđồthịbanđầu.qCầu(cuttingedge)qKhixoábỏnósẽtạoramộtđồthịmớicónhiềuthànhphầnliênthônghơnđồthịbanđầu.
+Độliênthôngcủađồthị
+
+===== PAGE 41 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+qKhôngphảimọiđồthịđềucókhớp.Vídụ,đồthịđầyđủ𝐾Hvới𝑛≥3khôngcóđỉnhkhớpnào.qĐồthịkhôngcókhớpnàođượcgọilàđồthịbấtkhảtách(nonseparable)qMộttậpcon𝑉Icủatậpcácđỉnh𝑉củađồthị𝐺=𝑉,𝐸đượcgọilàNhátcắtđỉnhhayTậpphântáchđồthịnếu𝐺−𝑉Ikhôngliênthông.qLựclượngcủanhátcắtnhỏnhấtthểhiệnđộliênthôngđỉnh(vertexconnectivity)củađồthịkhôngđầyđủ𝐺,kýhiệu𝜅𝐺.qMộtđồthịđượcgọilàliên-thông-đỉnh-độ-knếu𝜅𝐺≥𝑘.
+Độliênthôngđỉnh(Vertex connectivity)
+
+===== PAGE 42 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+qNhátcắtcạnhcủađồthị𝐺=𝑉,𝐸qTậpcáccạnhmàkhibỏchúngthìđồthịkhôngcònliênthông.qLựclượngcủanhátcắtnhỏnhấtλ𝐺đượcgọilàĐộliênthôngcạnhqĐồthịliênthôngkhôngđầyđủvớiítnhất3đỉnhq𝜅𝐺≤𝑚𝑖𝑛/∈1𝑏ậ𝑐(v)vàλ𝐺≤𝑚𝑖𝑛/∈1𝑏ậ𝑐(v)qCMR:q𝜅𝐺≤λ𝐺nếuGliênthôngkhôngđầyđủq𝜅𝐺≤λ𝐺≤𝑚𝑖𝑛/∈1𝑏ậ𝑐(v)vớimọiđồthị
+Độliênthôngcạnh(Edge connectivity)
+
+===== PAGE 43 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+qLiênthôngmạnh(strongconnected)qCóđườngđitừ𝑎đến𝑏vàtừ𝑏đến𝑎vớimọicặpđỉnh𝑎,𝑏bấtkỳtrongđồthị.qLiênthôngyếu(weakconnected)qCóđườngđigiữahaiđỉnhbấtkỳcủađồthịvôhướngnền.
+Tínhliênthôngtrongđồthịcóhướng
+
+===== PAGE 44 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+qCómộtsốcáchdùngđườngđivàchutrìnhđểxácđịnhxemhaiđồthịcóđẳngcấuhaykhông.qĐườngđicóthểdùngđểxâydựngcácánhxạcókhảnănglàphépđẳngcấu.qĐểtìmmộtđẳngcấucóthểcó,tacóthểđitheocácđườngđiquatấtcảcácđỉnhkhiđótấtcảcácđỉnhtươngứngtronghaiđồthịcócùngbậc.
+Đườngđivàsựđẳngcấu
+
+===== PAGE 45 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+SốđườngđigiữacácđỉnhĐịnhlý:Cho𝐺làmộtđồthịcómatrậnkề𝐴vớithứtựđỉnh𝑣$,…,𝑣#.Sốlượngđườngđicóđộdài𝑟từ𝑣,đến𝑣-,với𝑟>0làsốnguyêndương,bằngphầntử(𝑖,𝑗)của𝐴..Vídụ
+Đườngđicóđộdài4Làphầntử1,4củamatrận𝐴)
+
+
+===== PAGE 46 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Chu trìnhEuler vàHamiltonqChutrìnhEulerqLiệutacóthểđiquacáccạnhcủađồthịbắtđầutừmộtđỉnhvàquaylạiđiểmxuấtphátmàchỉđiquamỗicạnhmộtlầnduynhất?qChutrìnhHamiltonqLiệutacóthểđiquacáccạnhcủađồthịbắtđầutừmộtđỉnhvàquaylạiđiểmxuấtphátmàchỉđiquamỗiđỉnhmộtlầnduynhất?
+
+===== PAGE 47 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Chu trìnhEulerqLàchutrìnhđơnđiquatấtcảcáccạnhcủađồthị𝐺,mỗicạnhđiđúng1lần.qĐịnhlý:MộtđađồthịliênthôngcóchutrìnhEulernếuvàchỉnếumỗiđỉnhcủanóđềucóbậcchẵn.qVídụ:đồthịnàosauđâycóchutrìnhEuler?
+
+
+===== PAGE 48 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+ThuậttoánxâydựngchutrìnhEulerprocedureEuler(G:đađồthịliênthôngvớitấtcảcácđỉnhbậcchẵn)chu_trình:=chutrìnhtrongGbắtđầutạimộtđỉnhđượcchọntuỳývàcáccạnhđượcthêmvàođểxâydựngđườngđiquacácđỉnhvàcuốicùngquaylạiđỉnhnày.H:=GvớicáccạnhcủaGsaukhibỏđichutrìnhwhileHcòncáccạnhchu_trình_con:=chutrìnhtrongHbắtđầutạiđỉnhtrongHcũnglàđỉnhđầumútcủamộtcạnhthuộcchu_trìnhH:=Hvớicáccạnhcủachu_trình_convàtấtcảcácđỉnhcôlậpbịloạibỏ.chu_trình:=chu_trìnhvớichu_trình_conđượcchèncàotạimộtđỉnhthíchhợpreturnchutrình{chutrìnhlàchutrìnhEuler}
+
+===== PAGE 49 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Toán rời rạcThuậttoánxâydựngchutrìnhEuler
+
+
+===== PAGE 50 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Chu trìnhHamiltonqKhôngcócácđiềukiện“cầnvàđủ”đơngiảnđểxácđịnhxemcótồntạichutrìnhHamiltonhaykhông.qCómộtsốđịnhlývềđiềukiệnđủđểtồntạichutrìnhHamilton.
+
+
+===== PAGE 51 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Chu trìnhHamiltonqMộtđồthịcómộtđỉnhcóbậcmộtkhôngthểcóchutrìnhHalmilton.qNếumộtđỉnhtrongđồthịcóbậchai,khiđócảhaicạnhnốivớinóphảinằmtrongchutrìnhHalmilton.qMộtchutrìnhHamiltonđãđiquamộtđỉnhthìtấtcảnhữngcạnhnốivớiđỉnhđókhácvớihaicạnhđãsửdụngtrongchutrìnhcóthểloạibỏkhỏidanhsáchxemxét.qChutrìnhHamiltonkhôngthểchứamộtvònglặpnhỏhơn.
+
+===== PAGE 52 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Chu trìnhHamiltonqĐịnhlýDirac(1952)qNếu𝐺làmộtđơnđồthịvới𝑛đỉnh𝑛≥3màbậccủatấtcảcácđỉnhtrong𝐺lớnhơnhoặcbằng𝑛/2,thì𝐺chứamộtchutrìnhHamilton.qĐịnhlýOre(1960)qNếu𝐺làmộtđơnđồthịvới𝑛đỉnh𝑛≥3mà𝑏ậ𝑐𝑢+𝑏ậ𝑐𝑣≥𝑛vớimọiđỉnhkhôngliềnkề𝑢,𝑣trong𝐺,thì𝐺cómộtchutrìnhHamilton.
+
+===== PAGE 53 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Chu trìnhHaminton: Ứngdụng❑Bài toán người giao hàng❑Mã GraysFrank Gray phátminhnăm1940s tạiPTN AT&T Bell Cựctiểuhoáhậuquảdo lỗitrongtruyềntínhiệusố

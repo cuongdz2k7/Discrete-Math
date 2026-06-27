@@ -1,0 +1,83 @@
+===== PAGE 1 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Toánrờirạc
+Đường đi ngắn nhất,Đồthịphẳng, Tômàuđồthị
+
+===== PAGE 2 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Đườngđingắnnhất(shortest path)
+
+
+===== PAGE 3 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+ThuậttoánDijkstraprocedureDijkstra(G:đơnđồthịliênthôngcótrọngsốdương){Gcócácđỉnha=v0,v1,…vn=zvàcáctrọngsốw(vi,vj),vớiw(vi,vj)=∞nếu{vi,vj}khônglàmộtcạnhtrongG}fori:=1tonL(vi):=∞L(a):=0S≔∅{Banđầucácnhãnđượckhởitạosaochonhãncủaabằng0,cácđỉnhkhácbằng∞,tậpSrỗng}whilez∉Su:=đỉnhkhôngthuộcScónhãnL(u)nhỏnhấtS:=S{u}fortấtcảcácđỉnhvkhôngthuộcSifL(u)+w(u,v)<L(v)thenL(v):=L(u)+w(u,v){thêmvàoSđỉnhcónhãnnhỏnhấtvàsửađổinhãncủacácđỉnhkhôngthuộcS}returnL(z){L(z)=độdàiđườngđingắnnhấttừatớiz}
+
+===== PAGE 4 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+ThuậttoánDijkstra
+
+
+===== PAGE 5 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Thuật toán Floyd
+
+
+===== PAGE 6 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Đồthịphẳng(planar graph)
+Hình1. Ba cănnhàvàbatiệních
+
+
+===== PAGE 7 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+ĐồthịphẳngĐịnhnghĩa:Mộtđồthịđượcgọilàphẳngnếunócóthểvẽđượctrênmộtmặtphẳngmàkhôngcócạnhnàocắtnhau(ởmộtđiểmkhôngphảilàđiểmmútcủacạnh).Cáchvẽnàyđượcgọilàmộtbiểudiễnphẳngcủađồthị(planarrepresentation).qĐểchứngminhđồthịlàđồthịphẳngtacóthểchỉramộtbiểudiễnphẳngcủanó.qCònđểchứngminhmộtđồthịlàđồthịkhôngphẳngsẽkhókhănhơnnhiều.
+
+===== PAGE 8 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+ĐồthịphẳngqMộtđồthịcóthểphẳngmặcdùnóthườngđượcvẽvớicácđườnggiaonhau,vìchúngcóthểđượcvẽtheonhiềucáchkhácthayvìcácđườnggiaonhau
+Hình 2. Dạng phẳng của đồ thị 𝐾!.Hình 3. Dạng phẳng của đồ thị 𝑄".
+
+===== PAGE 9 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+ĐồthịphẳngqĐóngmộtvaitròquantrọngtrongthiếtkếmạchđiệntử.qMộtmạchđiệntửgiốngnhưmộtđồthịmàmỗithànhphầncủamạchđiệnlàmộtđỉnhvàcácthànhphầnnốivớinhaubởicáccạnhqMộtmạchđiệntửcóthểintrênmộtbảngmạchmàkhôngcókếtnốichồngchậpnếuđồthịbiểudiễnmạchđiệnlàđồthịphẳngqCũngcóvaitròquantrọngtrongviệcthiếtkếmạngđườngbộ.
+
+===== PAGE 10 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+CôngthứcEulerqMộtbiểudiễnphẳngcủađồthịchiamặtphẳngthànhcácphầnbaogồmmộtphầnkhôngbaođóng.qCôngthứcEuler:Với𝐺làmộtđơnđồthịphẳngliênthôngvới𝑒cạnhvà𝑣đỉnh.Gọirlàsốmiềntrongbiểudiễnphẳngcủa𝐺thì𝑟=𝑒−𝑣+2
+
+===== PAGE 11 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+CôngthứcEulerqHệquả1:Nếu𝐺làmộtđơnđồthịphẳngliênthốngvới𝑒cạnh,𝑣đỉnhtrongđó𝑣≥3,khiđó𝑒≤3𝑣−6.qHệquả2:Nếu𝐺làmộtđơnđồthịphẳngliênthông,thì𝐺chứamộtđỉnhcóbậckhôngvượtquá5qHệquả3:Nếumộtđơnđồthịphẳngliênthôngcó𝑒cạnh,𝑣đỉnhtrongđó𝑣≥3vàkhôngcóchutrìnhđộdài3,thì𝑒≤2𝑣−4.qCMR:K5khôngphẳng.
+
+===== PAGE 12 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+ĐịnhlýKuratowskiqPhépphânchiasơcấpqBỏđicạnh{u,v}vàthêmvàođỉnhwcùngvớicạnh{u,w}và{w,v}qTấtcảcácđồthịkhôngphẳngphảichứamộtđồthịconcóthểsinhrađượctừ𝐾!,!hoặc𝐾#bằngviệcsửdụngmộtsốphépphânchiasơcấp.qNếumộtđồthịlàđồthịphẳng,thìmọiđồthịthuđượcbằngmộtsốphépphânchiasơcấpcũnglàđồthịphẳng.qHaiđồthịđượcgọilàđồngphôinếuchúngcóthểnhậnđượctừcùngmộtđồthịbằngmộtdãycácphépphânchiasơcấp.
+
+===== PAGE 13 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+ĐịnhlýKuratowskiMộtđồthịlàphôngphẳngkhivàchỉkhinóchứamộtđồthịconđồngphôivới𝐾#,#hoặc𝐾%.(1930)
+
+
+===== PAGE 14 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Tômàuđồthị(graph coloring)qĐồthịđốingẫu(dualgraph)củabảnđồqMỗivùngđượcbiểudiễnbởimộtcạnh.qCáccạnhnốihaiđỉnhnếuvùngđạidiệnbởicácđỉnhnàycóbiênchungvớinhau.qHaivùngchỉchungmộtđiểmthìkhôngđượccoilàchungbiênvớinhau.
+
+
+===== PAGE 15 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+TômàuđồthịĐịnhnghĩa1:TômàumộtđơnđồthịlàbàitoángánmàuchocácđỉnhcủađồthịsaochokhôngcóhaiđỉnhkềcócùngmộtmàuĐịnhnghĩa2:Sắcsốcủamộtđồthịlàsốmàutốithiểucầnđểtômàucủađồthịnày.Địnhlýbốnmàu:Sắcsốcủamộtđồthịphẳngkhônglớnhơnbốn.
+
+===== PAGE 16 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+qTìm sắc số của các đồ thị sau
+qTìm sắc số của Kn, Km,nvàCn
+Tômàuđồthị
+
+
+===== PAGE 17 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+TômàuđồthịqThuậttoántốtnhấtđểtínhsốmàucủađồthịcóđộphứctạpthờigianlàhàmmũchotrườnghợpxấunhất.qNgaycảvấnđềtìmmộtxấpxỉsốmàucủađồthịcũnglàmộtbàitoánNPkhó.
+
+===== PAGE 18 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Tômàuđồthị: ứngdụngqLậplịchkỳthicuốikỳqLàmsaođểtìmmộtlịchthicuốikỳởmộttrườngđạihọcmàkhôngsinhviênnàocóhaibàithitạicùngmộtthờiđiểm?qPhânbốtầnsốkênhliênlạcqCáckênhtruyềnhìnhtừ2đến13đượcgiaochocáctrạmđểkhôngcóhaitrạmtrongvòng150dặmcóthểhoạtđộngtrêncùngmộtkênh.qThanhghichỉmụcqTrongcáctrìnhbiêndịch,việcthựchiệncácvònglặpđượctăngtốckhicácbiếnhayđượcsửdụngđượclưutrữtạmthờitrongthanhghichỉmụctrongbộxửlýtrungtâmthayvìbộnhớthôngthường.Vớimộtvònglặpchotrước,cầnbaonhiêuthanhghichỉmục?

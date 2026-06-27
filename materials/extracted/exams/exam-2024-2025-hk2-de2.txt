@@ -1,0 +1,72 @@
+===== PAGE 1 =====
+1 
+ 
+ ĐẠI HỌC QUỐC GIA HÀ NỘI ĐỀ CUỐI KỲ: Toán học rời rạc 
+TRƯỜNG ĐẠI HỌC CÔNG NGHỆ Học kỳ II, Năm học 2024-2025 
+ 
+Đề số 1 
+Thời gian làm bài: 90 phút 
+Đề thi gồm 02 trang. 
+ 
+Câu 1 (2.0 điểm): 
+Bạn đang bị lạc trong một mê cung thì bất chợt đối diện với ba cánh cổng: cổng 
+Vàng, cổng Bạc, và cổng Đồng. Mỗi cánh cổng có thể dẫn bạn ra khỏi mê cung, 
+hoặc khiến bạn lạc sâu hơn vào bên trong. Bạn không biết chắc cổng nào là đúng, 
+chỉ biết rằng ít nhất một trong ba cổng sẽ dẫn bạn ra ngoài. Trước mỗi cánh cổng 
+là một người gác, và tất cả những người gác này đều nói dối. Bạn hỏi họ về các 
+cánh cổng, và họ trả lời như sau: 
+● Người gác cổng Vàng nói: “Cổng này sẽ đưa bạn ra khỏi mê cung. Hơn 
+nữa, nếu cổng Đồng dẫn ra ngoài, thì cổng Bạc cũng sẽ dẫn ra ngoài.” 
+● Người gác cổng Bạc nói: “Không có chuyện cổng Vàng hoặc cổng Đồng 
+đưa bạn ra khỏi mê cung.” 
+● Người gác cổng Đồng nói: “Hãy đi qua cổng Vàng thì bạn sẽ ra ngoài; còn 
+đi qua cổng Bạc thì bạn sẽ bị lạc.” 
+Bạn biết rằng tất cả những phát biểu trên đều là sai. Nhiệm vụ của bạn là xác 
+định, với mỗi cánh cổng, xem liệu có trường hợp nào mà cổng đó không dẫn ra 
+ngoài, hay liệu nó luôn luôn là lối thoát khỏi mê cung 
+ 
+Câu 2 (2.0 điểm): 
+a. Có bao nhiêu xâu khác nhau có thể nhận được từ xâu “AABCDCBAA” bằng 
+cách thay đổi vị trí của các kí tự trong xâu? 
+b. Gọi 𝑆 là tập các số có giá trị từ 1 đến 1000 mà chia hết cho 6 hoặc 9. Đếm số 
+cách chọn ra 3 số trong tập 𝑆? 
+c. Gọi 𝑆 là tập các số có giá trị từ 1 đến 1000 mà chia hết cho 6 hoặc 9. Đếm số 
+cách chọn ra 3 số trong tập 𝑆 mà tổng ba số là số chẵn? 
+ 
+Câu 3 (2.0 điểm): 
+Cho C là một đồ thị đơn mà mỗi đỉnh của nó là một chuỗi bit nhị phân khác nhau 
+có độ dài 6, hai chuỗi bit được nối với nhau bằng một cạnh nếu và chỉ nếu chúng 
+khác nhau ở đúng một vị trí. 
+
+===== PAGE 2 =====
+2 
+ 
+a. C có chu trình Euler không? Chứng minh. 
+b. Chứng minh rằng C là đồ thị hai phía và C không có chu trình nào có độ dài 
+đúng năm cạnh. 
+c. C có phải đồ thị phẳng không? Chứng minh. 
+ 
+Câu 4 (2.0 điểm): 
+Cho đồ thị G gồm 10 đỉnh 𝑎, 𝑏, 𝑐, 𝑑, 𝑒, 𝑓, 𝑔, ℎ, 𝑖, 𝑗: 
+a. Đồ thị G có bao nhiêu cây khung? 
+b. Hãy trình bày thuật toán tìm cây khung 
+bằng cách duyệt theo chiều sâu.  
+c. Cho biết thứ tự đỉnh tuân theo thứ tự 
+bảng chữ cái. Trình bày các bước vận 
+dụng thuật toán tìm 1 cây khung có gốc 
+tại a và có chiều cao nhỏ hơn 4 bằng 
+cách duyệt theo chiều rộng trên đồ thị G.  
+ 
+ 
+ 
+Câu 5 (2.0 điểm): 
+Cho hai tập chính quy L₁ và L₂ trên bảng chữ Σ = {a, b}: 
+• L1 = {w ∈ Σ* | w chứa số chẵn ký tự a} 
+• L2 = {w ∈ Σ* | w có độ dài chia hết cho 3} 
+a. Xây dựng máy hữu hạn trạng thái không đầu ra (MHT) M1 và M2 lần lượt 
+đoán nhận L1 và L2.  
+b. Xây dựng MHT đoán nhận L1 ∩ L2. 
+c. Xây dựng MHT đoán nhận L1 U L2. 
+d. Xây dựng văn phạm sinh L1 ∩ L2. 
+ 
+-Hết-

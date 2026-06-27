@@ -1,0 +1,146 @@
+===== PAGE 1 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Toánrờirạc
+Nhận dạng ngôn ngữ & Máy Turing
+
+===== PAGE 2 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Nhận dạng ngôn ngữqMáyhữuhạncóthểđoánnhậnđượcnhữngtậpngônngữnào?¨Đâylàmộtbàitoánrấtkhó¨BàitoánnàylầnđầutiênđượcnhàtoánhọcMỹStephenKleenegiảiquyếtvàonăm1956¡Cáctậpchínhquy(regularset)cóthểđượcđoánnhận²Tậpđượcxâydựngtừtậprỗng,xâurỗngvàcácxâuchỉchứamộtkýhiệubằngcáchghép,lấyhợpvàlấybaođóngKleenetheomộtthứtựtuỳý­Vănphạmchínhquy²MộttậplàchínhquynếuvàchỉnếunóđượcsinhbởimộtvănphạmchínhquyNhắclại:Cho𝐴làmộttậpconcủa𝑉∗.KhiđóbaođóngKleenecủa𝐴–đượckýhiệulà𝐴∗–tậpgồmcácphépghépmộtsốtuỳýcácxâuthuộc𝐴.Điềunàycónghĩalà𝐴∗=∪"#$%𝐴"
+
+===== PAGE 3 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Đoán nhận ngôn ngữqCónhữngtậpkhôngthểđượcđoánnhậnbởimáyhữuhạn¨Cócácmôhìnhtínhtoánmạnhhơn,nhưcácautomatđẩyxuống(pushdown)vàcácmáyTuring
+
+===== PAGE 4 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Tập không nhận dạng được bởi máy hữu hạnqTậpkhônglàchínhquy¨Tập0!1!𝑛=0,1,2,…}¡Chứngminh:Giảsửtậptrênlàchínhquy,khiđótồntạimáyM=(S,I,f,s0,F)nhậndạngđượcnó.Xâu0!1!,vớiN=|S|cũngđượcnhậndạng.
+
+===== PAGE 5 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Các loại máy trạngtháimạnh hơnqMáyđẩyxuống(pushdownautomat)¨Nhậndạngđượctập0!1!𝑛=0,1,2,…}¨Làmộtmáyhữuhạnkèmtheomộtngănxếp,cungcấpmộtbộnhớkhônggiớihạn.¨Nhậndạngđượccácngônngữsinhbởivănphạmphingữcảnh.¨Mộttậpđượcnhậndạngbởimộttronghaicách¡Tậpgồmtấtcảcácxâusinhramộtngănxếprỗngkhicácxâuđóđượcdùnglàmđầuvào.¡Tậpgồmtấtcảcácxâudẫntớimộttrạngtháikếtthúc.
+
+===== PAGE 6 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+qMáycógiớihạntuyếntính¨Mạnhhơnmáyđẩyxuống,cóthểđoánnhậnđượccáctậpnhư0!1!2!𝑛=0,1,2,…}¨Đặcbiệt,máybịgiớihạntuyếntínhcóthểđoánnhậnđượccácngônngữcóngữcảnh.¨Tuynhiên,khôngthểđoánnhậnđượctấtcảcácvănphạmcấutrúccâu.¡MáyTuringcóthể
+Các loại máy trạngtháimạnh hơn
+
+===== PAGE 7 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Toánrờirạc
+Máy Turing
+
+===== PAGE 8 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Máy TuringqMôhìnhtínhtoántổngquátnhất¨Đặcbiệt,chúngcóthểmôhìnhtấtcảcáctínhtoáncóthểthựchiệntrênmộtmáytính¡ĐặttêntheonhàtoánhọcnổitiếngAlanTuri ng;²Đượcphátminhvàothậpniên1930qLàmộtmáyhữuhạntrạngtháivớimộtdảibăngtừvôhạnvềhaiphía¨Băngtừđượcchiathànhnhiềuô(nhớ)¡CácmáyTuringđọcvàviếtcáckýhiệulênbăngtừkhibộđiềukhiểnchạytới/luitrênbăng¨Chuyểntrạngtháituỳthuộcvàokýhiệuđọcđượctrênbăngtừ.
+
+===== PAGE 9 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Máy Turing
+MáyTuring𝑇=𝑆,𝐼,𝑓,𝑠!gồmmộttậphữuhạn𝑆cáctrạngthái,bộchữcái𝐼chứakýhiệukhoảngtrống𝐵,mộthàmchuyển𝑓từ𝑆×𝐼đến𝑆×𝐼×𝑅,𝐿vàtrạngtháixuấtphát𝑠!
+Đơn vị điều khiểnĐầu đọc/ghi
+Dải băng vô hạn về hai phía.Chỉ có một số hữu hạn ô không rỗng tại mỗi thời điểm.HÌNH 1. BIỂU DIỄN MỘT MÁY TURING
+
+===== PAGE 10 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Máy TuringqQuytắcchuyểntrạngtháicủamáy¨Hàmchuyển𝑓đượcđịnhnghĩabằngcácbộnăm.¨Nếuhàm𝑓khôngđượcđịnhnghĩachocặp𝑠,𝑥,thìmáyTuringsẽdừnglại.qỞmỗimộtbước,đơnvịđiềukhiểnđọckýhiệu𝑥từônhớhiệntạitrênbăngtừ.Nếubộđiềukhiểnởtrạngthái𝑠vànếuhàmchuyển𝑓đượcđịnhnghĩachocặp𝑠,𝑥với𝑓𝑠,𝑥=(𝑠!,𝑥!,𝑑)thìbộđiềukhiển:¨Chuyểnsangtrạngthái𝑠!¨Ghikýhiệu𝑥!vàoôhiệnthờisaukhiđãxoáx,rồi¨Dịchsangphảimộtônhớnếu𝑑=𝑅hoặcsangtráimộtônhớnếu𝑑=𝐿
+
+===== PAGE 11 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+qMáy Turing T, được xác định bởi bảy bộ năm như sau:¨(s0, 0, s0, 0, R), (s0, 1, s1, 1, R), (s0, B, s3, B, R), (s1, 0, s0, 0, R), (s1, 1, s2, 0, L), (s1, B, s3, B, R) và (s2, 1, s3, 0, R)¨Hỏi các giá trị trên băng từ là gì sau khi cho máy chạy trên băng có giá trị như trong hình (a) dưới đây?
+Máy Turing
+
+
+===== PAGE 12 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Máy Turing
+
+
+===== PAGE 13 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Máy TuringđểnhậndạngcáctậpqTrạngtháikếtthúccủamáyTuring𝑇¨Làtrạngtháikhôngphảilàtrạngtháiđầutiêntrongbấtkỳbộnămphầntửnàotrongđịnhnghĩahàmchuyểncủa𝑇Cho𝑉làtậpconcủabộchữcái𝐼.MộtmáyTuring𝑇=𝑆,𝐼,𝑓,𝑠"chấpnhậnxâu𝑥trong𝑉∗khivàchỉkhi𝑇xuấtpháttừvịtríbanđầukhi𝑥đãđượcghivàobăngtừvàsẽdừnglạiởmộttrạngtháikếtthúc.𝑇đượcnóilàchấpnhậnmộttậpcon𝐴của𝑉∗khivàchỉkhivớimọi𝑥thuộc𝐴,xđượcchấpnhậnbởi𝑇.q𝑥khôngđượcchấpnhậnnếu𝑇khôngdừnglạihoặcdừnglạikhôngphảiởtrạngtháikếtthúckhimáybắtđầuchạytrênbăngtừvớicáckýhiệucủa𝑥đãđượcghivàotrongcácôliêntiếpvàxuấtpháttừvịtríbắtđầu.
+
+===== PAGE 14 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+qHãytìmmộtmáyTuring nhậndạngđượctậpcácxâubit cókýtự1 ởvịtríthứhai,(0 ∪1)1(0 ∪1)∗qĐápán:¨(s0, 0, s1, 0, R), (s0, 1, s1, 1, R)¨(s1, 0, s2, 0, R), (s1, 1, s3, 1, R)¨(s2, 0, s2, 0, R)¨(s0, B, s2, 0, R) và(s1, B, s2, 0, R)
+Ví dụ Máy Turingđểnhậndạngcáctập
+
+===== PAGE 15 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+qHãytìmmộtmáyTuring nhậndạngđượctập{0n1n| n ≥ 1}qĐápán:¨V = {0, 1} vàI = {0, 1, M}.¨(s0, 0, s1, M, R), (s1, 0, s1, 0, R), (s1, 1, s1, 1, R),¨(s1, M, s2, M, L), (s1, B, s2, B, L), (s2, 1, s3, M, L), ¨(s3, 1, s3, 1, L), (s3, 0, s4, 0, L), (s3, M, s5, M, R), ¨(s4, 0, s4, 0, L), (s4, M, s0, M, R) và(s5, M, s6, M, R)
+Ví dụ Máy Turingđểnhậndạngcáctập
+
+===== PAGE 16 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+MáyTuring nhưlàmộthàmtínhtoánqMộtmáyTuring𝑇¨Khiđãchoxâuđầuvào𝑥sẽdừnglạivớixâu𝑦trênbăngtừcủanó,tacóthểxem𝑇𝑥=𝑦¨ViệcxemxétmộtmáyTuringnhưmộtmáytínhđượccácgiátrịcủamộthàmtrêncácxâuđầuvàolàrấthữuích¡LàmthếnàodùngmáyTuringđểtínhcáchàmđượcxácđịnhtrêncácsốnguyên,trêncặpsốnguyên,trênbộbasốnguyên,v.v?²Cầnphươngphápbiểudiễnbộksốnguyêntrênbăngcủamáy
+
+===== PAGE 17 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+qMáyTuringhoạtđộngnhưmộthàmtínhtoánvớicáchàmcủasốnguyên¨Dùngbiểudiễnnhấtphâncủacácsốnguyên¡Mộtsốnguyênkhôngâm𝑛biểudiễnbằngxâucủa𝑛+1số1²Vídụ:0biểudiễnlàxâu1,5biểudiễnlàxâu111111¡Bộksốnguyên𝑛",𝑛#,…,𝑛$²Mộtxâugồm𝑛!+1số1,tiếpsaulàmộtdấusao(∗),tiếpsaugồm𝑛"+1số1,tiếpsaulạilàmộtdấusao,v.v,vàkếtthúcbằng𝑛#+1số1
+MáyTuring nhưlàmộthàmtínhtoán
+
+===== PAGE 18 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+qMáyTuringhoạtđộngnhưmộthàmtínhtoánvớicáchàmcủasốnguyên¨Dùngbiểudiễnnhấtphâncủacácsốnguyên¡Mộtsốnguyênkhôngâm𝑛biểudiễnbằngxâucủa𝑛+1số1²Vídụ:0biểudiễnlàxâu1,5biểudiễnlàxâu111111¡Bộksốnguyên𝑛",𝑛#,…,𝑛$²Mộtxâugồm𝑛!+1số1,tiếpsaulàmộtdấusao(∗),tiếpsaugồm𝑛"+1số1,tiếpsaulạilàmộtdấusao,v.v,vàkếtthúcbằng𝑛#+1số1
+MáyTuring nhưlàmộthàmtínhtoán
+
+===== PAGE 19 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+qXâydựngmộtmáyTuringthựchiệnphépcộnghaisốnguyênkhôngâm.qĐápán:¨(s0,1,s1,B,R)¨(s1,∗,s3,B,R)¨(s1,1,s2,B,R)¨(s2,1,s2,1,R)¨(s2,∗,s3,1,R)
+MáyTuring nhưlàmộthàmtínhtoán
+
+===== PAGE 20 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+CácloạimáyTuring khácqMỗibướcdịchchuyểnsangtrái,sangphảihoặckhôngdịchchuyểnhoàntoànqDùngnhiềudảibăngđồngthời¨Sửdụngbộ(2+3𝑛)đểbiểudiễnmáyTuringkhisửdụng𝑛dảibăngqDảibăngcóhaichiều¨Dịchchuyểnlên,xuống,tráihoặcphảiqCónhiềuđầuđọc,đọcđồngthờinhiềuôkhácnhauqMáyTuringkhôngtấtđịnhqHạnchếbăngvôhạnchỉtheomộthướnghoặchạnchếbộchữcáicủabăngchỉcóhaikýhiệu
+
+===== PAGE 21 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+LuậnđềChurch-TuringqMáyTuringtươngđốiđơngiảnnhưnglạirấtmạnh¨Đểcộngvànhâncácsố¨Đểtínhtoáncáchàmđặcbiệtnàođócóthểtínhđượcbằngmộtthuậttoán¡CóthểkháphứctạpđểxâydựngmộtmáyTuringnhưnghoàntoànkhảthi
+
+===== PAGE 22 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+LuậnđềChurch-Turing“Đốivớimộtbàitoánđãchobấtkỳcóthểgiảiđượcbằngmộtthuậttoánhiệuquả,thìsẽtồntạimộtmáyTuringcóthểgiảiđượcbàitoánđó.”¨Kháiniệmvềkhảnănggiảiquyếtbằngmộtthuậttoánhiệuquả¡Làkhainiệmkhôngchínhthứcvàkhôngchínhxác¡Sửdụnglượngbộnhớkhônghạnchế²Đốilậpvớikháiniệmthuậttoánhiệuquảchạytrênmáytínhtrongthựctế,chỉđượcsửdụngmộtlượngbộnhớhạnchế
+
+===== PAGE 23 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+qTớinay,độphứctạpđượcđịnhnghĩabằngsốlượngphéptoáncơbảnđượcsửdụngbởithuậttoán¨Cácphéptoántrênbit,sosánhcácsốnguyên,phéptoánsốhọc,v.v.¨Khôngchínhxác¡BởivìcácloạiphéptoándùngđểđođộphứctạpcósựbiếnđổirấtlớnqNếuluậnđềChurch-Turinglàđúng¨DùngmáyTuringđểchínhxáchoámộtsốkháiniệmliênquanđếnđộphứctạptínhtoán
+Độ phức tạp tính toán
+
+===== PAGE 24 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+ĐộphứctạptínhtoánMộtbàitoánraquyếtđịnh(decisionproblem)yêucầutrảlờixemcácphátbiểuthuộcmộtlớpcụthểcóđúngkhông?.Bàitoánraquyếtđịnhcònđượcbiếtđếnlàbàitoáncó-không(yes-or-no).¨Vớimộtbàitoánraquyếtđịnh,chúngtamuốnxemcóthuậttoáncóthểraquyếtđịnhđượchaykhông?¨Vídụ:“ncóphảisốnguyêntố?”
+
+===== PAGE 25 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+ĐộphứctạptínhtoánqGiảiquyếtbàitoáncó-không¨Giốngnhưđoánnhậnngônngữbaogồmtấtcảcácxâubitbiểudiễngiátrịđầuvàochobàitoándẫnđếncâutrảlờilà“có”.¨Dođó,giốngnhưđoánnhậnngônngữtươngứngvớicácgiátrịđầuvàomàcâutrảlờichobàitoánlà“có”.
+
+===== PAGE 26 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+KhảnănggiảiquyếtqBàitoáncóthểgiảiđược(solvable)hoặccóthểquyếtđịnhđược(decidable)¨Cómộtthuậttoánhiệuquảquyếtđịnhxemcáctrườnghợpcủabàitoáncóđúnghaykhông¨Vídụ:bàitoánxácđịnhliệumộtsốnguyêndươnglàsốnguyêntốqBàitoánkhônggiảiđượchoặckhôngquyếtđịnhđược¨Khôngtồntạithuậttoánhiệuquảđểgiảiquyếtbàitoán
+
+===== PAGE 27 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+KhảnănggiảiquyếtĐịnhnghĩa:BàitoándừnglàbàitoánquyếtđịnhđặtracâuhỏiliệumộtmáyTuring𝑇rútcuộccóthểdừnglạikhiđầuvàolàxâu𝑥haykhông?.Địnhlý:Bàitoándừnglàmộtbàitoánquyếtđịnhkhônggiảiđược.Nghĩalà,khôngtồntạimáyTuring𝑇nàocóthểxácđịnhxem𝑇rútcuộccódừnglạikhibắtđầuvớixâuđầuvào𝑥đượcghivàobăngtừcủanó.
+
+===== PAGE 28 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+KhảnănggiảiquyếtqVídụkháccủabàitoánkhônggiảiđược¨Liệuhaivănphạmphingữcảnhcósinhratậpcácxâugiốngnhau?¨Liệuvớimộtbộgạchlátsàn(chophépdùnglặplại)cóthểbaophủtoànbộmộtbềmặtmàkhôngchồngchéolênnhau?¨BàitoánHilbertthứmười¡Mộtphươngtrìnhđathứcvớicáchệsốlàsốnguyênbấtkỳcónghiệmnguyênhaykhông?(Bàitoánthứmườitrongsố23bàitoánHilbertđặtravàonăm1900.CâutrảlờiđãđượcnhàtoánhọcMatiyasevichđưaranăm1970làkhôngcóthuậttoángiảiquyếtbàitoánnày)
+
+===== PAGE 29 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+KhảnăngtínhtoánqHàmkhảtính¨CóthểtínhtoánđượcbằngmáyTuringqDễdàngđểchứngminhrằngcócáchàmvềlýthuyếtsốlàkhôngkhảtính¨Rấtkhóđểtạoramộthàmnhưvậy
+
+===== PAGE 30 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+KhảnăngtínhtoánqMọibàitoánquyếtđịnhđềucóthểđượcđịnhnghĩalạinhưlàmộtbàitoánvềtínhgiátrịmộthàm¨Giátrịlà1khicâutrảlờichobàitoánlà“có”và0chotrườnghợpngượclại¨Bàitoánquyếtđịnhlàbàitoángiảiđượckhivàchỉkhihàmtươngứngđượcxâydựngtheocáchnàylàkhảtính.
+
+===== PAGE 31 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+KhảnăngtínhtoánqMáyTuringtấtđịnh¨Khôngcóhaibộnămnàobắtđầuvớicùngmộtcặp(s,x)qMáyTuringkhôngtấtđịnh¨Chophéphaibộnămbắtđầuvớicùngmộtcặp(s,x).¨Ởmỗibướcchuyển,máysẽchọn(đoán)mộttrongcáckhảnăngkhácnhaucóthểchuyểnđến.qMáyTuringkhôngtấtđịnhđượcgọilàgiảiđượcmộtbàitoánquyếtđịnhnếunónhậndạngđượctậphợpgồmtấtcảcácgiátrịđầuvàomàcâutrảlờichobàitoánquyếtđịnhlà“có”.
+
+===== PAGE 32 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+KhảnăngtínhtoánqMộtbàitoánquyếtđịnhlàthuộclớp𝑃nếunócóthểgiảibằngmộtmáyTuringtấtđịnhtrongthờigianđathức.¨Bàitoánquyếtđịnhlàthuộclớp𝑃nếucómộtmáyTuringtấtđịnh𝑇giảiđượcbàitoánnày,vàmộtđathức𝑝(𝑛)saochovớitấtcảcácsốnguyên𝑛,𝑇dừngởtrạngtháikếtthúcsauíthơnhoặcbằng𝑝(𝑛)phépchuyểnbấtcứkhinàođầuvàocho𝑇làmộtchuỗichiềudài𝑛.qMộtbàitoánquyếtđịnhlàthuộclớp𝑁𝑃nếunócóthểgiảibằngmộtmáyTuringkhôngtấtđịnhtrongthờigianđa.¨Mộtbàitoánquyếtđịnhthuộclớp𝑁𝑃nếucómộtmáyTuringkhôngtấtđịnh𝑇giảiđượcbàitoánnày,vàmộtđathức𝑝(𝑛)saochovớitấtcảcácsốnguyên𝑛,𝑇dừngvớitấtcảsựlựachọncácphépchuyểnsauíthơnhoặcbằng𝑝(𝑛)phépchuyểnbấtcứkhinàođầuvàocho𝑇làmộtchuỗichiềudài𝑛.
+
+===== PAGE 33 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+FILM ENDED & G’LUCK

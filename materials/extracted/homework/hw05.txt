@@ -1,0 +1,58 @@
+===== PAGE 1 =====
+Bài tập về nhà tuần 05: Quy nạp và Đệ quy
+Bộ môn Khoa học và Kỹ thuật tính toán (VNU-UET-FIT)
+2026-03-08
+Họ và tên: …………………………………………………… MSV: ………………………..
+PHẦN 1: Quy nạp Toán học
+Bài 1 (Rosen 5.1.4) Chứng minh rằng 13 + 23 + ⋯ + 𝑛3 = [ 𝑛(𝑛+1)
+2 ]
+2
+với mọi số nguyên dương 𝑛.
+Bài 2 (Rosen 5.1.6) Chứng minh rằng 1 ⋅ 1! + 2 ⋅ 2! + ⋯ + 𝑛 ⋅ 𝑛! = (𝑛 + 1)! − 1 với mọi số nguyên
+dương 𝑛.
+Bài 3 (Rosen 5.1.9) Chứng minh rằng 2𝑛 < 𝑛! với mọi số nguyên 𝑛 ≥ 4.
+Bài 4 (Rosen 5.1.11) Chứng minh rằng 𝑛2 < 2𝑛 với mọi số nguyên 𝑛 ≥ 5.
+Bài 5 (Rosen 5.1.14) Chứng minh rằng 1
+𝑛+1 + 1
+𝑛+2 + ⋯ + 1
+2𝑛 > 13
+24 với mọi số nguyên 𝑛 ≥ 2.
+Bài 6 (Rosen 5.1.15) Chứng minh rằng 1 + 1√
+2 + ⋯ + 1√𝑛 > √𝑛 với mọi số nguyên 𝑛 ≥ 2.
+Bài 7 (Rosen 5.1.32) Chứng minh rằng 𝑛3 + 2𝑛 chia hết cho 3 với mọi số nguyên dương 𝑛.
+Bài 8 (Rosen 5.1.33) Chứng minh rằng 5𝑛 − 1 chia hết cho 4 với mọi số nguyên dương 𝑛.
+PHẦN 2: Quy nạp mạnh
+Bài 9 (Rosen 5.2.4) Chứng minh rằng mọi số nguyên dương 𝑛 đều có thể được viết dưới dạng
+𝑛 = 2𝑘𝑚, trong đó 𝑘 là một số nguyên không âm và 𝑚 là một số nguyên lẻ.
+Bài 10 (Rosen 5.2.7) Trong trò chơi gỡ tem, ta có một xấp gồm 𝑛 con tem. Mỗi bước, ta chia một
+xấp có kích thước lớn hơn 1 thành hai xấp nhỏ hơn. Trò chơi kết thúc khi tất cả các xấp đều chỉ còn
+1 con tem. Chứng minh rằng tổng số bước thực hiện luôn là 𝑛 − 1, bất kể cách chia như thế nào.
+Bài 11 (Rosen 5.2.10) Chứng minh rằng mọi số nguyên dương 𝑛 đều có thể được biểu diễn dưới
+dạng tổng của các lũy thừa phân biệt của 2.
+Bài 12 (Rosen 5.2.14) Chứng minh rằng mọi số tiền bưu phí từ 30 cents trở lên đều có thể được
+tạo ra bằng cách chỉ sử dụng các con tem mệnh giá 4 cents và 11 cents.
+Bài 13 (Rosen 5.2.25) Chứng minh rằng người chơi thứ nhất luôn có chiến thuật thắng trong trò
+chơi Chomp trên bàn cờ kích thước 2 × 𝑛.
+1
+
+===== PAGE 2 =====
+PHẦN 3: Đệ quy
+Bài 14 (Rosen 5.3.2) Tìm giá trị của 𝑓(2) và 𝑓(3) nếu 𝑓 được định nghĩa đệ quy bởi: 𝑓(0) =
+−1, 𝑓(1) = 2 và 𝑓(𝑛) = 𝑓(𝑛 − 1) + 𝑓(𝑛 − 2) với mọi 𝑛 ≥ 2.
+Bài 15 (Rosen 5.3.4) Cung cấp một định nghĩa đệ quy cho tập hợp 𝑆 gồm các số nguyên là lũy
+thừa của 2, tức là 𝑆 = {2 𝑛 ∣ 𝑛 = 0, 1, 2, … }.
+Bài 16 (Rosen 5.3.8) Chứng minh rằng 𝑓 2
+1 + 𝑓2
+2 + ⋯ + 𝑓2
+𝑛 = 𝑓 𝑛𝑓𝑛+1, trong đó 𝑓𝑛 là số Fibonacci thứ
+𝑛.
+Bài 17 (Rosen 5.3.11) Chứng minh định lý Cassini: 𝑓𝑛−1𝑓𝑛+1 − 𝑓 2
+𝑛 = (−1) 𝑛 với mọi số nguyên
+dương 𝑛.
+Bài 18 (Rosen 5.3.25) Cho tập hợp 𝑆 các điểm trong mặt phẳng tọa độ được định nghĩa: - Bước
+cơ sở: (0, 0) ∈ 𝑆 . - Bước đệ quy: Nếu (𝑎, 𝑏) ∈ 𝑆 , thì (𝑎 + 1, 𝑏) ∈ 𝑆, (𝑎, 𝑏 + 1) ∈ 𝑆 và (𝑎 + 1, 𝑏 + 1) ∈ 𝑆 .
+Chứng minh bằng quy nạp cấu trúc rằng 𝑎 + 𝑏 ≥ 0 cho mọi điểm (𝑎, 𝑏) ∈ 𝑆 .
+Bài 19 (Rosen 5.3.36) Sử dụng quy nạp cấu trúc để chứng minh rằng 𝑙(𝑥𝑦) = 𝑙(𝑥) + 𝑙(𝑦) , trong đó
+𝑙(𝑤) là độ dài của xâu ký tự 𝑤, và 𝑥𝑦 là phép ghép hai xâu 𝑥 và 𝑦.
+Bài 20 (Rosen 5.3.43) Cung cấp định nghĩa đệ quy cho xâu đảo ngược 𝑥𝑅 của một xâu ký tự 𝑥.
+2

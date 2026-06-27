@@ -1,0 +1,147 @@
+===== PAGE 1 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Toánrờirạc
+QuynạpvàHồiquy
+
+===== PAGE 2 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+NộidungqPhép quy nạp toán họcqĐịnhnghĩađệquyqCácthuậttoánquynạp
+
+===== PAGE 3 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Quynạptoánhọc(Induction)qĐược sửdụngđểchứngminh cácmệnhđềdạng∀x	P(x),	x	∈	Z+qGồm2	bước:¨Cơbản:	ChứngminhP(1)	đúng¨Bướcquynạp:	ChứngminhP(n)	->	P(n+1)	đúngvớimọisố	dươngn.¨Kếtluận∀n	P(n)
+
+===== PAGE 4 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Quynạptoán họcqĐặctrưng	cóthứtự(Well-ordering	property)¨Mọitậpkhôngrỗngcủacácsốnguyênkhôngâmcóthànhphầnnhỏnhất.qTínhđúngđắncủaquynạptoánhọc¨Giảsửtồn	tại	ítnhất	một	số	n	đểP(n)	sai.	¡GọiS	là	một	tậpcác	số	nguyên	không	âmsao	choP(n)	sai.	Do	đó,	S	≠	∅.	¨Dựavàođặctrưng	cóthứtự,	S	có	thànhphầnnhỏnhất,	giảsửlàk	(k	>	1),	¡k	–1	>	0	và	P(k-1)	đúng(vìk	là	số	nguyên	nhỏnhất	màP(k)	sai)¨Mà:P(k-1)	->	P(k)	đúng¡Do đó, P(k) đúng(phảnchứng)¨Vìvậy, ∀n	P(n).
+
+===== PAGE 5 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Quynạptoán họcqVídụ: Chứngminh tổngcủa n số nguyên lẻđầutiênlàn2, vớimọisốnguyêndương. P(n): 1 + 3 + 5 + 7 + … + (2n-1) = n2qChứngminh:¨Bướccơ bản: P(1) đúng, vì1 = 12¨Bướcquynạp:¡GiảsửP(n) đúng, 1 + 3 + 5 + 7 + … + (2n-1) = n2¡KhiđóP(n+1) đúng, vì
+
+
+===== PAGE 6 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Quynạptoán họcqVídụ: Chứngminh n < 2nvới mọisố nguyên dươngn. P(n): n < 2nqChứngminh¨Bướccơ bản:1 < 21(luônđúng)¨Bướcquynạp:NếuP(n) đúngthìP(n+1) cũngđúngvới mọin.¡GiảsửP(n): n < 2nđúng¡P(n+1): n+1 < 2n+1đúng, vìn+1 < 2n+ 1 < 2n+ 2n= 2n(1+1) = 2n(2) = 2n+1
+
+===== PAGE 7 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Quynạptoán họcqVídụ: Chứngminh n3–n chia hếtcho3 với mọisố nguyên dương. P(n): n3-n chia hếtcho3qChứngminh¨Bướccơ bản: P(1): 13–1 = 0 chia hếtcho3 (luônđúng)¨Bướcquynạp: NếuP(n) đúngthìP(n+1) đúngvới mọisố nguyên dương.¡GiảsửP(n): n3-n chia hếtcho3¡Chứngminh P(n+1): (n+1)3–(n+1) chia hếtcho3
+
+
+===== PAGE 8 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+QuynạptoánhọcqVídụ: (Bàitoánnémbánh) Mộtsốlẻngườiđứngtrongsânsaochokhoảngcáchgiữa2 ngườibấtkỳnàođềukhônggiốngnhau. Cùngmộtlúc, mỗingườisẽném1 chiếcbánhvềphíangườigầnnhấtvớimình. Chứngminhrằngcóítnhấtmộtngườikhôngbịai némcả.
+
+===== PAGE 9 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Quynạptoánhọc
+qChứng minh Luật De Morgan với tập hợp:
+Trong đó A1, A2, . . . , An là các tập con của 1 tập vũ trụ U và n ≥ 2.
+
+===== PAGE 10 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+QuynạptoánhọcqCho n làmộtsốnguyêndương. CMR cóthểsửdụngcácđômi nô3 ôhìnhchữL đểlátkínmọiôbàncờ2n ×2n vớimộtôvuôngđãbịlát.
+
+
+===== PAGE 11 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+QuynạptoánhọcLỗimắcphảikhichứngminhbằngquynạpq“Địnhlý” Vớimọisốnguyêndươngn, nếux vày là2 sốnguyêndươngthỏamãnmax(x, y) = n, thìx = yqChứngminh¨Bướccơbản: Vớin = 1. Nếumax(x, y) = 1 vàx, y đềunguyêndương, ta cóx = 1 vày = 1. P(1) đúng. ¨Bướcquynạp: Vớik làmộtsốnguyêndương, giảsửrằngbấtkểkhinàomax(x, y) = k vàx, y đềunguyêndươngthìx=y. Nếuđểmax(x, y) = k + 1, thìmax(x − 1, y − 1) = k, do đótheogiảthuyếtquynạpta cóx − 1 = y − 1. ¡Cónghĩalàx = y [đpcm]
+
+===== PAGE 12 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Quynạpmạnh(Strong induction)qQuynạpthông thường:¨Dùngbướccơbản: P(1)¨Bướcquynạp: P(n-1) -> P(n)qQuynạpmạnh:¨Dùngbướccơbản: P(1)¨Bướcquynạp: P(1) và P(2) … P(n-1) -> P(n)
+
+===== PAGE 13 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+QuynạpmạnhqVídụ: Chứngminh một số nguyên dươnglớnhơn 1 có thể được biểudiễndướidạng tíchcủa các số nguyên tố.qChứngminh:¨Bướccơ bản: P(2) đúng¨Bướcquynạp: GiảsửP(2), P(3),…P(n) đúng. ChứngminhP(n+1) cũngđúng. Có2 trườnghợp:¡Nếun+1 là số nguyên tốthìP(n+1) đương nhiênđúng¡Nếun+1 là hợpsố thìnócó thể được biểudiễnlà tíchcủa 2 số nguyên (n+1) = a*b sao cho1<a,b<n+1²Từ giảsửP(a) và P(b) đúng, ta cóP(n+1) đúng.
+
+===== PAGE 14 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+QuynạpmạnhqVídụ: Mộttròchơitrongđó02 ngườichơilầnlượtlấyra mộtsốbấtkỳcácque diêm(màhọmuốn) từmộttrong2 cộtdiêm. Ngườichơinàolấyđượcque diêmcuốicùngsẽthắng.¨Chứngminhrằngnếuban đầu2 cộtdiêmchứasốque diêmbằngnhauthìngườichơithứ2 luônthắng
+
+===== PAGE 15 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Địnhnghĩa đệquy(Recursive definition)
+Vídụ:qĐịnhnghĩađệquycủamộtcấpsốcộng:an= a + ndan= an-1+ d, a0= aqĐịnhnghĩađệquycủamộtcấpsốnhân:xn= arnxn= rxn-1, x0 = a
+qMột đối tượng (hàm, chuỗi, thuật toán, cấu trúc) trong một số trường hợp có thể được định nghĩa bằng chính nó. Quy trình này được gọi là đệ quy (recursion).
+
+===== PAGE 16 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Địnhnghĩa đệquyqTrong một số trườnghợp, cácđốitượngsẽđượcđịnhnghĩamộtcáchdễdàngvàdễhiểuhơn khisửdụngđịnhnghĩađệquy.Vídụ:qThuậttoán tínhướcchunglớnnhấtgcd:¨gcd(79,35) = gcd(35,9)¨Tổng quáthơn: gcd(a,b) = gcd(b, a mod b)qHàmgiaithừa¨n! = n(n-1)! và 0! = 1qCácbộsinhsốgiảngẫunhiên:¨xn+1=(axn+c) mod m
+
+===== PAGE 17 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Địnhnghĩa đệquycáchàmqĐểđịnh nghĩađệquymộthàmtrêntậpcác số nguyên không âm¨Xácđịnh giátrịcủa hàmtại 0¨Đưara một quytắcđểtìmgiátrịcủa hàmtại n+1 với các số nguyên i<= n.Vídụ: định nghĩa hàmgiaithừa¨0! = 1¨n! = n(n-1)!
+
+===== PAGE 18 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Địnhnghĩa đệquycáchàmVídụ: qGiảsửmột hàmđệquytrêntậpcác số nguyên dương:¨f(0) = 3¨f(n+1) = 2f(n) + 3qGiátrịcủa f(0) là gì? 3¨f(1) = 2f(0) + 3 = 2(3) + 3 = 6 + 3 = 9¨f(2) = f(1+1) = 2f(1) + 3 = 2(9) + 3 = 18 + 3 = 21¨f(3) = f(2+1) = 2f(2) + 3 = 2(21) + 3 = 42 + 3 = 45¨f(4) = f(3+1) = 2f(3) + 3 = 2(45) + 3 = 90 + 3 = 93
+
+===== PAGE 19 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Địnhnghĩa đệquyVídụ: qHàmf(n) = 2n + 1 với n = 0,1,2,… đượcđịnhnghĩađệquynhưsau:¨f(0) = 1¨f(n+1) = f(n) +2qChuỗi: an= n2vớin = 1,2,3,… đượcđịnhnghĩađệquynhưsau:¨a1= 1¨an+1= an2+ (2n+1), n >= 1
+
+===== PAGE 20 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Các định nghĩa đệquyVí dụ:qĐịnh nghĩa đệquycủa tổngn số nguyên dươngđầutiênF(n) = ∑PQRS𝑖¨F(1) = 1¨F(n+1) = F(n) + (n+1), n >= 1
+
+===== PAGE 21 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Địnhnghĩa đệquy: xâukýtựqCho trướctậpcácchữ cái∑¨Vídụ:	∑	=	{a,b,c,d}q∑*¨Mộttậpgồmtấtcảcácxâucóchứanhữngkítựtrong∑¨Vídụ:	∑*	=	{“” ,a,aa,aaa,aaa…,ab,…b,bb,bbb,…}qĐịnh	nghĩa	đệquycủa	∑*¨Xâurỗng𝞴∈	∑*¨Nếuw	∈	∑*	và	x	∈	∑	thìwx∈	∑*
+
+===== PAGE 22 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Địnhnghĩađệquy: xâukýtự(String)Vídụ:qTìmmột định nghĩa đệquycủa l(w), là độdàicủa xâuw.qGiải pháp:¨l(“”) = 0; (độdàicủa xâurỗng) ¨l(wx) = l(w) + 1 nếuw ∈	∑*	và	x	∈	∑.
+
+===== PAGE 23 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Địnhnghĩa đệquyqCác cấutrúcdữ liệu¨Vídụ: Câycó gốc(rooted tree)qBướccơ bản:¨Một nútđơn (đỉnh) là một câycó gốcqBướcđệquy:¨GiảsửT1, T2, … Tklà các câycó gốc, thìđồthịvới một gốcr liênkết với T1, T2,…Tklà một câycó gốc.
+
+
+===== PAGE 24 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+ThuậttoánđệquyqMộtthuậttoánđượcgọilà“đệquy” nếunógiảiquyếtmộtvấnđềbằngcáchgiảiquyếtvấnđềtươngtựnhưng vớikíchthướcđầuvàonhỏhơn.¨DễcàiđặtqVídụ:
+
+
+===== PAGE 25 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+ThuậttoánđệquyqThuật toán đệ quy tính an.
+
+===== PAGE 26 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+qThuậttoánđệquytínhướcchunglớnnhấtThuậttoánđệquy
+
+
+===== PAGE 27 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+qThuậttoánđệquytínhlũythừamôđunlôbnmod m
+Thuậttoánđệquy
+
+
+===== PAGE 28 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+qThuậttoánđệquytìmkiếmtuyếntính
+Thuậttoánđệquy
+
+===== PAGE 29 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+qThuậttoánđệquytìmkiếmnhịphânThuậttoánđệquy
+
+
+===== PAGE 30 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+qThuậttoánsắpxếptrộn(merge sort)¨Vídụ: 8, 2, 4, 6, 9, 7, 10, 1, 5, 3
+Thuậttoánđệquy
+
+
+===== PAGE 31 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+qThuậttoánsắpxếptrộn(merge sort)¨ĐộphứctạpO(n log n)
+Thuậttoánđệquy
+¨Hai danh sách đã được sắp xếp gồm m và n phần tử có thể được trộn vào thành 1 danh sách được sắp xếp bằng cách sử dụng không nhiều hơn m + n − 1 phép so sánh.
+
+===== PAGE 32 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+qTínhđúngđắncủathuậttoánđệquyđượcchứngminhbằngphươngphápquynạp[mạnh] toánhọcqVídụthuậttoánan¨Bướccơbản: Nếun = 0, bướcđầutiêncủathuậttoánchochúngta biếtpower(a, 0) = 1. Điềunàyđúngvìa0 =1 vớimọia ≠ 0.¨Bướcđệquy: Giảsửthuậttoántínhchínhxácđượcak, cầnphảichứngminhrằngnócũngtínhchínhxácđượcak+1¡power(a, k+1) = a * power(a, k) = a * ak= ak+1
+Thuậttoánđệquy

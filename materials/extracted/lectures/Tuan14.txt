@@ -1,0 +1,107 @@
+===== PAGE 1 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Toánrờirạc
+Tập chính quy & Đoán nhận ngôn ngữ
+
+===== PAGE 2 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+TậpcácxâuCho𝐴và𝐵làhaitậpconcủa𝑉∗,với𝑉làmộttừvựng.Phépghép(concaternation)của𝐴và𝐵,đượckýhiệubởi𝐴𝐵,làtậptấtcảcácxâucódạng𝑥𝑦trongđó𝑥làxâuthuộc𝐴và𝑦làxâuthuộc𝐵.qVí dụ: Cho A = {0, 11} và B = {1, 10, 110}. Tìm AB và BAqĐáp án:qAB = {01, 010, 0110, 111, 1110, 11110}qBA = {10, 111, 100, 1011, 1100, 11011}qVí dụ: Cho A = {1,00}. Tìm An với n = 0, 1, 2, và 3.qĐáp án: A0 = {λ}, A1=A0A = {λ}A = {1, 00}, A2 = {11, 100, 001, 0000}, A3 = {111, 1100, 1001, 10000, 0011, 00100, 00001, 000000}
+
+===== PAGE 3 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+TậpcácxâuCho𝐴làmộttậpconcủa𝑉∗.KhiđóbaođóngKleene(Kleeneclosure)của𝐴–đượckýhiệulà𝐴∗–tậpgồmcácphépghépmộtsốtuỳýcácxâuthuộc𝐴.Điềunàycónghĩalà𝐴∗=∪"#$%𝐴"
+
+===== PAGE 4 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+TậpcácxâuqVídụ:TìmbaođóngKleenecủacáctập𝐴=0,𝐵={0,1}và𝐶={11}qLờigiải:𝐴∗=0"𝑛∈ℕ}𝐵∗=𝑉∗làtậptấtcảcácxâunhịphân𝐶∗=1#"𝑛∈ℕ}
+
+===== PAGE 5 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Thực hành Tập các xâuqChứngminhcácđẳngthứcsau¨{λ}∗= {λ}¨(A∗)∗=  A∗vớimọitậpcácxâuAqGọiV làtậpcácchữcái, A vàB làtậpcon củaV∗, CMR |AB| ≤ |A||B|qXâu01001 cóthuộccáctậpsaukhông?¨{0, 1}∗¨{0}∗{10}{1}∗¨{010}∗{0}∗{1} ¨{010, 011}{00, 01}¨{00}{0}∗{01} ¨{01}∗{01}∗
+
+===== PAGE 6 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Thực hành Tập các xâuqCho A làmộttậpcon củaV ∗, vớiV làtậpbảngchữcái. Chứngminhhoặcbácbỏcácphátbiểusau.¨A ⊆A2¨NếuA= A2, thìλ ∈A¨A{λ} = A¨(A∗)∗= A∗¨A∗A= A∗¨|An| = |A|n
+
+===== PAGE 7 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Tập chính quyBiểuthứcchínhquy(regularexpression)trêntập𝐼đượcđịnhnghĩamộtcáchđệquynhưsau:kýhiệu∅làmộtbiểuthứcchínhquykýhiệu𝜆làmộtbiểuthứcchínhquykýhiệu𝑥làmộtbiểuthứcchínhquyvớimọi𝑥∈𝐼cáckýhiệu(𝑨𝑩),(𝑨∪𝑩)và𝑨∗làcácbiểuthứcchínhquyvớimọi𝑨và𝑩làcácbiểuthứcchínhquy.qTậpchínhquy:biểudiễnbằngbiểuthứcchínhquy
+
+===== PAGE 8 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Tập chính quyqVídụXácđịnhcácxâutrongtậpchínhquyđượcmôtảbởicácbiểuthứcchínhquysau:10∗,10∗,00∪1∗,0∗1∗
+qLờigiải¨10∗:mộtsố1theosaubởimộtsốbấtkỳsố0(kểcảkhông)¨10∗:mộtsốbấtkỳcáccặp10(kểcảxâurỗng)¨00∪1∗:xâubấtkỳbắtđầubằng0¨0∗1∗:xâubấtkỳkếtthúcbằng1
+
+===== PAGE 9 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+qHãy tìm một biểu thức chính quy để đặc tả mỗi tập chính quy sau:¨Tập các xâu bit có độ dài chẵn.¨Tập các xâu bit kết thúc bằng số 0 và không chứa xâu con 11.¨Tập các xâu bit chứa một số lẻ số 0.qĐáp án:¨(00 ∪01 ∪10 ∪11)∗¨(0 ∪10)∗(0 ∪10)¨1∗01∗(01∗01∗)∗
+Tập chính quy
+
+===== PAGE 10 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Định lý KleeneMộttậplàchínhquykhivàchỉkhinóđượcchấpnhậnbởimộtmáyhữuhạnqChứng minh: Một tập chính quy được định nghĩa bằng các biểu thức chính quy.¨∅được nhận dạng bởi một máy hữu hạn.¨{λ}được nhận dạng bởi một máy hữu hạn.¨{a} được nhận dạng bởi một máy hữu hạn với mọi ký hiệu athuộc bảng chữ cái I.¨Giải sử A và B đều được nhận dạng bởi các máy hữu hạn.¡AB được nhận dạng bởi một máy hữu hạn¡A ∪B được nhận dạng bởi một máy hữu hạn¡A* được nhận dạng bởi một máy hữu hạn
+
+===== PAGE 11 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Chứng minh Định lý Kleene
+
+
+===== PAGE 12 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Chứng minh Định lý Kleene
+
+
+===== PAGE 13 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+qXâydựngmáytấtđịnhnhậndang tậpchínhquy1∗∪01.qLờigiải:
+Ví dụ Định lý Kleene
+
+
+===== PAGE 14 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+qXâydựngmáytấtđịnhnhậndang tậpchínhquy1∗∪01.qLờigiải(tiếp):
+Ví dụ Định lý Kleene
+
+===== PAGE 15 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Thực hành biểu thức chính quyqXâu1011 cóthuộccáctậpchínhquysaukhông?¨10∗1∗¨0∗(10 ∪11)∗¨1(01)∗1∗¨1∗01(0 ∪1)¨(10)∗(11)∗¨1(00)∗(11)∗¨(10)∗1011 ¨(1 ∪00)(01 ∪0)1∗
+
+===== PAGE 16 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Thực hành biểu thức chính quyqGiả sử bảng chữ cái là {0,1}. Tìm biểu thức chính quy cho từng tập sau:¨Tập các xâu có 0, 1 hoặc 2 bit¨Tập các xâu gồm hai số 0, theo sau bởi không hoặc nhiều số 1, và kết thúc bằng 0¨Tập các xâu mà mỗi số 1 đều được theo sau bởi hai số 0¨Tập các xâu kết thúc bằng 00 và không chứa 11¨Tập các xâu chứa một số chẵn số 1
+
+===== PAGE 17 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Thực hành biểu thức chính quyqSử dụng định lý Kleene, hãy tìm các máy hữu hạn nhận dạng được mỗi tập sau:¨01*¨(0 ∪1)1*¨00(1*∪10)qTìm tập chính quy nhận dạng được bởi máy bên phải
+
+===== PAGE 18 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Tập chính quy và văn phạm chính quyqVănphạmchínhquy(vănphạmloại3)¨Cácluậtsinhcódạng𝑆→𝜆,𝐴→𝑎,hoặc𝐴→𝑎𝐵
+Địnhlý:Mộttậpđượcsinhbởimộtvănphạmchínhquykhivàchỉkhinólàmộttậpchínhquy.
+
+===== PAGE 19 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Chứng minhqNếumộttậpđượcsinhbởimộtvănphạmchínhquythìnólàmộttậpchínhquy.qG=(V ,T,S,P)làmộtvănphạmchínhquysinhratậpL(G)¨Xây dựng một máy M = (S, I, f, s0, F)nhận dạng được L(G)¡S = {s0U sA U sF} trong đó sAtương ứng với ký tự không kết thúc A, và trạng thái kết thúc sF, s0là trạng thái được tạo từ ký hiệu bắt đầu S.¡A→a: f(sA, a) = sF¡A→aB: f(sA, a) = sB¡S→λ: s0cũng là 1 trạng thái kết thúc
+
+===== PAGE 20 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Chứng minhqNếumộttậplàchínhquythìnóđượcsinhbởimộtvănphạmchínhquy.qGiảsửM=(S,I,f,s0,F),vớitrạngtháibắtđầus0,làmộtmáynhậndạngđượctậpchínhquy.¨Xây dựng một máy G=(V , T, S, P)sinh ra L(M)¡Một ký tự trong V được tạo ra tương ứng với một trạng thái scủa M và một ký tự trong I.¡T = I¡S được tạo ra tương đương với s0¡f(s, a) ∈F:As→a¡f(s, a) = t: As→aAt¡λ∈L(M): S→λ
+
+===== PAGE 21 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Tập chính quy và văn phạm chính quyqXâydựngmộtmáynhậndạngđượcngônngữdo vănphạmG sinhra.¨G= (V , T , S, P ), vớiV = {0, 1, A, S}, T = {0, 1} ¨P = {S → 1A, S → 0, S → λ, A → 0A, A → 1A, A → 1}qĐápán:
+
+
+===== PAGE 22 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Tập chính quy và văn phạm chính quyqTìmvănphạmchínhquysinhrangônngữmàmáy(bên) nhậndạngđược.qĐápán:¨G= (V , T , S, P )¨V = {S, A, B, 0, 1}¨T = {0, 1}¨P = {S → 0A, S → 1B, S → 1, S → λ, A → 0A, A → 1B, A → 1, B → 0A, B → 1B, B → 1}
+
+===== PAGE 23 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+qHãy xây dựng một máy nhận dạng ngôn ngữ được sinh ra bởi văn phạm chính quy G=(V , T, S, P), trong đó: V={0,1,S,A,B}, T={0,1}, S là ký hiệu bắt đầu, và tập các luật sinh là:¨S → 0A, S → 1B, A → 0, B → 0.¨S → 1A, S → 0, S → λ, A → 0B, B → 1B, B → 1.¨S → 1B, S → 0, A → 1A, A → 0B, A → 1, A → 0, B → 1.
+Thực hành
+
+===== PAGE 24 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Thực hành
+qHãy xây dựng một văn phạm chính quyG=(V , T, S, P)mà sinh ra ngôn ngữ nhận dạng được bởi hai máy dưới đây.

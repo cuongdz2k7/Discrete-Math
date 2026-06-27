@@ -1,0 +1,31 @@
+===== PAGE 1 =====
+Bài tập về nhà tuần 15: Nhận dạng ngôn ngữ & Máy
+Turing
+Bộ môn Khoa học và Kỹ thuật tính toán (VNU-UET-FIT)
+2026-02-25
+Họ và tên: …………………………………………………… MSV: ………………………..
+Bài 1 (Rosen.1.13.3): Máy Turing được mô tả bởi các bộ năm sau: (𝑠0, 0, 𝑠0, 0, 𝑅),
+(𝑠0, 1, 𝑠1, 0, 𝑅), (𝑠0, 𝐵, 𝑠2, 𝐵, 𝑅), (𝑠1, 0, 𝑠1, 0, 𝑅), (𝑠1, 1, 𝑠0, 1, 𝑅) và (𝑠1, 𝐵, 𝑠2, 𝐵, 𝑅)
+Máy Turing sẽ làm gì khi nhận:
+a) 11 là đầu vào
+b) Đầu vào là một chuỗi bit bất kỳ?
+Bài 2 (Rosen.1.13.5): Máy Turing được mô tả bởi các bộ năm sau: (𝑠0, 1, 𝑠1, 0, 𝑅),
+(𝑠1, 1, 𝑠1, 1, 𝑅), (𝑠1, 0, 𝑠2, 0, 𝑅), (𝑠2, 0, 𝑠3, 1, 𝐿), (𝑠2, 1, 𝑠2, 1, 𝑅), (𝑠3, 1, 𝑠3, 1, 𝐿), (𝑠3, 0, 𝑠4, 0, 𝐿),
+(𝑠4, 1, 𝑠4, 1, 𝐿) và (𝑠4, 0, 𝑠0, 1, 𝑅)
+Máy Turing sẽ làm gì khi nhận:
+a) 11 là đầu vào
+b) Đầu vào là một chuỗi bit bất kỳ?
+Bài 3 (Rosen.1.13.7): Hãy xây dựng một máy Turing với các ký hiệu băng 0, 1, B sao cho
+khi nhận một chuỗi bit làm đầu vào, máy sẽ thay ký tự 0 đầu tiên bằng 1 và không thay đổi
+bất kỳ ký hiệu nào khác trên băng.
+Bài 4 (Rosen.1.13.9): Hãy xây dựng một máy Turing với các ký hiệu băng 0, 1, B sao cho
+khi nhận một chuỗi bit làm đầu vào, máy sẽ thay tất cả ký tự 1 bằng 0 ngoại trừ ký tự 1 nằm
+ngoài cùng bên trái và không thay đổi các ký hiệu khác trên băng.
+Bài 5 (Rosen.1.13.11): Xây dựng một máy Turing nhận dạng tập hợp tất cả các chuỗi bit
+kết thúc bằng 0.
+Bài 6 (Rosen.1.13.13): Xây dựng một máy Turing nhận dạng tập hợp tất cả các chuỗi bit
+chứa số lượng ký tự 1 là số chẵn.
+Bài 7 (Rosen.1.13.19): Xây dựng một máy Turing tính hàm
+𝑓(𝑛) = 𝑛 − 3 nếu 𝑛 ≥ 3 và 𝑓(𝑛) = 0 nếu 𝑛 = 0, 1, 2
+Với mọi số nguyên không âm n
+1

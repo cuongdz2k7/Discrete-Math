@@ -1,0 +1,91 @@
+===== PAGE 1 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Toán rời rạc
+Phépđếm(Counting)
+
+===== PAGE 2 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+❑Hoán vịcủamộttậpcácđốitượngkhácnhauLàsốcáchsắpxếpcóthứtựcủacácđốitượngnày.❑Chỉnhhợpchập𝒓của𝒏phầntửSốcáchsắpxếpcóthứtự𝑟(𝑟≤𝑛)phầntửcủa𝑛phầntửkhácnhau. Hoánvịlàmộttrườnghợpđặcbiệtkhi𝑟=𝑛.❑Định lý: Chỉnhhợpchập𝑟của𝑛phầntử𝑃𝑛,𝑟=𝑛𝑛−1𝑛−2…𝑛−𝑟+1𝑃𝑛,𝑛=𝑛!❑Vídụ: Có3!=6 cáchxếp3 ngườiA, B, C xếpvào3 chỗngồi, cáccáchđólàABC, ACB, BAC, BCA, CAB, CBA.
+Hoánvịvàchỉnhhợp
+
+===== PAGE 3 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+❑Có bao nhiêucáchxếp8 ngườingồiquanhmộtbàntròn, haicáchngồiđượcgọilàgiốngnhaunếucáchnàycóthểnhậnđượctừcáchkiabằngcáchxoaybàn.❑Cho 𝑆={1,2,3}. Cáchsắpxếp(3,1,2)làmộthoánvịcủa𝑆, còncáchxếp(3,1)làmộtchỉnhhợpchập2 của𝑆.
+Hoánvịvàchỉnhhợp
+
+===== PAGE 4 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+❑Mộtcuộcthichạycó8 ngườichơi. Ngườivềnhấtnhậnhuychươngvàng, vềnhìnhậnhuychươngbạc, vàvềthứbanhậnhuychươngđồng. Cóbao nhiêukhảnăngtraohuychươngkhácnhaucho8 ngườichơinày, nếumọikhảnăngđềucóthểxẩyra, vàkhôngcóràngbuộcnào?❑Cóbao nhiêuhoánvịcủacácchữcáiABCDEFGH màchứaxâuABC ?
+Hoánvịvàchỉnhhợp
+
+===== PAGE 5 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Tổhợp❑Tổhợpchập𝑟củamộttậphợpn phầntửSốcáchchọnkhôngcóthứtự𝑟phầntửtừtậpđãcho𝐶𝑛,𝑟=!",$$!="!$!"&$!𝐶𝑛,𝑟=𝐶(𝑛,𝑛−𝑟)❑Vídụ: Chọnngẫunhiên2 ngườitrong3 ngườiA, B, C. Có𝐶!"=!!"!$!=3, cáccáchđólàAB, AC, BC
+
+===== PAGE 6 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+❑Cóbao nhiêucáchlấyra 5 quânbàitừcỗbàitúlơkhơ52 quânsaochotrong5 quânbàilấyra có3 quânÁtvà2 quân10. ❑Đếmsốđườngđitừgóctráidướilêngócphảitrên, mỗilầndi chuyểnlêntrênhoặcdi chuyểnsang phải.❑Đếmsốđườngđitừgóctráidướilêngócphảitrên, mỗilầndi chuyểnlêntrênhoặcdi chuyểnsang phảivàđiqua điểmđiểmtròn.
+Tổhợp
+
+===== PAGE 7 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Tổhợp❑Mộtcâulạcbộcó25 thànhviên.Cóbao nhiêucáchchọn4 thànhviênvàouyban thườngtrựcCóbao nhiêucáchchọn4 thànhviênlàmchủtịch, phóchủtịch, thưkývàthủyquỹ
+
+===== PAGE 8 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Chỉnhhợpvàtổhợpmởrộng❑Chỉnhhợplặpchậpr củanSốcáchlấyr phầntử(cóthứtự) từtậpgồmn phầntửSau khiđượcchọn, mỗiphầntửđượcbỏlạitậpban đầu❑Định lý: Chỉnhhợplặpchập𝑟của𝑛bằng 𝑛%❑Vídụ: Tínhsốcáchlấyđược3 quảbóngra khỏibìnhkínchứa5 quảbóngđỏvà7 quảbóngxanh, nếusaumỗilầnlấymộtquảbóngra lạibỏnótrởlạibình.12'(lấymẫucóhoànlại)
+
+===== PAGE 9 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Chỉnhhợpvàtổhợpmởrộng❑Tổ hợplặpchậpr củanSốcáchlấyr loạiphầntử(khôngcóthứtự) tưtậpgồmn loạiphầntửMỗiloạiphầntửcóvôhạnsốlượngphầntử❑Định lý: Sốtổhợplặpchập𝑟của𝑛phầntửbằng𝐶(𝑛+𝑟−1,𝑟)❑Giảsửtrongmộtđĩahoaquảcótáo, cam, lê, mỗiloạicóítnhất4 quả. Tínhsốcáchlấy4 quảtừđĩahoaquảnếuthứtựlấylàkhôngquantrọng, cácquảthuộccùngmộtloạilàkhôngphânbiệt.
+
+===== PAGE 10 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Chỉnhhợpvàtổhợpmởrộng❑Mộtcửahang bánhquycó4 loạikhácnhau. Cóbao nhiêucáchchọn6 hộpbánh? Giảsửta chỉquantâmtớiloạibánhmàkhôngquantâmtớihộpbánhcụthểnàocũngnhưthứtựchọnchúng.❑Phươngtrìnhsaucóbao nhiêunghiệmnguyênkhôngâm?𝑥(+𝑥)+𝑥'=11
+
+===== PAGE 11 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Chỉnhhợpvàtổhợpmởrộng❑Giátrịk làbao nhiêusaukhichạyđoạnmãgiảsau?
+
+
+===== PAGE 12 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Hoánvịlặp❑Số hoánvịcủa𝑛phầntử, trongđócó𝑛$phầntửgiốngnhauthuộcloại1, 𝑛"phầntửloại2,…, và𝑛&phầntửloại𝑘bằng:𝑛!𝑛$!𝑛"!…𝑛&!❑CóthểnhậnđượcbaonhiêuxâukhácnhaubằngcáchsắpxếplạicácchữcáicủatừABBA?
+
+===== PAGE 13 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Hoánvịlặp❑Phươngtrình𝑥$+𝑥"+𝑥!+𝑥'+𝑥(+𝑥)=29có bao nhiêu nghiệm nguyên khôngâmthỏamãn𝑥*≥ 1 vớii= 1, 2, 3, 4, 5.𝑥*≥ i, vớii=  1, 2, 3, 4, 5, 6.❑Bấtđẳngthứcsaucóbao nhiêunghiệmnguyênkhôngâm?𝑥(+𝑥)+𝑥'≤11
+
+===== PAGE 14 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Hệsốnhịthức❑Định lí3 (Nhịthức):𝑥+𝑦*
+=:+,-
+*𝐶𝑛,𝑗𝑥*.+𝑦+=𝐶𝑛,0𝑥*+𝐶𝑛,1𝑥*.$𝑦+⋯+𝐶𝑛,𝑛−1𝑥𝑦*.$+𝐶𝑛,𝑛𝑦*
+
+===== PAGE 15 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Hệsốnhịthức❑Hệ quả1:"!"#
+$𝐶𝑛,𝑘=2$
+❑Hệquả2:"!"#
+$−1!𝐶𝑛,𝑘=0
+❑Hệ quả3:"!"#
+$2!𝐶𝑛,𝑘=3%
+
+===== PAGE 16 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+❑Định lí2 (VANDERMONDE):𝐶𝑚+𝑛,𝑟=∑&,-%𝐶𝑚,𝑟−𝑘𝐶𝑛,𝑘với𝑟≤min(𝑚,𝑛)❑Hệquả4:𝐶2n,n=:&,-
+*𝐶𝑛,𝑘*
+❑Địnhlý4𝐶n+1,𝑟+1=∑/,01𝐶j,𝑟với𝑟≤𝑛
+Hệsốnhịthức
+
+===== PAGE 17 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+❑Tìm hệsốcủa𝑥(𝑦2trongkhaitriển𝑥+𝑦$(
+❑Tìmhệsốcủa𝑥2trongkhaitriển𝑥+1$-
+❑𝐶𝑛,2𝑛=∑&,-*𝐶𝑘,𝑛"
+❑Tìmcôngthứctínhhệsốcủa𝑥&trongkhaitriển𝑥+$3*
+Hệsốnhịthức
+
+===== PAGE 18 =====
+Khoa Công Nghệ Thông Tin -Trường ĐH Công Nghệ, ĐHQGHN
+Hệsốnhịthức(Binomial coefficient)❑HằngđẳngthứcPASCAL: Với𝑛,𝑘(𝑛≥𝑘)𝐶𝑛+1,𝑘=𝐶𝑛,𝑘−1+𝐶(𝑛,𝑘)❑Tam giácPASCAL

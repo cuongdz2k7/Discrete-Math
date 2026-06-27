@@ -1,0 +1,242 @@
+===== PAGE 1 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Toánrờirạc
+Lô gíchvàChứngminh
+
+===== PAGE 2 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Lô gíchvàChứngminhqLô gíchmệnhđề(Proposition logic)qLô gíchvịtừ(Predicate logic)qChứngminh (Proof) 
+
+===== PAGE 3 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Lôgích(Logic)qLôgích(Logic)¨Địnhnghĩamộtngônngữchínhtắc(hìnhthức; formal language) choviệcbiểudiễntri thức(knowledge) vàthựchiệncácsuyluận[hợp] lôgích(logical inferences)¨Giúpchúngta hiểuđượccáchxâydựngcáclậpluậnđúngqLôgíchquyđịnh:¨Cấutrúccủacácmệnhđề(Syntax of statements)¨Ýnghĩacủacácmệnhđề(Meaning of statements)¨Cácluậtsuyluậnlôgích(rules of logical inference)
+
+===== PAGE 4 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Lôgíchmệnhđề(Propositional logic)qLôgíchđơngiảnnhấtqĐịnhnghĩa:¨Mộtmệnhđềlàmộtphátbiểu(statement) chỉcóthểhoặcđúng(True) hoặcsai(False).qVídụ:¨HàNộilàthủđôcủaViệtNam (đúng/T)¨5+2=8 (Sai/F)¨Hômnay trờimưa(hoặcT hoặcF)
+
+===== PAGE 5 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+LôgíchmệnhđềqVídụ(tiếp):¨Bạncókhoẻkhông?¡Câuhỏikhôngphảilàmộtmệnhđề¨x+5=3¡Vìx chưaxácđịnh-> khôngđúngcũngkhôngsai¨7 làmộtsốnguyêntố(prime number)¡(T)¨Côta rấttàinăng¡Vì“Côta” chưađượcxácđịnh-> khôngđúngcũngkhôngsai¨Cósựsốngtrêncáchànhtinhkháctrongvũtrụ.¡HoặcT hoặcF
+
+===== PAGE 6 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Cácmệnhđềphức(Composite statements)qGồmcácmệnhđềcơsở(elementary) đượckếthợplạibởicáckếtnốilôgích(logical connectives).qVídụ:¨MệnhđềA: Trờiđangmưa¨MệnhđềB: Chúngta sẽxemphim¨Mệnhđềphức:¡Nếutrờiđangmưathìchúngta sẽxemphim
+
+===== PAGE 7 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Phépphủđịnh(Negation)qCho p làmộtmệnhđề. Mệnhđề“Khôngphảip” đượcgọilàphủđịnhcủap¨Đượckíhiệubởi¬p (đọclà“khôngp”).qVídụ:¨TrườngĐH CôngnghệtrựcthuộcĐHQGHN¡TrườngĐH CôngnghệkhôngphảitrựcthuộcĐHQGHNqVídụkhác:¨5+2≠8¨10 khôngphảilàsốnguyêntố.¨Khôngphảixebuýtngừngchạylúc9g tối.
+®
+
+===== PAGE 8 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Phépphủđịnh(Negation)qHãyphủđịnhcácmệnhđềsau:¨Trờiđangmưa.¡Khôngphảitrờiđangmưa.¨11 làmộtsốnguyêntố.¡11 khôngphảilàsốnguyêntốqTồntạisựsốngtrêncáchànhtinhkháctrongvũtrụ¨Khôngtồntạisựsốngtrêncáchànhtinhkháctrongvũtrụ
+
+===== PAGE 9 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Phépphủđịnh(Negation)qBảngchânlý/trị¨Biểudiễnmốiquanhệgiữacácgiátrịchânlý(T hoặcF) củacácmệnhđềkhácnhau.P ¬pT FF TCác dòng: Tất cả các giá trị có thể có của các mệnh đề cơ sở
+
+===== PAGE 10 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Phéphội(Conjunction)qCho p vàq là2 mệnhđề¨Mệnhđề"p  vàq" đượcgọilàHộicủap vàq¡KýhiệubởipÙq,¡Chỉđúngkhicảp vàq đềuđúng; vàsaikhingượclại.
+qVídụ:¨HàNộilàthủđôcủaViệtNam VÀ 5 +  2 = 8¨NgoàitrờiđangmưaVÀ 3 làsốmộtnguyêntố.¨2 làmộtsốnguyêntốVÀ 5 + 2 ≠ 8.
+
+===== PAGE 11 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Phéptuyển(Disjunction)qCho p vàq là2 mệnhđề¨Mệnhđề"p  hoặcq" đượcgọilàtuyểncủap vàq¡Đượckýhiệubởip Úq¡ChỉSai(False) khicảp vàq đềusai, vàĐúng(T) khingượclại
+qVídụ:¨HàNộilàthủđôcủaViệtNam HOẶC 5 + 2= 8.¨NgoàitrờiđangmưaHOẶC2 làmộtsốnguyêntố.¨2 làmộtsốnguyêntốHOẶC5 + 2 ¹8.
+
+===== PAGE 12 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Bảngchântrị(Truthtable)qVớiphéphộivàphéptuyển¨4 tổhợpkhácnhaucủacácgiátrịcủap vàq
+Các hàng:tất cả các tổ hợp các giá trị của các mệnh đề cơ sở: 2n giá trị
+pq p Ùq p Úq
+TT T T
+TF F T
+FT F T
+FF F F
+
+===== PAGE 13 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Phéptuyểnloạitrừ(Exclusiveor)qCho p vàq làhaimệnhđề¨Mệnhđề"p tuyểnloạitrừq”, hoặc“p XORq”¡Đượckýhiệubởip Åq¡Chỉđúngkhicóđúngmộtmệnhđềthànhphầnđúng, vàsaikhingượclại.
+
+
+===== PAGE 14 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Phépkéotheo(Implication)qCho 2 mệnhđềp vàq. ¨Mệnhđề“p kéotheo(implies) q”¡Đượckýhiệubởip ®q ¡Chỉsaikhip đúngvàq sai, ngượclạiđúng.¨p đượcgọilà“giảthuyết”, q là“kếtluận”.
+
+
+===== PAGE 15 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Phépkéotheoqp®q cóthểđượcđọctheo1 trongcáccáchsau:¨Nếup thìq (if p then q)¨p chỉnếuq (p only if q)¨p làđủchoq (p is sufficient for q)¨q bấtkểkhinàocóp (q whenever p)qVídụ:¨Nếungoàitrờiđangmưathì2 làmộtsốnguyêntố.¨Nếuhômnay làthứBa thì2*3 = 8.
+
+===== PAGE 16 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+PhépkéotheoqCho mệnhđềp ®q¨Mệnhđềđảo(đảođề, converse): q ®p¨Phảnđề(inverse): ¬p ®¬q¨Phảnđảo(contrapositive): ¬q ®¬pqVídụ:¨Nếungoàitrờiđangmưa, giaothôngđilạichậm.¡p: ngoàitrờiđangmưaq: giaothôngđilạichậm.¡p ®q
+
+===== PAGE 17 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Điềukiệnhaiphía(Biconditional)qCho 2 mệnhđềp vàq.¨Mệnhđềkéotheohaiphíap«q¡Đọclàp nếuvàchỉnếuq (p if and only if q)¡Chỉđúngkhicảp vàq cócùnggiátrịchânlý, ngượclạilàsai.
+qChúý: Hai giátrịchânlýluôngiốngnhau.
+
+
+===== PAGE 18 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+XâydựngbảngchântrịqVídụ: ¨Xâydựngbảngchântrịchomệnhđề¡(p ®q) Ù(¬p «q)qPhânrãmệnhđềgốcthànhcácthànhphầncon
+
+
+===== PAGE 19 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+XâydựngbảngchânlýqVídụ: ¨Xâydựngbảngchânlýchomệnhđề¡(p ®q) Ù(¬p «q)qPhânrãmệnhđềgốcthànhcácthànhphầnconpq¬pp ®q¬p «q(p ®q) Ù(¬p «q)TTFTFFTFFFTFFTTTTTFFTTFF
+
+===== PAGE 20 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Lôgíchmệnhđề: TổngkếtqMộtngônngữhìnhthức(chínhquy) cóthểdùngđểbiểudiễntri thứcvàsuyluận[hợp] lôgích. qMộtmệnhđềlàmộtphátbiểucóthểhoặcđúng(T) hoặcsai(F).qMộtmệnhđềphứccóthểđượctạothànhtừcácmệnhđềthànhphầnsửdụngcáckếtnốilôgích.qGiátrịchânlýcủamệnhđềphứchợpđượcđịnhnghĩabởicácgiátrịchânlýcủacácmệnhđềthànhphầnvàýnghĩacủacácphépkếtnốilôgích.qBảngchânlýchomộtmệnhđềphức:¨Cácdòngchotấtcảtổhợpcóthểcócủacácgiátrịchânlýcủacácmệnhđềthànhphần.
+
+===== PAGE 21 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+MệnhđềphứcqGọip: 2 làmộtsốnguyêntố(T)q: 6 làmộtsốnguyêntố(F)qXácđịnhgiátrịchânlýcủacácmệnhđềsau:¨¬ p: F¨p  Ùq : F¨p  Ù¬q: T  ¨p  Úq : T  ¨p Åq: T  ¨p ®q: F  ¨q ®p: T
+
+===== PAGE 22 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+XâydựngbảngchântrịqXâydựngbảngchânlýchomệnhđề(p ®q) Ù(¬p «q)pq¬pp ®q¬p «q(p®q)Ù(¬p«q)TTTFFTFF
+
+===== PAGE 23 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+ỨngdụngcủalôgíchmệnhđềqBiểudiễntri thức(đượcviếtbằngngônngữtựnhiên)qSuydiễnvàlậpluận:¨Suydiễnracácmệnhđềlôgíchmớitừcácmệnhđềcũ.¨Sửdụngtrongthôngminhnhântạo:¡Cáchệchuyêngiadựatrênluật(Rule based expert systems)¡Cáchệthốngchứngminh địnhlýtựđộngqThiếtkếmạchlôgích
+
+===== PAGE 24 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Biểudiễntri thứcqXácđịnhcáckếtnốilôgíchtrongcâu(tri thứcđượcviếtbằngngônngữtựnhiên)¨Xácđịnhcácmệnhđểcơsởtừcáckếtnốilôgích.qVídụ:¨Bạnđượchọcbổngnếuđiểmtổngkết≥ 8.0 vàbạnkhôngthilạimônnào
+Đượcviếtlạitronglôgíchmệnhđềnhưsau:b Ùc ®a
+a b c
+
+===== PAGE 25 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Biểudiễntri thứcqGiảsửcó2 mệnhđềcơsở:¨p: bạnláixetrên65 km/h; q: bạnbịphạtqChuyểncáccâusausang lôgíchmệnhđề¨Bạnkhôngláixetrên65 km/h.(¬p)¨Bạnláixetrên65 km/h, nhưngkhôngbịphạt.(p Ù¬q)¨Bạnsẽbịphạtnếubạnláixetrên65 km/h  (p ®q)¨Nếubạnkhôngláixetrên65 km/h bạnsẽkhôngbịphạt. (¬p ®¬q)¨Láixetrên65 km/h làđủđểbịphạt(p ®q)¨Bạnbịphạtnhưnglạikhôngláixetrên65 km/h (q Ù¬p)
+
+===== PAGE 26 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Ứngdụng: suydiễnqGiảsửcáccâusaulàđúng:¨Nếubạntrên18 tuổihoặcbạncósựđồngýcủabốmẹthìbạncóthểđăngkýkếthôn. Bạntrên18 tuổi.qBiểudiễn“tri thức”:¨Nếu(bạntrên18 tuổihoặcbạncósựđồngýcủabốmẹ) thì(bạncóthểđăngkýkếthôn) . (Bạntrên18 tuổi).¡A= Bạntrên18 tuổi¡B= Bạncósựđồngýcủabốmẹ¡C= Bạncóthểđăngkýkếthôn¨(A ÚB ®C), A¨(A ÚB ®C) ÙA làđúng(T)¨Vớilôgíchmệnhđềchúngta cóthểsuydiễnđượcphátbiểu(mệnhđề) sau:¡Bạncóthểđăngkýkếthôn(C đúng(T))
+
+===== PAGE 27 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Mệnhđềhằng(Contingency)qMệnhđềluônđúnghoặcluônsai¨Luônđúng: Mệnhđềhằngđúng(Tautology).¨Luônsai: Mệnhđềhằngsai(Contradiction).
+
+===== PAGE 28 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Mệnhđềhằng(Contingency)qVídụ:p Ú¬p làmộthằngđúng(tautology).
+qVídụ: p Ù¬p làmộthằngsai(contradiction).
+
+
+===== PAGE 29 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Tươngđương(lôgích)qHai mệnhđềtươngđươnglôgíchvớinhau¨Bảngchânlýcủachúnglàgiốngnhauchocácgiátrịtươngứng.¨Vídụ: p ®q tươngđươngvới¬q ®¬p (phảnđảo)
+
+
+===== PAGE 30 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Tươngđương(lôgích)qMệnhđềp vàq đượcgọilàtươngđươngnếup «q làmộthằngđúng(tautology)¨Đượckýhiệubằngp <=> q.qVídụ:¨LuậtDeMorgan:¡¬( p Úq )  <=> ¬p Ù¬q¡¬( p Ùq )  <=> ¬p Ú¬qqVídụ: Phủđịnh”MùahèởchâuÂuvừalạnhvừacónắng" sửdụngluậtDeMorgan¨MùahèởchâuÂukhônglạnhhoặckhôngcónắng.
+
+===== PAGE 31 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Tươngđương(lôgích)qVídụquantrọngvềtươngđươnglôgích¨LuậtDeMorgan:¡¬( p Úq )  <=> ¬p Ù¬q¡¬( p Ùq )  <=> ¬p Ú¬q¨Chứngminh bằngbảngchânlýpq¬p¬q¬(p Úq)¬p Ù¬qTTFFFFTFFTFFFTTFFFFFTTTT
+
+===== PAGE 32 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+CácluậttươngđươngquantrọngqLuậtđồngnhất(Identity)¨p ÙT  <=> p¨p ÚF  <=> pqLuậttrội(Domination)¨pÚT  <=> T¨p ÙF  <=> FqLuậtluỹđẳng(Idempotent)¨p Úp  <=> p¨p Ùp  <=> p
+
+===== PAGE 33 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+CácluậttươngđươngquantrọngqLuậtphủđịnhkép(Double negation)¨¬(¬p) <=> pqLuậtgiaohoán(Commutative)¨p Úq  <=>  q Úp¨p Ùq  <=>  q ÙpqLuậtkếthợp(Associative)¨(p Úq) Úr  <=>  p Ú(q Úr)¨(p Ùq) Ùr  <=>  p Ù(q Ùr)
+
+===== PAGE 34 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+CácluậttươngđươngquantrọngqLuậtphânphối(Distributive)¨p Ú(q Ùr)  <=>  (p Úq) Ù(p Úr)¨p Ù(q Úr)  <=>  (p Ùq) Ú(p Ùr)qLuậtDe Morgan¨¬( p Úq )  <=> ¬p Ù¬q¨( p Ùq )  <=> ¬p Ú¬qqCácluậthữuíchkhác¨p Ú¬p <=> T¨p Ù¬p <=> F¨p ®q <=> (¬p Úq)
+
+===== PAGE 35 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+SửdụngcácluậttươngđươngqCóthểđượcsửdụngtrongcácchứngminh¨Biếnđổimộtmệnhđềhoặcmộtphầncủanó¡Thu đượckếtluận.qVídụ: Chứngminh (p Ùq) ®p làmộthằngđúng.qChứngminh: (Cầnchỉrarằng(p Ùq) ®p <=> T)¨(p Ùq) ®p  <=>  ¬(p Ùq) ÚpLuậthữuích<=>  [¬p Ú¬q] ÚpDeMorgan<=>  [¬q Ú¬p] ÚpGiaohoán<=>  ¬q Ú[ ¬p Úp ]Kếthợp<=>  ¬q Ú[ T ]Luậthữuích<=>  TLuậttrội
+
+===== PAGE 36 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+SửdụngcácluậttươngđươngqCMR: (p ®q) <=> (¬q ®¬p)Chứngminh:¡(p ®q) <=> (¬q ®¬p)<=>  ¬(¬q)Ú(¬p)Luậthữuích<=>q Ú(¬p)Phủđịnhkép<=>   ¬p ÚqGiaohoán<=>p ®qLuậthữuíchĐPCM.
+
+===== PAGE 37 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+CáchạnchếcủalôgíchmệnhđềqPhảilặplạicácphátbiểuđúngchonhiềuđốitượng¨Vídụ:¡An đãtốtnghiệpUET àAn đãqua mônTRR¡NgađãtốtnghiệpUET àNgađãqua mônTRR¡HằngđãtốtnghiệpUET àHằngđãqua mônTRR¡–…qGiảipháp: Sửdụngcácbiến(variables)¨xđãtốtnghiệpUET àxđãqua mônTRR
+
+===== PAGE 38 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+CáchạnchếcủalôgíchmệnhđềqCácphátbiểuvềđặctrưngcủamộtnhómcácđốitượngqVídụ:¨Tấtcảxeôtômớiphảiđượcđăngkiểm.¨MộtsốsinhviênUET tốtnghiệploạixuấtsắc.qGiảipháp: sửdụngcáclượngtừ(quantifiers)¨Lượngtừvớimọi(Universal quantifier)¡Đúngchomọiđốitượngtrongnhóm¨Lượngtừtồntại(Existential quantifier)¡Đúngvớiítnhấtmộtđốitượngtrongnhóm
+
+===== PAGE 39 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Lôgíchvịtừ(Predicate logic)qKhắcphụcđượcnhữnghạnchếcủalogic mệnhđềqLôgíchvịtừ:¨Hằng: biểudiễnmộtđốitượngcụthể¡Vídụ: “Đông”, “NướcPháp”, “7”¨Biến: biểudiễncácđốitượngcủamộtloại/nhómcụthể(đượcđịnhnghĩbởi“tậpvũtrụ” đanglàmviệc).¡Vídụ: x, y(tậpvũtrụcóthểlà: con người, sinhviên, số)¨Vịtừ: đượcđịnhnghĩatrên1, 2 hoặcnhiềubiến, nhiềuhằng.–ThểhiệnđặctrưnghoặcmốiquanhệgiữacácđốitượngVídụ: Đỏ(xe23), UET(x), cưới(John,Ann)
+
+===== PAGE 40 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+VịtừqThểhiệncácđặctrưnghoặccácquanhệgiữacácđốitượng¨VịtừP(x) nhậngiátrịĐúng(T) hoặcSai(F) chomỗiđốitượngx tuỳthuộcvàoviệcthuộctính(đặctrưng) cóđúnghay khôngvớix.qVídụ:¨GiảsửvịtừUET(x) đượcđịnhnghĩatrêntậpvũtrụlàcon người¨UET(Đông) …. T (nếuĐônglàsinhviênUET)¨UET(Cát) …. T (nếuCátlàsinhviênUET)¨UET(Trang) ….. F (nếuTrangkhôngphảilàsinhviênUET)
+
+===== PAGE 41 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+VịtừqGiảsửvịtừP(x) thểhiệnphátbiểusau:¨x làmộtsốnguyêntốqMỗix sẽcómộtgiátrịchânlýkhácnhau:¨P(2)T¨P(3)T¨P(4)F¨P(5)T¨P(6)FTấtcảphátbiểuP(2), P(3), P(4), P(5), P(6) đềulàcácmệnhđề…NhưngP(x) khôngphảilàmộtmệnhđề!
+
+===== PAGE 42 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+CácphátbiểulượnghoáqLôgíchvịtừchophépxâydựngcácphátbiểuvềmộtnhómcácđốitượng.qSửdụngcáclượngtừ(Quantifiers):¨Lượngtừvớimọi(universal)¡Vídụ: ‘tấtcảsinhviêntốtnghiệpUET đềuphảiqua mônTRR”¨Lượngtừtồntại(existential)¡Vídụ: ‘CómộtvàisinhviênUET tốtnghiệpxuấtsắc.’
+
+===== PAGE 43 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+LượngtừvớimọiqGánmộtbiếnvàomộttậpcácgiátrị/đốitượngtrongtậpvũtrụđangxét.qVídụ:¨Cho P(x): x > x –1. (Tậpvũtrụ: sốthực).¡P(x) cóphảilàmộtmệnhđềkhông? Không. Cónhiềucáchgánx.¡"x P(x) cóphảilàmộtmệnhđềkhông? Có.¡Giátrịchânlýcủa"x P(x) làgì?¡–Đúng(True), vìP(x) đúngvớimọix.
+
+===== PAGE 44 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+LượngtừtồntạiqGánmộtbiếnvàomộtvàigiátrị/đốitượngtrongtậpvũtrụđangxét.qVídụ:¨Cho T(x): x > 5 vàx làcácsốthực.¡T(x) cóphảilàmộtmệnhđềkhông?.¡$x T(x) cóphảilàmộtmệnhđềkhông?.¡Giátrịchânlýcủa$x T(x) làgì?²Đúng(True).
+
+===== PAGE 45 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+DịchcáclượngtừqCho câu: “TấtcảsinhviênUET đềuthôngminh”.¨Giảsử: miềnđangxétcủax làsinhviênUET.¡Dịchsang lôgích: "x Smart(x)¨Giảsử: miềnđangxétcủax làtấtcảsinhviên:¡"x at(x,UET) àSmart(x)¨Giảsử: miềnđangxétcủax làcon người:¡"x student(x) Ùat(x,UET) àSmart(x)
+
+===== PAGE 46 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+DịchcáclượngtừqCho câu: CóaiđóởUET rấtthôngminh.¨Giảsử: miềnđốitượngđangxétlàtấtcảcánbộUET¡$x Thongminh(x)¨Giảsử: tậpvũtrụđangxétlàcon người:¡$x Lamviec(x, UET) ÙThongminh(x)
+
+===== PAGE 47 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Dịchvớilượngtừ•Giảsửcó02 vịtừS(x) vàP(x)qPhátbiểu“vớimọi” sẽngầmchỉphép“kéotheo”•TấtcảS(x) đềuP(x)¨"x ( S(x) àP(x))•KhôngS(x) nàolàP(x)¨"x( S(x) à¬P(x))qPhátbiểu“tồntại” sẽngầmchỉphép“hội”•MộtsốS(x) làP(x)¨$x (S(x) ÙP(x))•MộtvàiS(x) khônglàP(x)¨$x (S(x) Ù¬P(x))
+
+===== PAGE 48 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Lượngtừlồngnhau(Nested quantifiers)qNhiềulượngtừcầnđượcsửdụngđểthểhiệnđượcýnghĩacủacácphátbiểu.qVídụ:¨Mọisốthựcđềucósốâmtươngđươngvớinó.¡Gọi:²x làmộtsốthựcbấtkỳ, vày làsốâmtươngứngcủanó.²VịtừP(x,y): “x + y =0”¡Khiđóchúngta cóthểviết:"x $y P(x,y)
+
+===== PAGE 49 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+LượngtừlồngnhauqVídụ:¨Cómộtngườiyêumọingười.¡Đặt:²Biếnx vày chỉngười²VịtừL(x,y): “x yêuy”¡Khiđóchúngta cóthểviết:²$x "y L(x,y)
+
+===== PAGE 50 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+ThứtựcáclượngtừqChỉquantrọngkhicáclượngtựlàkhácnhau¨"x$y L(x,y) # $y"x L(x,y)qVídụ:¨VịtừL(x,y): “x yêuy”¨Khiđó:"x$y L(x,y): Mọingườiđềuyêumộtaiđó.¨Còn: $y "x L(x,y): Cómộtaiđóđượcmọingườiđềuyêu.
+
+===== PAGE 51 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+ThứtựcáclượngtừqKhôngquantrọngnếucáclượngtừlàgiốngnhauqVídụ:¨Vớimọix vày, nếux làbố/mẹcủay thìy làcon củax¨Gọi:¡Parent(x,y): “x làbố/mẹcủay”¡Child(x,y): “x is a child of y”¨Hai cácviếtsaulàtươngđương:¡"x "y Parent(x,y) àChild(y,x)¡"y "x Parent(x,y) àChild(y,x)
+
+===== PAGE 52 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Lượngtừlồngnhau: thựchànhqGiảsử:¨Biếnx,ychỉngười¨L(x,y): “x yêuy”.qHãydịchcáccâusausang lôgíchvịtừ:¨MọingườiđềuyêuNga.¨Mọingườiđềuyêumộtaiđó.¨Cómộtngườimàmọingườiđềuyêu. $y"x L(x,y)¨CómộtngườimàNgakhôngyêu.¡$y¬L(Nga,y)¨Cóngườimàkhôngai tronglớpyêucả.¡$y "x ¬L(x,y)
+" xL(x,Nga)" x $ yL(x,y)
+
+===== PAGE 53 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+PhủđịnhlượngtừqKhôngcógìlàhoànhảo.¨¬ $x Perfect(x)qMọithứđềukhônghoànhảo¨"x ¬ Perfect(x)qKếtluận: ¬ $x P (x) tươngđương"x ¬ P(x)
+
+===== PAGE 54 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+PhủđịnhlượngtừqKhôngphảimọingườidânViệtNam đềuthíchbóngđá.¨¬ "x (VN(x) àFootball(x))qCómộtngườiViệtNam mà…¨$x(VN(x) Ù¬ Football(x))¨Tươngđươngvới:¡$x ¬ ( VN(x) àFootball(x) )qKếtluận: ¬ àx P (x) tươngđươngvới$x ¬ P(x)
+
+===== PAGE 55 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Phủđịnhlượngtừ(LuậtDeMorgancholượngtừ)PhủđịnhTươngđươngvới
+¬$xP(x) "x ¬P(x)
+¬"xP(x) $x ¬P(x)

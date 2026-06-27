@@ -1,0 +1,85 @@
+===== PAGE 1 =====
+Đề thi cuối kỳ, năm 2021 
+Môn Toán rời rạc (Hệ CLC, thời gian 70 phút) 
+Thống nhất: Mã số sinh viên của em là một số gồm 8 chữ số, gọi N là số mã số sinh viên, gọi 
+a là ch ữ số thứ bảy, b là ch ữ số thứ tám. Ví dụ: Bạn Dương Tú Anh có mã s ố sinh viên là 
+19021211 thì N = 19021211, a = 1, b = 1. 
+Câu 1. (10 phút) 
+a) Đếm số lượng số tự nhiên từ 1 đến 1000 có bao nhiêu số chia hết cho 12 hoặc 15. 
+b) Với N, a, b như thống nhất. Đếm số lượng số tự nhiên từ 1 đến N có bao nhiêu số chia hết cho 
+(a+20) hoặc (b+30). 
+Ví dụ: Bạn Dương Tú Anh có mã s ố sinh viên là 19021211 thì a = 1, b = 1 và b ạn Dương Tú 
+Anh cần đếm từ 1 đến 19021211 có bao nhiêu số chia hết cho 21 hoặc 31. 
+ 
+Câu 2. (25 phút) 
+Cho đồ thị G1 như hình dưới đây.  
+a) Xét đồ thị G1, viết ra 12 số, các số 
+cách nhau một dấu cách tương ứng 
+là bậc của các đỉnh từ 0 đến 11. 
+b) Xét đồ thị G1, tìm đư ờng đi ng ắn 
+nhất từ 10 đến 11. 
+ 
+ 
+Với a, b như th ống nh ất, t ạo đ ồ thị G2 
+bằng cách lo ại bỏ hai đ ỉnh a, b và t ất c ả 
+các cạnh liên thu ộc v ới a, b. Ví d ụ: B ạn 
+Dương Tú Anh có a = 1 , b = 1 thì ch ỉ loại 
+đi 1 đ ỉnh 1 và t ất cả các cạnh liên thu ộc 
+với 1. 
+ 
+ 
+ 
+ 
+c) Xét đồ thị G2, viết ra m ột dãy s ố, các s ố cách nhau m ột dấu cách tương ứng là b ậc của 
+các đỉnh từ nhỏ đến lớn. 
+d) Tìm đường đi ngắn nhất từ đỉnh 10 đến đỉnh 11 trên đồ thị G2. 
+e) Tìm cây khung nhỏ nhất của đồ thị G2. 
+
+===== PAGE 2 =====
+Câu 3. (25 phút) 
+Cho 10 biểu thức chính quy sau (các bi ểu thức được đánh s ố thứ tự từ 0 đến 9). Với a, b như 
+thống nhất, gọi x là biểu thức thứ a, y là biểu thức thứ b. 
+0) 0*1 1) 1*0 2) 1*1 3) 01* 4) 10* 
+5) 11* 6) 01*0 7) 10*1 8) 00*1 9) 10*0 
+ 
+a) Xây dựng văn phạm sinh ngôn ngữ có dạng là biểu thức x; 
+b) Xây dựng otomat đoán nhận biểu thức y*; 
+c) Dựng otomat đoán nhận xâu nhị phân độ dài 5 là xâu đ ối xứng (xâu đối xứng là xâu đọc 
+từ trái qua phải cũng giống như đọc từ phải qua trái). 
+Ví dụ: Bạn Dương Tú Anh có a = 1, b = 1 thì câu a) b ạn cần xây dựng văn phạm sinh ngôn ngữ 
+có dạng 1*0; câu b) dựng otomat đoán nhận biểu thức (1*0)*;  
+Câu 4. (5 phút) Gọi các mệnh đề như sau: 
+m = “Dũng là một chuyên gia toán học”; 
+c = “Dũng là một chuyên gia CNTT”; 
+g = ”Bạn gái của Dũng là một chuyên gia tin học” 
+h = ”Bạn gái của Dũng đã đọc truyện Kiều của Nguyễn Du”; 
+t = ”Bạn gái của Dũng đã đọc Lục Vân Tiên của Nguyễn Đình Chiểu”. 
+ 
+Mệnh đề nào trong các mệnh đề dưới dây biểu diễn phát biểu sai?  
+“Dũng là m ột chuyên gia Toán h ọc và CNTT, b ạn gái c ủa Dũng m ặc dù là m ột chuyên 
+gia Văn h ọc nhưng v ẫn chưa đ ọc cả Truyện Kiều của Nguyễn Du và L ục Vân Tiên c ủa 
+Nguyễn Đình Chiểu”. 
+) ( ( ))a c m g h t     
+; 
+) ( ));b c m g h t   
+ 
+) ( ))c c m g h t     
+ 
+) ( ( ))d c m g h t     
+ 
+) ( ))e c m g h t     
+ 
+f) Tất cả các phương án trên đều sai. 
+ 
+Câu 5. (5 phút) Mệnh đề nào trong các mệnh đề dưới đây là hằng đúng: 
+) ( )a p p q  
+; 
+) (( ) ( ))b p q q r q     
+ 
+) ( ) ( ))c p q p q    
+; 
+) ( ) ( ( ))d p q p p q     
+; 
+) ( ) ( ))e p q p q   
+ 
+f) Tất cả các phương án trên đều sai.

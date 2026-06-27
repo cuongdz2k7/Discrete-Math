@@ -1,0 +1,72 @@
+===== PAGE 1 =====
+Bài tập về nhà tuần 01: Lô gích và Chứng minh
+Bộ môn Khoa học và Kỹ thuật tính toán (VNU-UET-FIT)
+2026-02-22
+Họ và tên: …………………………………………………… MSV: ………………………..
+PHẦN 1: Lô gích mệnh đề (Section 1.1)
+Bài 1 (Rosen.5th.1.1.11): Cho các mệnh đề cơ sở: 𝑝 (Gấu xám từng được nhìn thấy ở khu
+vực này), 𝑞 (Đi bộ trên đường mòn là an toàn), 𝑟 (Các loại quả mọng chín dọc theo con đường
+mòn). Hãy dịch sang biểu thức lô gích:
+a) Các loại quả mọng chín dọc theo con đường mòn, nhưng gấu xám vẫn chưa được nhìn
+thấy ở khu vực này.
+b) Nếu các loại quả mọng dọc con đường mòn đã chín thì đi bộ trên đường mòn là an toàn
+khi và chỉ khi gấu xám chưa được nhìn thấy ở khu vực này.
+c) Đi bộ trên đường mòn là không an toàn, nhưng gấu xám chưa được nhìn thấy ở khu vực
+này và các loại quả mọng dọc con đường mòn đã chín.
+Bài 2 (Rosen.5th.1.1.13): Xác định các mệnh đề sau là đúng hay sai:
+a) Nếu 1 + 1 = 2 , thì 2 + 2 = 5.
+b) Nếu 1 + 1 = 3 , thì 2 + 2 = 4.
+c) Nếu 1 + 1 = 3 , thì 2 + 2 = 5.
+Bài 3 (Rosen.5th.1.1.25): Lập bảng chân trị cho các mệnh đề sau:
+a) (𝑝 ∨ 𝑞) → (𝑝 ⊕ 𝑞)
+b) (𝑝 ↔ 𝑞) ⊕ (¬𝑝 ↔ 𝑞)
+Bài 4 (Rosen.5th.1.1.19): Dịch câu sau sang lô gích mệnh đề: “Nếu ngoài trời nắng nóng
+bạn sẽ mua kem que và nếu bạn mua kem que thì nghĩa là ngoài trời nắng nóng. ”
+Bài 5 (Rosen.5th.1.1.21): Xác định mệnh đề đảo, phản đề và phản đảo của câu sau: “Nếu
+hôm nay trời có tuyết rơi, tôi sẽ đi trượt tuyết vào ngày mai. ”
+Bài 6 (Rosen.5th.1.1.25): Lập bảng chân trị cho mệnh đề: (𝑝 ⊕ 𝑞) → (𝑝 ∧ 𝑞) .
+PHẦN 2: Tương đương Lô gích (Section 1.2)
+Bài 7 (Rosen.5th.1.2.5): Sử dụng bảng chân trị để kiểm chứng luật phân phối:
+𝑝 ∧ (𝑞 ∨ 𝑟) ≡ (𝑝 ∧ 𝑞) ∨ (𝑝 ∧ 𝑟)
+1
+
+===== PAGE 2 =====
+Bài 8 (Rosen.5th.1.2.17): Sử dụng các luật tương đương để chứng minh không dùng bảng
+chân trị:
+¬𝑝 ↔ 𝑞 ≡ 𝑝 ↔ ¬𝑞
+Bài 9 (Rosen.5th.1.2.19): Chứng minh rằng ¬(𝑝 ↔ 𝑞) và ¬𝑝 ↔ 𝑞 tương đương lô gích.
+Bài 10 (Rosen.5th.1.2.15): Chứng minh rằng (𝑝 → 𝑞) → 𝑟 và 𝑝 → (𝑞 → 𝑟) không tương
+đương lô gích.
+PHẦN 3: Lô gích vị từ và Lượng từ (Section 1.3)
+Bài 11 (Rosen.5th.1.3.9): Cho 𝑃 (𝑥) là “ 𝑥 nói tiếng Nga”, 𝑄(𝑥) là “ 𝑥 biết ngôn ngữ lập
+trình C++” . Biểu diễn các câu sau theo 𝑃 (𝑥), 𝑄(𝑥), lượng từ, kết nối lô gích. Miền xác định
+là tất cả sinh viên trong trường:
+a) Mọi sinh viên ở trường đều hoặc biết tiếng Nga, hoặc biết ngôn ngữ lập trình C++.
+b) Tồn tại sinh viên biết nói tiếng Nga nhưng không biết ngôn ngữ lập trình C++.
+Bài 12 (Rosen.5th.1.3.25): Dịch sang lô gích vị từ (miền xác định là mọi người):
+a) “Có một học sinh nào đó không biết chơi đá bóng. ”
+b) “Có một người nào đó biết tất cả các ngôn ngữ lập trình. ”
+Bài 13 (Rosen.5th.1.3.33): Tìm phủ định của biểu thức sau: ∀𝑥(𝑥 > 0 ∨ 𝑥 < 0) .
+Bài 14 (Rosen.5th.1.3.1): Cho 𝑃 (𝑥) là phát biểu 𝑥 ≤ 4 . Xác định giá trị chân lý của 𝑃 (𝑥)
+với:
+a) 𝑃 (0)
+b) 𝑃 (4)
+c) 𝑃 (6)
+Bài 15 (Rosen.5th.1.3.21): Dịch câu sau sang lô gích vị từ: “Có một người nào đó trong lớp
+của bạn đã từng tham gia đóng phim. ”
+Bài 16 (Rosen.5th.1.3.33): Tìm một phản ví dụ cho phát biểu ∀𝑥 ∶ (𝑥 2 ≥ 𝑥) với miền xác
+định là tập hợp các số nguyên.
+PHẦN 4: Lượng từ lồng nhau (Section 1.4)
+Bài 17 (Rosen.5th.1.4.9): Cho 𝐿(𝑥, 𝑦) là “ 𝑥 thích môn học 𝑦” . Dịch sang lô gích vị từ:
+a) Mọi sinh viên đều thích ít nhất một môn học.
+b) Có một môn học mà tất cả sinh viên đều thích.
+Bài 18 (Rosen.5th.1.4.31): Phủ định biểu thức sau (dấu phủ định nằm trước vị từ):
+∀𝑥∃𝑦𝑃 (𝑥, 𝑦) → 𝑄(𝑥, 𝑦)
+Bài 19 (Rosen.5th.1.4.19): Dịch câu sau sang lô gích vị từ sử dụng các lượng từ: “Giá trị
+tuyệt đối của tích giữa hai số nguyên là tích giữa hai giá trị tuyệt đối. ”
+2
+
+===== PAGE 3 =====
+Bài 20 (Rosen.5th.1.4.35): Sử dụng các lượng từ để diễn đạt câu: “Có một người đã từng
+đi thăm mọi quốc gia trên thế giới ngoại trừ Lybia. ”
+3

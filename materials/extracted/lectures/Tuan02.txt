@@ -1,0 +1,106 @@
+===== PAGE 1 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Toánrờirạc
+Logic vàChứngminh
+
+===== PAGE 2 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Toánrờirạc
+Chứngminh(Chínhtắcvàkhôngchínhtắc)
+
+===== PAGE 3 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+ĐịnhlývàchứngminhqĐịnhlý: mộtphátbiểucầnđượcchứngminh làđúng.¨Thườngđượcviếtdướidạng:(p1 Ùp2 Ùp3 Ù… Ùpn) ÙqCáctiềnđề(giảthuyết)    kếtluậnqVídụ:¨ĐịnhlýFermat nhỏ:¡Nếup làmộtsốnguyêntốvàa làmộtsốkhôngchia hếtchop thì:a p-1º1 (mod p)
+
+===== PAGE 4 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Cácchứngminh chínhtắc(formal proofs)qChứngminh:¨Đưaramộtlậpluậnchỉratínhđúngcủakếtluậntrongphátbiểucầnchứngminh:¡Cáctiênđềgiảthuyết(Premises)¡Cácđịnhđề(Axioms)¡CáckếtquảcủacácđịnhlýkhácđãđượcchứngminhqChứngminh chínhtắc:¨Cácbướctuânđượcthựchiệnmộtcáchđúnglôgích
+Kết luận
+
+===== PAGE 5 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Sửdụngcácluậttươngđương(lôgích)qSửdụngmộtchuỗicácluậtbiếnđổitươngđươnglôgíchđểdẫnđến(thuđược)kếtluận.qVídụ:CMR(pÙq)®plàhằngđúng.(haylà:(pÙq)®p<=>T)¨(p Ùq) ®p  <=>  ¬(pÙq)Úp           Luậthữuích<=>[¬pÚ¬q] Úp         DeMorgan<=>[¬qÚ¬p] Úp         Giao hoán<=>¬q Ú[¬pÚp ]       Kếthợp<=>¬q Ú[T]               Luậthữuích
+
+===== PAGE 6 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Cácluậtsuydiễn(Rules of inference)qCho phépsuydiễnracácphátbiểuđúngmớitừcácphátbiểucũ¨TươngđươnglôgíchqVídụ:¨Modus Ponens (luậtphânrã-the Law of  Detachment)pp ®q\q¡Vớip đúngvàphépkéotheop ®q đúng, khiđóq đúng.¡Dạnghằngđúng:(p Ù(p ®q)) ®q
+pqp ®qFalseFalseTrueTrue
+FalseTrueFalseTrue
+TrueTrueFalseTrue
+
+===== PAGE 7 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+CácluậtsuydiễnqLuậtcộng(Addition)p ®(p Úq)                                        p\p ÚqqVídụ:HàNộilàthủđôViệtNam.  Do đó,HàNộilàthủđôViệtNamhoặctrờiđangmưa.qLuậtđơngiảnhoá(Simplification)(p Ùq) ®p                     p Ùq\pqVídụ:  HàNộilàthủđôViệtNamhoặctrờiđangmưa.Do đótrờiđangmưa.
+
+
+===== PAGE 8 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+CácluậtsuydiễnqModus Tollens(modus ponens chophảnđảo) [ ¬q Ù(p ®q)] ®¬p                       ¬qp ®q  \¬pqTam đoạnluậngiảthuyết(Hypothetical Syllogism)[(p ®q) Ù(q ®r)] ®(p ®r)             p ®qq ®r\p ®rqTam đoạnluậntuyển(Disjunctive Syllogism)[(p Úq) Ù¬p] ®q                                p Úq¬p\q 
+
+
+===== PAGE 9 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+CácluậtsuydiễnqTươngđươnglôgích¨A <=> B¨A ®B   làmộthằngđúngqVídụ:  LuậtDe Morgan¨¬( p Úq )  <=> ¬p Ù¬q¨¬( p Úq ) ®¬p Ù¬q  làmộthằngđúng
+
+===== PAGE 10 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+qCho cácgiảthuyết(hypotheses):¨(1) Chiềunay trờikhôngnắngvàlạnhhơnhômqua.¨(2) Chúngta sẽđibơichỉnếutrờinắng.¨(3) Nếukhôngđibơichúngta sẽđidu thuyền.¨(4) Nếuđidu thuyềnthìchúngta sẽvềnhàtrướchoànghôn.qKếtluận:¨Chúngta sẽvềnhàtrướchoànghôn.
+Cácluậtsuydiễn
+
+===== PAGE 11 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+CácluậtsuydiễnqĐặtcácmệnhđề:¨p = Chiềunay trờinắng, ¨q  = lạnhhơnhômqua,     ¨r = Chúngta sẽđibơi, ¨s= Chúngta sẽđidu thuyền¨t= Chúngta sẽvềnhàtrướchoànghônqBiểudiễn:¨Giảthuyết: (1) ¬ p Ùq,  (2) r ®p,  (3) ¬ r ®s, (4) s®t¨Kếtluận:  t
+
+===== PAGE 12 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+CácluậtsuydiễnqGiảthuyết: ¬ p  Ùq,  r ®p,  ¬ r ®s, s®tqKếtluận:  tqChứngminh:¨1. ¬ p Ùq    Giảthuyết¨2. ¬ p         Đơngiảnhoá¨3. r ®p      Giảthuyết¨4.  ¬ r           Modus tollens(bước2 và3)¨5.  ¬ r ®s    Giảthuyết¨6.  s             Modus ponens (bước4 và5)¨7.  s®t       Giảthuyết¨8. t               Modus ponens (bước6 và7)¨ĐPCM
+
+===== PAGE 13 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Cácchứngminh khôngchínhtắcqChứngminh cácđịnhlýtrongthựctế:¨Cácbướccóthểkhôngđượcthểhiệnởngônngữlôgích¨CácbướccóthểdùngtiếngAnh, cáccôngthứctoán, v.v.
+
+===== PAGE 14 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+CácphươngphápchứngminhqChứngminh trựctiếp(Direct proof)¨p®q đượcchứngminh bằngcáchchỉrarằng: nếup đúngthìq đúng.qChứngminh giátiếp(Indirect proof)¨Chứngminh trựctiếpchophảnđảo¬q ®¬p.qChứngminh bằngphảnvídụ(Proof by contradiction)¨Chỉra(p Ù¬ q) mâuthuẫnvớicácgiảthuyếtqChứngminh bằngcáctrườnghợp(Proof by cases)qChứngminh tươngđương(Proofs of equivalence)¨p «q  đượcthaybằng(p ®q) Ù(q ®p)
+
+===== PAGE 15 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Chứngminh trựctiếpqCMR: “nếun lẻthìn2lẻ.”qCM:¨Giảsửgiảthuyếtđúng: n làsốlẻ.¨Khiđón = 2k + 1, vớik làmộtsốnguyên. n2= (2k + 1)2= 4k2+  4k  +  1= 2(2k2+ 2k)  +  1¨Do đó, n2làlẻ.
+
+===== PAGE 16 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Chứngminh giántiếpqCMR: Nếu3n + 2 lẻthìn làsốlẻ.qCM:¨Giảsửn làsốchẵn, khiđón = 2k, vớik nguyênbấtkỳ.¨Khiđó:          3n + 2 = 3(2k) + 2= 6k + 2= 2(3k+1)qVậynên3n + 2 làchẵn.
+
+===== PAGE 17 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+PhảnchứngqCầnchứngminh p ®q¨Giảsửrằngp ®q sai, tứclà(p Ù¬q ) đúng¡Nếuchỉra được(p Ù¬q ) làsai(hoặcq hoặc¬ p làđúng) thìđiềugiảsửlàsai.²Điềucầnchứngminhlàđúng
+qVídụ: CMR: nếu3n + 2 lẻthìn lẻ¨CM: Giảsử3n + 2 lẻvàn chẵn, khiđón = 2k, vớik nguyênbấtkỳ.¨Khiđó:3n + 2 = 3(2k) + 2= 6k + 2= 2(3k + 1)¨Do vậy3n + 2 chẵn: Mâuthuẫnvớigiảthuyếtrằng3n+2 làsốlẻ. Do đón làsốlẻ(ĐPCM).
+
+===== PAGE 18 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Chứngminh rỗng(Vacuous proof)qĐểchứngminh: p ®q¨Chứngminh p luônsai¡p ®q luônđúng.
+qVídụ:¨P(n): “Nếun > 1 thìn2> n”.¨CMR P(0) đúng.¡Vớin=0 giảthuyếtluônsai. Do đóP(0) luônđúng
+
+===== PAGE 19 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Chứngminh tầmthường(Trivial proofs)qĐểchứngminh p ®q¨Chỉraq luônđúngqVídụ:¨P(n): “Nếua >=b thìan>= bn”¨CMR: P(0) đúng¡a0>=b0trởthành1=1 luônđúng.
+
+===== PAGE 20 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Chứngminh qua cácvídụqĐểchứngminh p1 Úp2 Ú… ÚpnÚq¨Cầnchứngminh: (p1 ®q) Ù(p2 ®q) Ù… Ù(pn®q)qLýdo:¨p1 Úp2 Ú… Úpn®q  <=>¨¬ (p1 Úp2 Ú… Úpn) Úq <=>¨(¬p1 Ù¬p2 Ù… Ù¬pn) Úq <=>¨(¬p1 Úq) Ù(¬p2 Úq) Ù…Ù(¬pnÚq) <=>¨(p1 ®q) Ù(p2 ®q) Ù… Ù(pn®q)
+
+===== PAGE 21 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Chứngminh qua cácvídụqCMR: |x||y|=|xy|.qCM¨4 cases:¨x >=0, y>=0¨x>= 0, y <0¨x<0, y>=0¨x<0, y <0
+
+===== PAGE 22 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Chứngminh qua cácvídụqCMR: |x||y|=|xy|.qCM qua 4 trườnghợp:¨x >=0, y>=0: |xy|=xy=|x||y|¨x>= 0, y <0: |xy|=-xy=x(-y)=|x||y|¨x<0, y>=0|: |xy|=-xy=(-x) y=|x||y|¨x<0, y <0 |: |xy|= (-x)(-y)=|x||y|¨Cả4 trườnghợpđềuđúng.
+
+===== PAGE 23 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Chứngminh tươngđươngqĐểchứngminh p «q¨Cầnchứngminh: (p ®q ) Ù(q ®p)qVídụ: CMR: n lẻnếuvàchỉnếun2lẻ.qChứngminh (p ®q ):¨Sửdụngchứngminh trựctiếpqChứngminh q ®pqDo cả2 đềuđúngnêncóĐPCM
+
+===== PAGE 24 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Chứngminh vớicáclượngtừqChứngminhtồntại¨Cácmệnhđềvớicáclượngtừtồntại¨Theo cáchkiếnthiết(Constructive)¡Tìmra ítnhấtmộtvídụmàmệnhđềđúng.¨Theo cáchkhôngkiếnthiết(Nonconstructive)¡Chứngminhbằngphảnchứng.

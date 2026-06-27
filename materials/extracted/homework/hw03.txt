@@ -1,0 +1,214 @@
+===== PAGE 1 =====
+Bài tập về nhà tuần 03: Đại số Bool (Boolean Algebra)
+Bộ môn Khoa học và Kỹ thuật tính toán (VNU-UET-FIT)
+2026-03-10
+Họ và tên: …………………………………………………… MSV: ………………………..
+PHẦN 1: Hàm Boolean (Section 12.1)
+Bài 1 (Rosen.8th.12.1.6): Sử dụng bảng để biểu thức giá trị của mỗi hàm Boolean sau
+a) 𝐹 (𝑥, 𝑦, 𝑧) = ̄ 𝑧
+b) 𝐹 (𝑥, 𝑦, 𝑧) = ̄ 𝑥𝑦 + ̄ 𝑦𝑧
+c) 𝐹 (𝑥, 𝑦, 𝑧) = 𝑥 ̄ 𝑦𝑧 +(𝑥𝑦𝑧)
+d) 𝐹 (𝑥, 𝑦, 𝑧) = ̄ 𝑦(𝑥𝑧 + ̄ 𝑥 ̄ 𝑧
+Bài 2 (Rosen.8th.12.1.24): Đơn giản hoá các biểu thức sau
+a) 𝑥 ⊕ 0
+b) 𝑥 ⊕ 1
+c) 𝑥 ⊕ 𝑥
+d) 𝑥 ⊕ ̄ 𝑥
+Bài 3 (Rosen.8th.12.1.26): Chứng minh rằng 𝑥 ⊕ 𝑦 = 𝑦 ⊕ 𝑥
+Bài 4 (Rosen.8th.12.1.39): Chứng minh các định luật De Morgan đúng trong đại số Boolean
+Bài 5 (Rosen.8th.12.1.40): Chứng minh rằng trong đại số Boolean, các tính chất modular
+được thỏa mãn. Cụ thể, hãy chứng minh: 𝑥 ∧ (𝑦 ∨ (𝑥 ∧ 𝑧)) = (𝑥 ∧ 𝑦) ∨ (𝑥 ∧ 𝑧)và 𝑥 ∨ (𝑦 ∧ (𝑥 ∨ 𝑧)) =
+(𝑥 ∨ 𝑦) ∧ (𝑥 ∨ 𝑧)
+PHẦN 2: Biểu diễn hàm Boolean (Section 12.2)
+Bài 6 (Rosen.8th.12.2.2): Tìm dạng Tổng-các-Tích của các hàm Boolean sau
+a) 𝐹 (𝑥, 𝑦) = ̄ 𝑥 + 𝑦
+b) 𝐹 (𝑥, 𝑦) = 𝑥 ̄ 𝑦
+c) 𝐹 (𝑥, 𝑦) = 1
+d) 𝐹 (𝑥, 𝑦) = ̄ 𝑦
+1
+
+===== PAGE 2 =====
+Bài 7 (Rosen.8th.12.2.4): Tìm dạng Tổng-các-Tích của hàm Boolean 𝐹 (𝑥, 𝑦, 𝑧) bằng 1 khi
+và chỉ khi
+a) 𝑥 = 0
+b) 𝑥𝑦 = 0
+c) 𝑥 + 𝑦 = 0
+d) 𝑥𝑦𝑧 = 0
+Bài 8 (Rosen.8th.12.2.6): Tìm dạng Tổng-các-tích của hàm Boolean
+𝐹 (𝑥1, 𝑥2, 𝑥3, 𝑥4, 𝑥5) sao cho 𝐹 = 1 khi và chỉ khi có ít nhất ba trong các biến 𝑥1, 𝑥2, 𝑥3, 𝑥4, 𝑥5
+nhận giá trị 1
+PHẦN 3: Cổng Logic (Section 12.3)
+Bài 9 (Rosen.8th.12.3.6): Xây dựng mạch logic sử dụng các bộ đảo, cổng AND và cổng OR
+để tạo các đầu ra sau
+a) ̄ 𝑥 + 𝑦
+b) (𝑥 + 𝑦)𝑥
+c) 𝑥𝑦𝑧 + ̄ 𝑥 ̄ 𝑦 ̄ 𝑧
+d) ( ̄ 𝑥 + 𝑧)(𝑦 + ̄ 𝑧)
+Bài 10 (Rosen.8th.12.3.7): Thiết kế một mạch logic thực hiện bỏ phiếu theo đa số cho năm
+người
+Bài 11 (Rosen.8th.12.3.8): Thiết kế một mạch điều khiển đèn bằng bốn công tắc, trong đó
+mỗi khi gạt bất kỳ công tắc nào thì nếu đèn đang tắt thì nó sẽ bật, nếu đèn đang bật thì nó
+sẽ tắt
+Bài 12 (Rosen.8th.12.3.10): Xây dựng một mạch cho bộ trừ bán phần sử dụng cổng AND,
+cổng OR và các bộ đảo. Một bộ trừ bán pần có 2 bits là đầu vào và tạo ra 2 đầu ra gồm: bit
+hiệu (difference) và bit mượn (borrow)
+PHẦN 4: Tối thiểu hoá mạch (Section 12.4)
+Bài 13 (Rosen.8th.12.4.6): Sử dụng biểu đồ Karnaugh (K-map) để tìm mạch đơn giản hơn
+cho ra cùng output với mỗi mạch dưới đây
+a)
+2
+
+===== PAGE 3 =====
+b)
+c)
+Bài 14 (Rosen.8th.12.4.25): Sử dụng phương pháp Quine-McCluskey để đơn giản hoá Tổng-
+các-Tích sau
+a) 𝑤𝑥𝑦𝑧 + 𝑤𝑥 ̄ 𝑦𝑧 + 𝑤𝑥 ̄ 𝑦 ̄ 𝑧 + 𝑤 ̄ 𝑥𝑦 ̄ 𝑧 + 𝑤 ̄ 𝑥 ̄ 𝑦𝑧
+b) 𝑤𝑥𝑦 ̄ 𝑧 + 𝑤𝑥 ̄ 𝑦𝑧 + 𝑤 ̄ 𝑥𝑦𝑧 + ̄ 𝑤𝑥 ̄ 𝑦𝑧 + ̄ 𝑤 ̄ 𝑥𝑦 ̄ 𝑧 + ̄ 𝑤 ̄ 𝑥 ̄ 𝑦𝑧
+c) 𝑤𝑥𝑦𝑧 + 𝑤𝑥𝑦 ̄ 𝑧 + 𝑤𝑥 ̄ 𝑦𝑧 + 𝑤 ̄ 𝑥 ̄ 𝑦𝑧 + 𝑤 ̄ 𝑥 ̄ 𝑦 ̄ 𝑧 + ̄ 𝑤𝑥 ̄ 𝑦𝑧 + ̄ 𝑤 ̄ 𝑥𝑦 ̄ 𝑧 + ̄ 𝑤 ̄ 𝑥 ̄ 𝑦𝑧
+d) 𝑤𝑥𝑦𝑧 + 𝑤𝑥𝑦 ̄ 𝑧 + 𝑤𝑥 ̄ 𝑦𝑧 + 𝑤 ̄ 𝑥𝑦𝑧 + 𝑤 ̄ 𝑥𝑦 ̄ 𝑧 + ̄ 𝑤𝑥𝑦𝑧 + ̄ 𝑤 ̄ 𝑥𝑦𝑧 + ̄ 𝑤 ̄ 𝑥𝑦 ̄ 𝑧 + ̄ 𝑤 ̄ 𝑥 ̄ 𝑦𝑧
+PHẦN 5: Thuật toán (Section 3.1)
+Bài 15 (Rosen.8th.3.1.4): Mô tả thuật toán có đầu vào là một danh sách gồm n số nguyên
+và cho ra đầu ra là hiệu số lớn nhất thu được bằng cách trừ một số nguyên trong danh sách
+cho số nguyên liền sau nó
+Bài 16 (Rosen.8th.3.1.6): Mô tả thuật toán có đầu vào là một dãy gồm n số nguyên và tìm
+số lượng số nguyên âm trong dãy
+Bài 17 (Rosen.8th.3.1.14): Liệt kê tất cả các bước được sử dụng để tìm số 7 trong dãy {1,
+3, 4, 5, 6, 8, 9, 11}, bằng cả hai phương pháp tìm kiếm tuyến tính (linear search) và tìm kiếm
+3
+
+===== PAGE 4 =====
+nhị phân (binary search).
+Bài 18 (Rosen.8th.3.1.20): Mô tả thuật toán tìm số nguyên lớn nhất và bé nhất trong một
+dãy số nguyên hữu hạn
+Bài 19 (Rosen.8th.3.1.22): Mô tả thuật toán tìm từ dài nhất trong một câu tiếng anh (trong
+đó một câu được xem là một dãy các ký hiệu, mỗi ký hiệu có thể là một chữ cái hoặc một
+khoảng trắng, và dãy này có thể được tách thành các từ và khoảng trắng xen kẽ nhau)
+Bài 20 (Rosen.8th.3.1.26): Sửa đổi Thuật toán 3 sao cho hàm tìm kiếm nhị phân so sánh x
+với 𝑎𝑚 ở mỗi bước của thuật toán và thuật toán kết thúc nếu 𝑥 = 𝑎 𝑚. Ưu điểm của phiên bản
+thuật toán này?
+Bài 21 (Rosen.8th.3.1.32): Cho n số thực 𝑥1, 𝑥2, … , 𝑥𝑛. Hãy tìm hai số gần nhau nhất bằng:
+a) Một thuật toán vét cạn (brute force) tính khoảng cách giữa mọi cặp số trong các số này
+b) Sắp xếp các số rồi tính số lượng phép tính khoảng cách ít nhất cần thiết để giải bài toán
+Bài 22 (Rosen.8th.3.1.34): Hãy xây dựng một thuật toán để tìm tất cả các phần tử của một
+dãy hữu hạn các số nguyên mà lớn hơn tổng của tất cả các phần tử đứng trước nó trong dãy
+Bài 23 (Rosen.8th.3.1.38): Sử dụng thuật toán sắp xếp nổi bọt để sắp xếp d, f, k, m, a, b
+và trình bày danh sách thu được sau mỗi bước
+Bài 24 (Rosen.8th.3.1.48): Thuật toán insertion sort cần bao nhiêu phép so sánh để sắp
+xếp danh sách n, n − 1, …, 2, 1?
+Bài 25 (Rosen.8th.3.1.58): Sử dụng thuật toán của người thu ngân để đổi tiền bằng các
+đồng 25 xu (quarters), 10 xu (dimes) và 1 xu (pennies) cho mỗi số tiền đã cho. Với những số
+tiền nào thì thuật toán tham lam (greedy algorithm) sử dụng ít đồng tiền nhất có thể của các
+mệnh giá này?
+a) 87 cents
+b) 49 cents
+c) 99 cents
+d) 33 cents
+4
+
+===== PAGE 5 =====
+PHẦN 6: Sự tăng trưởng của các hàm (Section 3.2)
+Bài 26 (Rosen.8th.3.2.8): Tìm số nguyên n nhỏ nhất sao cho f(x) là 𝑂(𝑛2) với mỗi hàm sau
+a) 𝑓(𝑥) = 2𝑥2 + 𝑥3𝑙𝑜𝑔𝑥
+b) 𝑓(𝑥) = 3𝑥5 + (𝑙𝑜𝑔𝑥)4
+c) 𝑓(𝑥) = (𝑥 4 + 𝑥2 + 1)/(𝑥4 + 1)
+d) 𝑓(𝑥) = (𝑥 3 + 5𝑙𝑜𝑔𝑥)/(𝑥4 + 1)
+Bài 27 (Rosen.8th.3.2.10): Chứng minh rằng 𝑥3 là 𝑂(𝑥4) nhưng 𝑥4 không phải là 𝑂(𝑥3)
+Bài 28 (Rosen.8th.3.2.14): Xác định xem 𝑥3 có phải là O(g(x)) với mỗi hàm g(x) sau hay
+không
+a) 𝑔(𝑥) = 𝑥2
+b) 𝑔(𝑥) = 𝑥3
+c) 𝑔(𝑥) = 𝑥2 + 𝑥3
+d) 𝑔(𝑥) = 𝑥2 + 𝑥4
+e) 𝑔(𝑥) = 3𝑥
+f) 𝑔(𝑥) = 𝑥3/2
+Bài 29 (Rosen.8th.3.2.24): Giả sử bạn có 2 thuật toán khác nhau để giải một bài toán. Để
+giải bài toán kích thước n, thuật toán đầu tiên dùng chính xác 𝑛22𝑛 phép tính và thuật toán
+thứ hai sử dụng chính xác n! phép tính. Khi n tăng, thuật toán nào sử dụng ít phép tính hơn?
+Bài 30 (Rosen.8th.3.2.26): Đưa ra ước lượng big-O cho mỗi hàm sau. Với hàm g trong ước
+lượng f(x) là O(g(x)), sử dụng hàm g đơn giản có bậc nhỏ nhất
+a) (𝑛3 + 𝑛2𝑙𝑜𝑔𝑛)(𝑙𝑜𝑔𝑛 + 1) + (17𝑙𝑜𝑔𝑛 + 19)(𝑛3 + 2)
+b) (2𝑛 + 𝑛2)(𝑛3 + 3𝑛)
+c) (𝑛𝑛 + 𝑛2𝑛 + 5𝑛)(𝑛! + 5𝑛)
+Bài 31 (Rosen.8th.3.2.54): Chứng minh rằng 𝑐5𝑦3 + 𝑥4𝑦4 + 𝑥3𝑦5 là Ω(𝑥3𝑦3)
+PHẦN 7: Độ phức tạp thuật toán (Section 3.3)
+Bài 32 (Rosen.8th.3.3.4): Hãy đưa ra ước lượng Big-O cho số lượng các phép tính (trong
+đó một phép tính được tính là một phép cộng hoặc một phép nhân) được sử dụng trong đoạn
+thuật toán này (bỏ qua các phép so sánh dùng để kiểm tra điều kiện trong vòng lặp while)
+5
+
+===== PAGE 6 =====
+Bài 33 (Rosen.8th.3.3.8): Cho một số thực 𝑥 và một số nguyên dương 𝑘. Hãy xác định số
+lượng phép nhân cần thiết để tính 𝑥2𝑘
+bằng cách bắt đầu từ 𝑥 và thực hiện bình phương liên
+tiếp (để tìm 𝑥2, 𝑥4, và cứ tiếp tục như vậy). Cách làm này có hiệu quả hơn việc tìm 𝑥2𝑘
+bằng
+cách nhân 𝑥 với chính nó theo số lần tương ứng hay không?
+Bài 34 (Rosen.8th.3.3.13): Thuật toán thông thường để tính giá trị của một đa thức 𝑎𝑛𝑥𝑛 +
+𝑎𝑛−1𝑥𝑛−1 + ⋯ + 𝑎1𝑥 + 𝑎0 tại 𝑥 = 𝑐 có thể được biểu diễn bằng mã giả như sau:
+Với giá trị của cùng của y là giá trị của đa thức tại x = c
+a) Hãy tính giá trị của biểu thức 3𝑥2 + 𝑥 + 1 tại 𝑥 = 2 bằng cách thực hiện từng bước của
+thuật toán, chỉ rõ các giá trị được gán tại mỗi bước gán dữ liệu
+b) Chính xác thì có bao nhiêu phép nhân và phép cộng được sử dụng để tính giá trị của một
+đa thức bậc 𝑛 tại 𝑥 = 𝑐 ? (Không tính các phép cộng dùng để tăng biến đếm trong vòng
+lặp)
+Bài 35 (Rosen.8th.3.3.14): Có một thuật toán hiệu quả hơn (xét về số lượng các phép nhân
+và phép cộng được sử dụng) để tính giá trị của đa thức so với thuật toán thông thường đã được
+mô tả ở bài tập trước. Nó được gọi là phương pháp Horner (lược đồ Horner). Đoạn mã giả này
+sẽ trình bày cách sử dụng phương pháp này để tìm giá trị của 𝑎𝑛𝑥𝑛 + 𝑎𝑛−1𝑥𝑛−1 + ⋯ + 𝑎1𝑥 + 𝑎0
+tại 𝑥 = 𝑐 .
+a) Hãy tính giá trị của biểu thức 3𝑥2 + 𝑥 + 1 tại 𝑥 = 2 bằng cách thực hiện từng bước của
+thuật toán, chỉ rõ các giá trị được gán tại mỗi bước gán dữ liệu
+b) Chính xác thì thuật toán này sử dụng bao nhiêu phép nhân và phép cộng để tính giá trị
+của một đa thức bậc 𝑛 tại 𝑥 = 𝑐 ? (Không tính các phép cộng dùng để tăng biến đếm
+6
+
+===== PAGE 7 =====
+trong vòng lặp)
+Bài 36 (Rosen.8th.3.3.16): Giá trị 𝑛 lớn nhất là bao nhiêu để một thuật toán có thể giải
+quyết bài toán trong vòng một ngày, biết rằng thuật toán đó yêu cầu 𝑓(𝑛) phép toán bit, và
+mỗi phép toán bit mất 10−11 giây? Thực hiện với các hàm 𝑓(𝑛) sau:
+a) log 𝑛
+b) 1000𝑛
+c) 𝑛2
+d) 1000𝑛2
+e) 𝑛3
+f) 2𝑛
+g) 22𝑛
+h) 22𝑛
+Bài 37 (Rosen.8th.3.3.30): Hãy phân tích độ phức tạp thời gian trong trường hợp xấu nhất
+(worst-case time complexity) của thuật toán mà bạn đã thiết kế ở Bài 22 phía trên nhằm tìm
+tất cả các số hạng trong một dãy số có giá trị lớn hơn tổng của tất cả các số hạng đứng trước
+nó.
+PHẦN 8: Biểu diễn số nguyên và các thuật toán (Section 4.2)
+Bài 38 (Rosen.8th.4.2.2): Chuyển dạng thập phân của mỗi số nguyên sau sang dạng nhị
+phân
+a) 321
+b) 1023
+c) 100632
+Bài 39 (Rosen.8th.4.2.4): Chuyển dạng nhị phân của mỗi số nguyên sau sang dạng thập
+phân
+a) (11011)2
+b) (1010110101)2
+c) (1110111110)2
+d) (111110000011111)2
+PHẦN 9: Số nguyên tố và ước chung lớn nhất (Section 4.3)
+Bài 40 (Rosen.8th.4.3.4): Tìm thừa số nguyên tố của các số nguyên sau
+a) 39
+7
+
+===== PAGE 8 =====
+b) 81
+c) 101
+d) 143
+e) 289
+f) 899
+Bài 41 (Rosen.8th.4.3.8): Hãy biểu diễn bằng mã giả (pseudocode) thuật toán đã được mô
+tả trong văn bản để tìm phân tích thừa số nguyên tố của một số nguyên
+Bài 42 (Rosen.8th.4.3.30): Nếu tích của hai số nguyên là 27 ⋅ 38 ⋅ 52 ⋅ 711 và ước chung lớn
+nhất (ƯCLN) của chúng là 23 ⋅ 34 ⋅ 5, thì bội chung nhỏ nhất (BCNN) của chúng là bao nhiêu?
+Bài 43 (Rosen.8th.4.3.32edf): Sử dụng thuật toán Euclid để tìm
+a) gcd(12345, 54321)
+b) gcd(1000, 5040)
+c) gcd(9888, 6060)
+8

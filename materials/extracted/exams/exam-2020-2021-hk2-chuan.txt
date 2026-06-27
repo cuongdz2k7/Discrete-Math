@@ -1,0 +1,123 @@
+===== PAGE 1 =====
+Đề thi cuối kỳ, năm 2021 
+Môn Toán rời rạc (Hệ chuẩn, thời gian 70 phút) 
+Thống nhất: Mã số sinh viên của em là một số gồm 8 chữ số, gọi a là chữ số thứ 7, b là chữ số 
+thứ 8. Ví dụ: Bạn Dương Tú Anh có mã số sinh viên là 19021211 thì a = 1, b = 1. 
+Câu 1. (15 phút) 
+a) Đếm số nghiệm nguyên không âm của phương trình sau: 
+X + Y + Z + T  = 1000 mà X, Y, Z, T ≥ 100. 
+b) Với a, b như thống nhất. Đếm số nghiệm nguyên không âm của phương trình sau: 
+X + Y + Z + T = 12345 mà X ≥ a+10, Y ≥ a +20, Z ≥ b+30, T ≥ b+40. 
+Ví dụ: Bạn Dương Tú Anh có mã số sinh viên là 19021211 thì a = 1, b = 1 và b ạn Dương 
+Tú Anh cần đếm số nghiệm nguyên không âm của phương trình:  
+X + Y + Z + T = 12345 mà X ≥ 11, Y ≥ 21, Z ≥ 31, T ≥ 41. 
+Câu 2. (20 phút) 
+Cho đồ thị G1 như hình dưới đây.  
+a) Xét đồ thị G1, viết ra 11 số, các số cách nhau một dấu cách tương ứng là bậc của các đỉnh 
+từ 0 đến 10. 
+b) Xét đồ thị G1, tìm đường đi ngắn nhất từ 0 đến 9. 
+ 
+Với a, b như th ống nhất, tạo đồ thị G2 bằng cách lo ại bỏ hai đỉnh a, b và t ất cả các cạnh liên 
+thuộc với a, b. Ví dụ: Bạn Dương Tú Anh có a = 1, b = 1 thì ch ỉ loại đi 1 đ ỉnh 1 và t ất cả các 
+cạnh liên thuộc với 1. 
+
+
+===== PAGE 2 =====
+c) Xét đồ thị G2, viết ra m ột dãy s ố, các s ố cách nhau m ột dấu cách tương ứng là b ậc của 
+các đỉnh từ nhỏ đến lớn. 
+d) Tìm cây khung nhỏ nhất của đồ thị G2. 
+Câu 3. (25 phút) 
+a) Xây dựng văn phạm chính quy và Otomat hữu hạn trạng thái đoán nh ận biểu thức chính 
+quy sau ((01)*0(10)*)*. 
+b) Xây dựng Otomat nhận xâu đầu vào (xâu gồm các kí tự từ ‘0’ đến ‘9’) và đoán nhận xâu 
+được tạo bởi ba ch ữ số cuối cùng trong m ã số sinh viên của em. Ví dụ: Bạn Dương Tú 
+Anh có mã số sinh viên là 19021211, cần xây dựng Otomat đoán nhận xâu ‘211’. 
+Câu 4. (5 phút) 
+Bảng giá tr ị chân lý nào là b ảng giá tr ị chân lý c ủa m ệnh đ ề sau 
+( ) ( )A p q q r p r     
+ . Giải thích. 
+a) 
+p q r 
+pq  
+qr  A 
+0 0 0 1 1 1 
+0 0 1 1 1 1 
+0 1 0 1 0 0 
+0 1 1 1 1 1 
+1 0 0 0 1 1 
+1 0 1 0 1 1 
+1 1 0 1 0 1 
+1 1 1 1 1 1 
+ 
+b)  
+p q r 
+pq  
+qr  A 
+0 0 0 1 1 1 
+0 0 1 1 1 1 
+0 1 0 1 0 1 
+0 1 1 1 1 1 
+1 0 0 0 1 1 
+1 0 1 0 1 1 
+1 1 0 1 0 0 
+1 1 1 1 1 1 
+  
+c) 
+p q r 
+pq  
+qr  A 
+0 0 0 1 1 1 
+0 0 1 1 1 1 
+0 1 0 1 0 1 
+0 1 1 1 1 1 
+1 0 0 0 1 1 
+1 0 1 0 1 1 
+1 1 0 1 0 1 
+1 1 1 1 1 1 
+ 
+d) 
+p q r 
+pq  
+qr  A 
+0 0 0 1 1 1 
+0 0 1 1 1 1 
+0 1 0 1 0 1 
+0 1 1 1 1 1 
+1 0 0 1 1 0 
+1 0 1 0 1 1 
+1 1 0 1 0 1 
+1 1 1 1 1 1 
+ 
+e) 
+p q r 
+pq  
+qr  A 
+0 0 0 1 1 1 
+0 0 1 1 1 1 
+0 1 0 1 0 1 
+0 1 1 1 1 1 
+f) Tất c ả các phương án trên đ ều không 
+đúng. 
+
+===== PAGE 3 =====
+1 0 0 0 1 1 
+1 0 1 0 1 1 
+1 1 0 1 0 1 
+1 1 1 1 1 0 
+ 
+ 
+ 
+ 
+Câu 5 (5 phút) 
+Chúng ta xét phát bi ểu: “Nếu n chia h ết cho 30 thì n cũng chia h ết cho 2, chia h ết cho 3 
+và chia hết cho 5”. Phát biểu nào sau đây là tương đương với phát biểu trên, giải thích? 
+a) Nếu n không chia hết cho 30 thì n chia hết cho 2 hoặc chia hết cho 3 hoặc chia hết 
+cho 5; 
+b) Nếu n không chia hết cho 30 thì n cũng không chia hết cho 2 hoặc không chia hết 
+3 hoặc không chia hết cho 5; 
+c) Nếu n chia hết cho 2 và chia hết cho 3 và chia hết cho 5 thì n chia hết cho 30; 
+d) Nếu n không chia hết cho 2 hoặc không chia hết cho 3 hoặc không chia hết cho 5 
+thì n cũng không chia hết cho 30; 
+e) Nếu n chia hết cho 2 hoặc chia hết cho 3 hoặc chia hết cho 5 thì n cũng chia hết 
+cho 30. 
+f) Tất cả các phương án trên đều không đúng.

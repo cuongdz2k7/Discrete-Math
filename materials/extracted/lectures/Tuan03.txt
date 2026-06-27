@@ -1,0 +1,360 @@
+===== PAGE 1 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Toánrờirạc
+Đại số Bool(Boolean Algebra)
+
+===== PAGE 2 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Đại số Bool (Boolean Algebra)qĐược George Boole phát triển năm 1854qClaude Shannon áp dụng vào thiết kế mạch điện năm 1938qCơ sở cho thiết kế mạch số trong máy tínhqLàm việc với tập {0, 1}
+
+===== PAGE 3 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Đại số Bool: Các phép toán cơ bảnqPhủ định (Complement): ̅𝑥¨!0= 1, !1= 0qTổng Bool (Boolean Sum): x + y¨1+1=1, 1+0=1, 0+1=1, 0+0=0qTích Bool (Boolean Product): x · y¨1·1=1, 1·0=0, 0·1=0, 0·0=0qThứ tự ưu tiên¨Phủ định → Tích → Tổng
+
+===== PAGE 4 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Đại số Bool: Các phép toán cơ bảnqVídụ1: Tính1 · #0+ (0+1)qVídụ2: Tính#x#y+ x#yvớix=1, y=0
+
+===== PAGE 5 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+HàmBoolqBiếnBool: chỉnhậngiátrị0 hoặc1qHàmBool bậcn trêntậpB = {0, 1}¨HàmtừB!→ B¨B!= {(x₁, x₂,..., xₙ) | xᵢ ∈B}qSốhàmBool bậcn¨Bậc1: 4 hàm¨Bậc2: 16 hàm¨Bậc3: 256 hàm
+Số hàm
+Bậc
+
+
+===== PAGE 6 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+HàmBoolqVí dụ 16 Hàm Bool bậc 2
+qBiểu thức Bool¨0, 1, x1, x2, . . . , xnlàcácbiểuthứcBool;¨NếuE1 vàE2 làcácbiểuthứcBool, thìE1, (E1E2), và(E1 + E2) làcácbiểuthứcBool.
+
+
+===== PAGE 7 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+qBiểu thức BoolHàmBool
+
+
+===== PAGE 8 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+HàmBoolqHàm FvàGtrênn biếnlàbằngnhaunếuvàchỉnếuF(b1, b2, . . . , bn) = G(b1, b2, . . . , bn) vớimọib1, b2, . . . , bn∈B.¨Hai biểuthứcBool củacùngmộthàmđượcgọilàTươngđươngnhau. q#F: Hàm bùcủahàmF¨!F(x1, . . . , xn) = F(x1,...,xn). qCho F vàG làcáchàmBool bậcn¨HàmF + G vàFG đượcđịnhnghĩanhưsau:¡(F + G)(x1, . . . , xn)= F (x1, . . . , xn) + G(x1, . . . , xn),¡(FG)(x1, . . . , xn)= F (x1, . . . , xn)G(x1, . . . , xn).
+
+===== PAGE 9 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Các Đẳng thức Bool
+Luật phủ định kép
+Luật luỹ đẳng
+Luật trội
+Luật giao hoán 
+Luật kết hợp 
+Luật phân phối
+Luật De Morgan
+Luật nuốt
+Luật đơn vị 
+Luật Không
+Tên gọi
+Đẳng thức
+Luật đồng thức
+qChứng minh luật phân phối¨x(y + z) = xy + xz¨x + yz = (x + y)(x + z)qChứng minh luật nuốt¨x(x + y) = x
+
+===== PAGE 10 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Biểu diễn hàm BoolqBiếntử(Literal)¨BiếnBool hoặcphủđịnhcủanó¡Vídụ: x, x̄, y, ȳ, z, z̄qTiểuhạng(Minterm) củan biến:¨Tíchcủan biếntử, mỗibiếnxuấthiệnđúng1 lần¨Vídụvới3 biến: xyz, x̄yz, xȳz̄,...qTiểuhạngcógiátrị1 tạiđúng1 bộgiátrị¨xyz= 1 khix=1, y=1, z=1¨x̄₁x₂x̄₃x₄x₅ khi?
+
+===== PAGE 11 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Biểu diễn hàm BoolqTổng-các-Tích (TCT)¨Biểu diễn hàm Bool = Tổng các tiểu hạng¨Mọi hàm Bool đều có thể biểu diễn thành TCTqPhương pháp¨Lập bảng chân trị¨Xác định các hàng có giá trị 1¨Viết các tiểu hạng tương ứng¨Lấy tổng các tiểu hạng
+
+===== PAGE 12 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Biểu diễn TCTqVídụ: F(x,y,z) = (x+y)z̄qCách1: SửdụngcácluậtđẳngthứcqCách2: Lậpbảngchântrị
+
+===== PAGE 13 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+TínhđầyđủhàmqTập toán tử đầy đủ hàm:¨Có thể dùng để biểu diễn mọi hàm BoolqCác tập đầy đủ hàm:¨{·, +, ¯} -tập cơ bản¨{·, ¯} vì x+y = x̄· ȳ¨{+, ¯} vì xy = x̄+ ȳqLưu ý: {+, ·} KHÔNG đầy đủ¨Không thể biểu diễn x̄
+
+===== PAGE 14 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+ToántửNAND vàNORqToántửNAND: x | y¨1|1=0, 1|0=1, 0|1=1, 0|0=1¨x̄= x | x¨xy= (x|y) | (x|y)qToántửNOR: x ↓ y¨1↓1=0, 1↓0=0, 0↓1=0, 0↓0=1¨x̄= x ↓ x¨x+y= (x↓y) ↓ (x↓y)q{|} và{↓} đềulàtậpđầyđủhàm
+
+===== PAGE 15 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+ToántửNAND vàNORqVídụ1: Biểudiễnx̄bằngNANDqVídụ2: Biểudiễnx+ybằngNANDqVídụ3: F(x,y) = xy+ x̄ȳ¨BiểudiễntừngthànhphầnbằngNAND
+
+===== PAGE 16 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+CổngLô gíchqBộ đảo Inverter (Cổng NOT)¨Đầu vào: x → Đầu ra: x̄qCổng Hoặc (OR)¨Đầu vào: x, y → Đầu ra: x+yqCổng Và (AND):¨Đầu vào: x, y → Đầu ra: xy
+
+
+===== PAGE 17 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Thiết kế mạch
+
+
+===== PAGE 18 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Mạch biểu quyếtqBài toán: 3 người bỏ phiếu (x, y, z)¨Đề xuất thông qua nếu ≥ 2 phiếu đồng ýqHàm Bool:¨F(x,y,z) = 1 nếu ≥ 2 người đồng ý
+
+===== PAGE 19 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Mạch điều khiểnqĐiều khiển 1 bóng đèn dùng 2 công tắc
+
+
+===== PAGE 20 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Mạch điều khiểnqĐiều khiển 1 bóng đèn dùng 3 công tắc
+
+===== PAGE 21 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Bộbáncộng(Half Adder)qCộng2 bit x vày:¨Sum bit (s): x ⊕y¨Carry bit (c): xy
+
+
+===== PAGE 22 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Bộcộnghoànchỉnh(Full Adder)qCộng2 bit x, y vàcarry ci:¨Sum: s = x ⊕y ⊕ci¨Carry out: ci+1
+
+
+===== PAGE 23 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Tối ưu mạchqHai mạch cho cùng 1 kết quả đầu raqCác thuật toán¨BảnđồKarnaugh¨Quine–MCCluskey
+
+
+===== PAGE 24 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Toánrờirạc
+Thuậttoán(Algorithm)
+
+===== PAGE 25 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Thuậttoán: Địnhnghĩa“Mộtthuật toánlà một chuỗi cácbước(chỉdẫn) chính xác để thực hiện một phéptính toán hoặc giải quyết một bài toán.”qVídụ: Thuậttoántìmphần tử lớn nhất trong một chuỗi hữu hạnproceduremax(𝑎!,𝑎",…,𝑎#:𝑐á𝑐𝑠ố𝑛𝑔𝑢𝑦ê𝑛)𝑚𝑎𝑥≔𝑎!for𝑖≔2to𝑛if𝑚𝑎𝑥<𝑎$then𝑚𝑎𝑥≔𝑎$return𝑚𝑎𝑥{𝑚𝑎𝑥là phần tử lớn nhất}
+
+===== PAGE 26 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Thuậttoán: CácđặctrưngqĐầuvào (Input): Thuậttoán có các giá trị đầu vào thuộc một tập xác định.qĐầu ra (Output): từ mỗi tập giá trị đầu vào, thuật toán tạo ra các giá trị đầura thuộc một tập xác định. Các giá trịnàycóthểlàlờigiảichobàitoánmàthuậttoánđanggiảiquyết.qTính xác định (Definiteness): Các bước của thuật toán được xác định một cáchchính xác.qTính chính xác (Correctness): Thuật toán cần tạo ra các kết quả chính xác với mỗi tập đầuvào.qTính hữu hạn (Finiteness): Thuật toán cần tạo ra các giá trị đầu ra sau một số hữu hạn (có thể lớn) các bước đối với mọi tập đầu vào.qTính hiệuquả (Effectiveness): Các bướccủa thuậttoán cần được thực hiện một cáchchính xác trong một khoảngthờigian hữu hạn.qTính tổng quát (Generality): Thuậttoáncầnkhảdụng cho mọi bài toán thuộccùngmộtdạng mong muốn, chứ không chỉ áp dụng cho một tập đặc biệt các giá trị đầu vào.
+
+===== PAGE 27 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Thuậttoán: VídụqThuật toán tìmkiếmtuyếntínhprocedure linearSearch(𝑥,𝑎!,𝑎",…,𝑎#)//𝑥:𝑠ố𝑛𝑔𝑢𝑦ê𝑛,𝑎!,𝑎",…,𝑎#:𝑐á𝑐𝑠ố𝑛𝑔𝑢𝑦ê𝑛𝑝ℎâ𝑛𝑏𝑖ệ𝑡)𝑖≔1while(𝑖≤𝑛and𝑥≠𝑎$)𝑖≔𝑖+1if𝑖≤𝑛then𝑙𝑜𝑐𝑎𝑡𝑖𝑜𝑛≔𝑖else𝑙𝑜𝑐𝑎𝑡𝑖𝑜𝑛≔0return 𝑙𝑜𝑐𝑎𝑡𝑖𝑜𝑛{𝑙𝑜𝑐𝑎𝑡𝑖𝑜𝑛là chỉsốcủasố hạngbằng𝑥, hoặclà 0 nếukhông tìmthấy𝑥}
+
+===== PAGE 28 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Thuậttoán: VídụqThuật toán tìmkiếmnhịphânprocedure binarySearch(𝑥, 𝑎!,𝑎",…,𝑎#) //𝑥:𝑠ố𝑛𝑔𝑢𝑦ê𝑛,𝑎!,𝑎",…,𝑎#:𝑐á𝑐𝑠ố𝑛𝑔𝑢𝑦ê𝑛𝑡ă𝑛𝑔𝑑ầ𝑛𝑖≔1{𝑖là điểmmúttráicủa khoảngtìmkiếm}𝑗≔𝑛{𝑗là điểmmútphảicủa khoảngtìmkiếm}while𝑖<𝑗𝑚≔𝑖+𝑗/2if𝑥>𝑎!then𝑖≔𝑚+1else𝑗≔𝑚if𝑥=𝑎"then𝑙𝑜𝑐𝑎𝑡𝑖𝑜𝑛≔𝑖else𝑙𝑜𝑐𝑎𝑡𝑖𝑜𝑛≔0return 𝑙𝑜𝑐𝑎𝑡𝑖𝑜𝑛{𝑙𝑜𝑐𝑎𝑡𝑖𝑜𝑛là chỉsố dướicủa số hạngbằng𝑥, hoặclà0 nếukhông tìmthấy𝑥}
+
+===== PAGE 29 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Thuậttoán: VídụqThuậttoán sắpxếpnổibọtprocedure bubbleSort(𝑎!,…,𝑎#:𝑐á𝑐𝑠ố𝑡ℎự𝑐𝑣ớ𝑖𝑛≥2)for𝑖≔1to𝑛−1for𝑗≔1to𝑛−1if𝑎%>𝑎%&!thenđổichỗ𝑎%và 𝑎%&!{𝑎!,…,𝑎#được sắpxếpgiá trị tăngdần}
+
+===== PAGE 30 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Thuậttoán: Vídụ
+Hình 1: Các bướccủa thuậttoán sắpxếpnổibọt
+
+===== PAGE 31 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Thuậttoán: VídụqThuậttoán sắpxếpchènprocedure insertionSort(𝑎!,𝑎"…,𝑎#:𝑐á𝑐𝑠ố𝑡ℎự𝑐𝑣ớ𝑖𝑛≥2)forj≔2to𝑛𝑖≔1while𝑎%>𝑎$𝑖≔𝑖+1𝑚≔𝑎%for 𝑘≔0to𝑗−𝑖−1𝑎%'(≔𝑎%'('!𝑎$≔𝑚{𝑎!,…,𝑎#được sắpxếpgiá trị tăngdần}
+
+===== PAGE 32 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Thuậttoánthamlam (Greedy algorithm)qGiảiquyếtcácvấnđềtốiưu hóa(Optimization problems)qBàitoánđổitiềnn xuqDùngđồng25 xu, 10 xu, 5 xu, 1 xuqDùngítđồngtiềnnhấtcóthểqChọn giảipháptốt nhất tại mỗi bước thay vì xem xét toàn bộ chuỗi các bước có thể cho lời giải tối ưunhất
+
+===== PAGE 33 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Thuậttoánthamlam: VídụqThuật toán đổitiềnthamlamprocedure change (𝑐!,𝑐"…,𝑐),𝑛)// 𝑐!,𝑐"…,𝑐):𝑐á𝑐𝑚ệ𝑛ℎ𝑔𝑖á𝑐ủ𝑎𝑥𝑢,𝑣ớ𝑖𝑐!>𝑐">⋯>𝑐);𝑛:𝑠ố𝑛𝑔𝑢𝑦ê𝑛𝑑ươ𝑛𝑔for𝑖≔1to𝑟𝑑$≔0{𝑑$đếmsố lượngxumệnhgiá 𝑐$được sửdụng}while𝑛≥𝑐$𝑑$≔𝑑$+1{thêmmột xumệnhgiá 𝑐$}𝑛≔𝑛−𝑐${𝑑$là số lượngxuthuộc mệnhgiá 𝑐$trong tiềnđổivới 𝑖=1,2,…,𝑟}
+
+===== PAGE 34 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Thuậttoánthamlam: VídụqThảoluậntrênlớpqBổđề 1 –Trang 199
+
+===== PAGE 35 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Độtăngcủa hàmqKhái niệmO-lớn(Big-O):Cho 𝑓và 𝑔là các hàmtừ tập số nguyên hoặc tập số thực đếntập số thực. Ta nói 𝑓(𝑥)là 𝑂(𝑔𝑥)nếutồn tạihằngsố 𝐶và 𝑘sao cho:𝑓𝑥≤𝐶𝑔𝑥,∀𝑥>𝑘[Đọclà “𝑓𝑥làO-lớn(big-O) theo𝑔𝑥.”]qChúý:Dễ thấy, 𝑓𝑥tăngchậmhơn một bộisố cốđịnh của 𝑔𝑥khi 𝑥tăngtớivôhạn.§𝐶và 𝑘được gọilà“chứngcứ(witnesses)”
+
+===== PAGE 36 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Độtăngcủa hàmqChú ý:𝑓𝑥là 𝑂(𝑔𝑥)có thể được viết là 𝑓𝑥=𝑂(𝑔𝑥).qDấubằngở đâykhông thể hiện phépbằngthực sự.qCóthể viết là 𝑓𝑥∈𝑂(𝑔𝑥)bởivì𝑂(𝑔𝑥)biễudiễnmột tập các hàmlà 𝑂(𝑔𝑥).qKhi𝑓𝑥là 𝑂(𝑔𝑥), và ℎ𝑥là một hàmcó giá trị tuyệtđốilớn hơn 𝑔𝑥vớigiátrị 𝑥đủlớn, qSuyra 𝑓𝑥là 𝑂(ℎ𝑥). qHàm𝑔𝑥trong mốiquan hệ𝑓𝑥là 𝑂(𝑔𝑥)có thể được thay thế bằngmột hàmvới giá trị tuyệtđốilớn hơn.
+
+===== PAGE 37 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Độtăngcủahàm: VídụqChứng minh:𝑓𝑥=𝑥"+2𝑥+1là 𝑂𝑥"qLờigiải:§Ta thấyrằngkhi𝑥>1ta có:0≤𝑥!+2𝑥+1≤𝑥!+2𝑥!+𝑥!=4𝑥!Do đó, chúng ta có thể chọn 𝐶=4và 𝑘=1để thấyrằng𝑓𝑥là𝑂𝑥!. Nghĩa là, 𝑓𝑥=𝑥!+2𝑥+1<4𝑥!với mọi𝑥>1.(Lưu ý rằngkhông cần sửdụnggiá trị tuyệtđốiở đâyvìtất cả các hàmtrong đẳngthứcđềudươngkhi 𝑥dương.)§Ngoàira, với𝑥>2, chúngta có 2𝑥≤𝑥!và 1≤𝑥!,do đó, với 𝑥>2ta có:0≤𝑥!+2𝑥+1≤𝑥!+𝑥!+𝑥!=3𝑥!Do đó, 𝐶=3và 𝑘=2cũnglà“chứngcứ/witnesses” chomốiquan hệ𝑓𝑥là 𝑂𝑥#.
+
+===== PAGE 38 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Độtăngcủahàm: Vídụ
+Hình 1:Hàm𝑥!+2𝑥+1là 𝑂𝑥#.
+
+===== PAGE 39 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Độtăngcủahàm: VídụqChứng minh:§Đặt 𝑓𝑥=𝑎$𝑥$+𝑎$%&𝑥$%&+⋯+𝑎&𝑥+𝑎', với 𝑎',𝑎&,…,𝑎$%&,𝑎$là các số thực. Khi đó, 𝑓𝑥là 𝑂𝑥$.qLờigiải:§Sửdụngbấtđẳngthứctam giác (xemBài tập 7, mục1.8) với 𝑥>1, ta có:𝑓𝑥=𝑎"𝑥"+𝑎"#$𝑥"#$+⋯+𝑎$𝑥+𝑎%≤𝑎"𝑥"+𝑎"#$𝑥"#$+⋯+𝑎$𝑥+𝑎%=𝑥"𝑎"+&!"#'+⋯+&#'!"#+&$'!≤𝑥"𝑎"+𝑎"#$+⋯+𝑎$+𝑎%§Qua đó,𝑓𝑥≤𝐶𝑥",với 𝐶=𝑎"+𝑎"#$+⋯+𝑎%với mọi𝑥>1. Do đó, 𝐶=𝑎"+𝑎"#$+⋯+𝑎%và 𝑘=1cho thấy𝑓𝑥là 𝑂𝑥".
+
+===== PAGE 40 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+qCMR¨f(n) = 1 + 2 + · · · + n làO(n2)¨f(n) = n! làO(nn)¨f(n) = n làO(2n) ¡f(n) = log(n) làO(n)
+Độtăngcủahàm: Vídụ
+
+===== PAGE 41 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+ĐộtăngcủahàmqĐịnh lý:§Giảsử𝑓!𝑥là 𝑂𝑔!𝑥và 𝑓"𝑥là 𝑂𝑔"𝑥oThì𝑓&+𝑓#𝑥là 𝑂max𝑔&𝑥,𝑔#𝑥.§Giảsử𝑓!𝑥và 𝑓"𝑥đềulà 𝑂𝑔𝑥oThì𝑓&+𝑓#𝑥là 𝑂𝑔𝑥.§Giảsử𝑓!𝑥là 𝑂𝑔!𝑥và 𝑓"𝑥là 𝑂𝑔"𝑥oThì𝑓&𝑓#𝑥là 𝑂𝑔&𝑥𝑔#𝑥.
+
+===== PAGE 42 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+qTìm ước lượng O-lớn cho các hàm sau:¨f(n)= 3n log(n!) + (n2 + 3) log n, n làsốnguyêndương¨f(x)= (x + 1) log(x2+ 1) + 3x2
+Độtăngcủahàm: Vídụ
+
+===== PAGE 43 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Omega-lớn& Theta-lớnqKhái niệmOmega-lớn:Cho 𝑓và 𝑔là các hàmtừ tập số nguyên hoặc tập số thực đếntập số thực. Ta nói 𝑓(𝑥)là Ω(𝑔𝑥)nếutồn tạihằngsố 𝐶và 𝑘sao cho:𝑓𝑥≥𝐶𝑔𝑥,∀𝑥>𝑘[Đọclà “𝑓𝑥làΩ-lớn(big-Ω) theo𝑔𝑥”]¨f(x)= 8x3 + 5x2 + 7 làΩ(g(x)), vớig(x) = x3
+
+===== PAGE 44 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Omega-lớn& Theta-lớnqKhái niệmTheta-lớn:Cho 𝑓và 𝑔là các hàmtừ tập số nguyên hoặc tập số thực đếntập số thực. Ta nói 𝑓(𝑥)là Θ(𝑔𝑥)nếu 𝑓(𝑥)là O(𝑔𝑥)và 𝑓(𝑥)là Ω𝑔𝑥. Khi đó, f(x) vàg(x) làcùngbậcvớinhau. Tồntạihằngsố 𝐶1, 𝐶2và 𝑘sao cho:C1g(x)≤𝑓𝑥≤𝐶2𝑔𝑥,∀𝑥>𝑘[Đọclà “𝑓𝑥làΘ-lớn(big-Θ) theo𝑔𝑥”]
+
+===== PAGE 45 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Omega-lớn& Theta-lớnqCMR¨f(n) = 1 + 2 + · · · + n làΘ(n2)¨f(n) = 3x2+ 8x log x làΘ(x2)
+
+===== PAGE 46 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Độ phức tạp thuật toánqĐộ phức tạp thời gian¨Sốlượngphéptoánđượcthựchiệnbởithuậttoánvớikíchthướcđầuvàocụthể. ¡Phépso sánhcácsốnguyên, cộng/nhân/chia cácsốnguyên, hoặccácphéptoáncơbảnkhác.¡ThuậttoánTìmsốlớnnhấtcầnthựchiện2(n− 1) + 1= 2n− 1 phépso sánh, nênĐộphứctạpthờigianlàΘ(n)
+
+
+===== PAGE 47 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+qThuật toán tìm kiếm tuyến tính¨Thực hiện 2n + 2 phépso sánhtrongtrườnghợpxấunhất¡Θ(n)
+Độ phức tạp thuật toán
+
+
+===== PAGE 48 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+qTìm độ phức tạp tồi nhất của Thuật toán tìm kiếm nhị phân?
+Độ phức tạp tồi nhất
+
+
+===== PAGE 49 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+qTìm độ phức tạp tồi nhất¨Thuật toán sắp xếp nổi bọt
+¨Thuật toán sắp xếp chèn
+Độ phức tạp tồi nhất
+
+
+===== PAGE 50 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+qCMR: Thuật toán tìm kiếm tuyến tính có Độ phức tạp thời gian trung bình là Θ(n)
+Độ phức tạp trung bình
+
+
+===== PAGE 51 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Họ thuật toán theo Độ phức tạp
+Độ phức tạp 
+ Thuật ngữ
+Độ phức tạp Hằng
+Độ phức lô ga rít
+Độ phức tạp tuyến tính
+Độ phức tạp lô ga tuyến tính
+Độ phức tạp đa thức
+Độ phức tạp luỹ thừa (mũ)
+Độ phức tạp giai thừa
+
+===== PAGE 52 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Độ phức tạp thực tếqSốlượngphéptoánbit¨Giảsửmỗiphéptoánbit mất10−11giây¨10100nămđượcthểhiệnbằngdấu*
+
+
+===== PAGE 53 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Các lớp bài toánqBài toán lần được (Tractable), không lần được (Intractable)qBài toán giải được (Solvable), không giải được (Unsolvable)qLớp P: Các bài toán lần được đượcqLớp NP (nondeterministic polynomial): Độphứctạp(thờigian) đathứckhôngtấtđịnh¨Vídụ: BàitoánthoảmãntrongLô gichmệnhđề¨CácbàitoánNP-đầyđủ¡Hiệncó3000 bàitoánNP-đầyđủđượcbiết, trongđóbàitoánThoảmãnlàbàitoánđượcchínhminhthuộclớpNP-đầyđủđầutiên.
+
+===== PAGE 54 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+P với NPqBài toán Thiên niên kỷ, do ViệnToánhọcClay đềxuất, với giải thưởng1,000,000 Đôla.qP = NP?¨“Lớpcácbàitoáncóthểkiểmtrađượclờigiảitrongthờigianđathứctrùngvớilớpcácbàitoánlầnđược.”
+
+===== PAGE 55 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Toánrờirạc
+Thuậttoán Euclid
+
+===== PAGE 56 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Số nguyêntố(prime)qĐịnh nghĩa:Một số nguyên dương𝑝lớn hơn 1 và chỉchia hếtcho 1 và chính nóđược gọilà một số nguyên tố.qVídụ:2, 3, 5, 7,…1|2 và 2|2; 1|3 và 3|3;…Số nguyên tốtiếptheosau 7?§11Tiếptheo?§13
+
+===== PAGE 57 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Số nguyên tốqĐịnh nghĩa:Một số nguyên dươnglớn hơn 1 và không phảilà số nguyên tốgọilà một hợpsố(composite number).qVídụ:4, 6, 8, 9,…Vìsao?§2|4Vìsao 6 là hợpsố?
+
+===== PAGE 58 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Định lýcơbản củasốhọc(arithmetic)qĐịnh lý Cơbản của Số học:§Bấtcứsố nguyên dươnglớn hơn 1 nào đềucó thể đượcbiểudiễndướidạng tíchcủa các số nguyên tố.qVídụ:§12=2×2×3§21=3×7qQuytrình tìmra các thừasố: phân tíchthừasố (factorization)
+
+===== PAGE 59 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Số nguyên tốvà HợpsốqPhân tíchthừasố nguyên tốcủa các hợpsố:§100=2×2×5×5=2"×5"§99=3×3×11=3"×11qCâuhỏiquan trọng:§Làmthế nào để xác định một số là số nguyên tốhay hợpsố?
+
+===== PAGE 60 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Số nguyên tốvà HợpsốqLàm thế nào để xác định một số là số nguyên tốhay hợpsố?qPhươngpháp đơn giản(1):§Đểxác địnhmộtsốn cóphảilàsố nguyêntốkhông, ta có thể kiểmtravới một số 𝒙nào đó𝑥<𝑛và 𝑛chia hếtcho 𝑥. Nếuđúngthìnólà hợpsố.§Nếuta kiểmtrahếttất cả các số𝑥<𝑛và không tìmthấymột số chia nào thì𝑛là số nguyên tố.§Vídụ:Giảsửta muốnkiểmtra17 có phảilà số nguyên tố?Phươngpháp trênyêu cầu ta phảikiểmtra:2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16
+
+===== PAGE 61 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Số nguyên tốvà HợpsốqVídụPhươngpháp 1:Giảsửta muốnkiểmtra17 có phảilà số nguyên tố?Phươngpháp trênyêu cầu ta phảikiểmtra:2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16qĐâycó phảilà cáchtốtnhất không?§Không. Vấn đề ở đâylà chúngta phảikiểmtratất cả các số và điềunày là không cần thiết.qÝ tưởng:§Tất cả các hợpsố đềucó thể được phân tíchthành tíchcủa các thừasố nguyên tố. Do đó, chỉcần kiểmtra các số nguyên tố𝑥<𝑛để xác định 𝑛có phảisố nguyên tốhay không.
+
+===== PAGE 62 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Số nguyên tốvà HợpsốqLàm thế nào để xác định một số là số nguyên tốhay hợpsố?qPhươngpháp 2:§Đểxác địnhsốn có là số nguyên tốhay không, ta có thể kiểmtracó tồn tại số nguyên tố𝒙nào đó, 𝑥<𝑛và 𝑛chia hếtcho 𝑥hay không. Nếucó thì𝒏là hợpsố. §Nếuta kiểmtratất cả các số nguyên tố𝑥<𝑛và không tìmthấysố chia nào thì𝒏là số nguyên tố.§Vídụ: 31 cóphảisốnguyêntốkhông?Kiểmtranócóchia hếtcho2, 3, 5, 7, 11, 13, 17, 23, 29 không?Nólàsốnguyêntố.
+
+===== PAGE 63 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Số nguyên tốvà HợpsốqVí dụPhươngpháp 2:§91 có phảilà số nguyên tốkhông?§Các số nguyên tốdễ biết: 2, 3, 5, 7, 11, 13, 17, 19,…§Nhưng có bao nhiêusố nguyên tốnhỏhơn 91?qLưu ý:§Nếu𝑛tương đốinhỏ, phépkiểmtralà tốtvìta có thể lặp(ghi nhớ) tất cả nhữngsố nguyên tốnhỏtrướcnó.§Nhưng nếu𝑛lớn thìsẽcó nhữngsố nguyên tốlớn hơn và không dễ thấy.
+
+===== PAGE 64 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Số nguyên tốvà HợpsốqĐịnh lý:Nếu𝑛là hợpsố thì𝑛có một số chia là số nguyên tốnhỏhơn hoặc bằng𝑛.qChứngminh:§Nếu𝑛là hợpsố, thìnócó số chia 𝑎là số nguyên dươngsao cho 1<𝑎<𝑛theođịnh nghĩa. Điềunày có nghĩa là 𝑛=𝑎𝑏, với 𝑏là một số nguyên lớn hơn 1.§Giảsử𝑎>𝑛và 𝑏>𝑛. Thì𝑎𝑏>𝑛𝑛=𝑛, tráivới giảthiết. Vìvậy, hoặc là 𝑎≤𝑛hoặc 𝑏≤𝑛.§Do đó, 𝑛có số chia nhỏhơn 𝑛.§DựavàoĐịnh lý Cơbản của Số học, số chia này hoặc là số nguyên tố, hoặc là tíchcủa các số nguyên tố. §Trongcả 2 trườnghợp, 𝑛đềucó một số chia là số nguyên tốnhỏhơn 𝑛.
+
+===== PAGE 65 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Số nguyên tốvà HợpsốqĐịnh lý:Nếu𝑛là hợpsố thì𝑛có một số chia là số nguyên tốnhỏhơn hoặc bằng𝑛.qPhươngpháp 3:§Đểxácđịnhn cóphảisố nguyên tốhay không, ta có thể kiểmtracó tồn tại số chia 𝑥nào đólà số nguyên tốvà 𝑥<𝑛hay không.qVídụ:101 có phảilà số nguyên tốkhông?§Các số nguyên tốnhỏhơn 101=10.𝑥𝑥𝑥là 2, 3, 5, 7§101 không chia hếtcho các số trên§Do đó, 101 là số nguyên tốqVídụ:91 có phảilà số nguyên tốkhông?§Các số nguyên tốnhỏhơn 91là 2, 3, 5, 7§91 chia hếtcho 7§Do đó, 91 là hợpsố.
+
+===== PAGE 66 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Số nguyên tốqCâuhỏiđặtra làcótất cả bao nhiêusố nguyên tố?qĐịnh lý: Có vôsố sốnguyên tố.qChứng minhbởiEuclid:§Chứng minhphảnchứng: Giảsửcó hữu hạn các số nguyên tố: 𝑝#,𝑝",…,𝑝$§Đặt 𝑄=𝑝#𝑝"…𝑝$+1là một số§𝑄không chia hếtcho bấtcứsố nào trong số 𝑝#,𝑝",…,𝑝$§Điềunày là vôlý vìđã giảsửrằngta đã liệtkêhếtcác số nguyên tố.
+
+===== PAGE 67 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+ƯớcchunglớnnhấtqĐịnh nghĩa:Cho 𝑎và 𝑏là các số nguyên, không đồngthờibằng0. Số nguyên lớn nhất 𝑑sao cho 𝑑|𝑎và 𝑑|𝑏được gọilà ướcchunglớnnhất(greatest common divisor) của 𝑎và 𝑏. Ướcchunglớn nhất được kýhiệulà 𝐠𝐜𝐝𝒂,𝒃.qVídụ:§gcd24,36=?Kiểmtra2, 3, 4, 6, 12 ⇒gcd24,36=12§gcd11,23=?
+
+===== PAGE 68 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Ướcchunglớn nhấtqTìmgcdsửdụngphân tíchthừasố§Đặt 𝑎=𝑝!*(𝑝"*)𝑝+**…𝑝(*+và 𝑏=𝑝!,(𝑝",)𝑝+,*…𝑝(,+
+§gcd𝑎,𝑏=𝑝!-./*(,,(𝑝"-./*),,)𝑝+-./**,,*…𝑝(-./*+,,+
+qVídụ:§gcd24,36=?§24=2×2×2×3=2+×3§36=2×2×3×3=2"×3"§gcd24,36=2"×3=12
+
+===== PAGE 69 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+BộichungnhỏnhấtqĐịnh nghĩa: Đặt 𝑎và 𝑏là các số nguyên dương. Bộichungnhỏnhất(least common multipler)của 𝑎và 𝑏là số nguyên dươngnhỏnhất chia hếtcho cả 𝑎và 𝑏. Bộichungnhỏnhất được kýhiệulà 𝐥𝐜𝐦𝒂,𝒃.qVídụ:§𝑙𝑐𝑚12,9=?§Hãyđưara một bộichung: …
+
+===== PAGE 70 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+BộichungnhỏnhấtqĐịnh nghĩa: Đặt 𝑎và 𝑏là các số nguyên dương. Bộichungnhỏnhất(least common multipler)của 𝑎và 𝑏là số nguyên dươngnhỏnhất chia hếtcho cả 𝑎và 𝑏. Bộichungnhỏnhất được kýhiệulà 𝐥𝐜𝐦𝒂,𝒃.qVídụ:§𝑙𝑐𝑚12,9=?§Hãyđưara một bộichung: … 12×9=108§Ta có thể tìmđượcsố nhỏhơn không?§Có. Thử36. Cả hai số 12 và 9 đềuđược chia hếtbởi36.
+
+===== PAGE 71 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+BộichungnhỏnhấtqTìmlcm sửdụngphân tíchthừasố§Đặt 𝑎=𝑝!*(𝑝"*)𝑝+**…𝑝(*+và 𝑏=𝑝!,(𝑝",)𝑝+,*…𝑝(,+§lcm𝑎,𝑏=𝑝!-12*(,,(𝑝"-12*),,)𝑝+-12**,,*…𝑝(-12*+,,+
+qVídụ:§lcm12,9=?§12=2×2×3=2"×3§9=3×3=3"§lcm12,9=2"×3"=4×9=36
+
+===== PAGE 72 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Thuậttoán EuclidqTìmướcchung lớn nhất đòihỏiphân tíchthừasố§𝑎=𝑝!*(𝑝"*)𝑝+**…𝑝(*+và 𝑏=𝑝!,(𝑝",)𝑝+,*…𝑝(,+
+§gcd𝑎,𝑏=𝑝!-./*(,,(𝑝"-./*),,)𝑝+-./**,,*…𝑝(-./*+,,+§Phân tíchthừasố có thể rấttốnthờigianvìta phảitìmtất cả các thừasố của 2 số nguyên có thể rấtlớn.§May mắnlàcó một phươngpháp hiệuquả hơn để tínhgcd, làthuậttoán Euclid.oPhương pháp được biết đếntừ xaxưavà được đặttên theonhàtoán họcHyLạpEuclid.
+
+===== PAGE 73 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Thuậttoán EuclidqTa muốntìm𝐠𝐜𝐝𝟐𝟖𝟕,𝟗𝟏.§Đầutiên, chia số lớn (287) cho số bé(91)§Ta có 287=3×91+141)Bấtcứsố chia nào của 91 và 287 đềulà số chia của 14:§287−3×91=14§Tại sao? 𝑎𝑘−𝑐𝑏𝑘=𝑟⇒𝑎−𝑐𝑏𝑘=𝑟⇒𝑎−𝑐𝑏=()(phảilà số nguyên, vìvậy𝑟chia hếtcho 𝑘).2)Bấtcứsố chia nào của 91 và 14 đềulà số chia của 287:§Tại sao? 287=3𝑏𝑘+𝑑𝑘⇒287=𝑘3𝑏+𝑑⇒#*+)=3𝑏+𝑑←#*+)là số nguyên.§Do đó, 𝐠𝐜𝐝𝟐𝟖𝟕,𝟗𝟏=𝐠𝐜𝐝𝟗𝟏,𝟏𝟒
+
+===== PAGE 74 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Thuậttoán EuclidqTa biết rằng𝐠𝐜𝐝𝟐𝟖𝟕,𝟗𝟏=𝐠𝐜𝐝𝟗𝟏,𝟏𝟒qCó thể ápdụnglại cáchđó:ogcd91,14o91=14×6+7qVìvậy§gcd91,14=gcd14,7qÁpdụng1 lầnnữa:§gcd14,7=7§Dễ giảiqKết quả: gcd287,91=gcd91,14=gcd14,7=7
+
+===== PAGE 75 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Thuậttoán EuclidqVídụ:§Tìmướcchung lớn nhất của 666 và 558§gcd666,558666=1×558+108=gcd558,108558=5×108+18=gcd108,18108=6×18+0=18
+
+===== PAGE 76 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Thuậttoán EuclidqVídụ§Tìmướcchung lớn nhất của 286 và 503:§gcd503,286503=1×286+217=gcd286,217286=1×217+69=gcd217,69217=3×69+10=gcd69,1069=6×10+9=gcd10,9 10=1×9+1=gcd9,1=1

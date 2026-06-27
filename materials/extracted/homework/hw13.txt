@@ -1,0 +1,33 @@
+===== PAGE 1 =====
+Bài tập về nhà tuần 13: Automat, văn phạm và ngôn ngữ
+hình thức
+Bộ môn Khoa học và Kỹ thuật tính toán (VNU-UET-FIT)
+2026-02-22
+Họ và tên: …………………………………………………… MSV: ………………………..
+PHẦN 1: Máy hữu hạn trạng thái có đầu ra (Section 11.2)
+Bài 1 (Rosen.5th.11.2.3): Cho máy hữu hạn trạng thái có đầu ra trong hình dưới đây. Hãy
+tìm xâu đầu ra tương ứng với xâu đầu vào 11011011.
+Bài 2 (Rosen.5th.11.2.5): Xác định trình tự trạng thái và đầu ra cho máy bán nước tự động
+nợ 35 xu khi nạp liên tiếp hai đồng 10 xu và một đồng 25 xu.
+Bài 3 (Rosen.5th.11.2.13): Xây dựng một máy hữu hạn trạng thái để xác định xem xâu bít
+đầu vào có bít 1 ở vị trí cuối cùng và bít 0 ở vị trí thứ ba tính từ cuối lên hay không.
+1
+
+===== PAGE 2 =====
+PHẦN 2: Automat hữu hạn tất định - DF A (Section 11.3)
+Bài 4 (Rosen.5th.11.3.1): Cho hai tập hợp 𝐴 = {0, 11} và 𝐵 = {00, 01} . Hãy tìm các tập
+hợp sau: a) 𝐴𝐵 b) 𝐵𝐴 c) 𝐴2 d) 𝐵3
+Bài 5 (Rosen.5th.11.3.9e): Xác định xem chuỗi 11101 có thuộc tập {111} ∗ {0} ∗ {1} hay
+không. Nếu có, hãy viết nó dưới dạng một chuỗi con của chuỗi 111 theo quy tắc của tập
+{111} ∗ {0} ∗ {1}.
+PHẦN 3: Biểu thức chính quy và NF A (Section 11.4)
+Bài 6 (Rosen.5th.11.4.1a): Mô tả ngôn ngữ tạo bởi biểu thức chính quy 1∗0.
+Bài 7 (Rosen.5th.11.4.1f): Mô tả ngôn ngữ tạo bởi biểu thức chính quy cho tất cả các xâu
+có độ dài ít nhất là 3 và kết thúc bằng 00.
+Bài 8 (Rosen.5th.11.4.3): Tìm biểu thức chính quy cho tập các xâu bít bắt đầu bằng 0 và
+kết thúc bằng 1.
+Bài 9 (Rosen.5th.11.4.7): Sử dụng các phép xây dựng trong chứng minh Định lý Kleene,
+hãy tìm một automat hữu hạn không tất định (NF A) nhận dạng ngôn ngữ 01∗ ∪ 00∗1.
+Bài 10 (Rosen.5th.11.4.11): Chuyển đổi một Automat không tất định (NF A) cho trước
+thành một Automat tất định (DF A) tương đương bằng thuật toán Subset Construction.
+2

@@ -1,0 +1,155 @@
+===== PAGE 1 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Toánrờirạc
+Automat hữuhạn
+
+===== PAGE 2 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+MáyhữuhạntrạngtháicóđầuraqMáyhữuhạntrạngthái(Automat)¨Cóthểđượcsửdụngđểmôhìnhhoánhiềuloạimáyvậtlý,baogồmcáclinhkiệntrongcácmáytính.¨Đượcsửdụngrộngrãitrongcácứngdụngtrongkhoahọcmáytínhvàmạngdữliệu¡Kiểmtrachínhtả,kiểmtrangữpháp,lậpchỉmụchoặctìmkiếmnộidungcủavănbản,nhậndạnggiọngnói,chuyểnđổivănbảnsửdụngcácngônngữđánhdấunhưXMLvàHTML,vàcácgiaothứcmạngxácđịnhcáchcácmáytínhgiaotiếp¨Cómộttrạngtháibanđầuđượcchỉđịnh,mộtbảngchữcáiđầuvào,vàmộthàmchuyểntiếpgánmộttrạngtháitiếptheochomỗicặptrạngtháivàđầuvào.
+
+===== PAGE 3 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+MáyhữuhạntrạngtháicóđầuraBẢNG1. BẢNG TRẠNG THÁI CỦA MỘT MÁY BÁN HÀNGTrạngtháitiếptheoĐầuraTrạngtháiĐầuvào Đầuvào51025OR51025OR𝑠!𝑠"𝑠#𝑠$𝑠!𝑠!nnnnn𝑠"𝑠#𝑠%𝑠&𝑠"𝑠"nnnnn𝑠#𝑠%𝑠'𝑠&𝑠#𝑠#nn5nn𝑠%𝑠'𝑠$𝑠&𝑠%𝑠%nn10nn𝑠'𝑠$𝑠&𝑠&𝑠'𝑠'nn15nn𝑠$𝑠&𝑠&𝑠&𝑠$𝑠$n520nn𝑠&𝑠&𝑠&𝑠&𝑠!𝑠!51025OJAJ
+
+===== PAGE 4 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+MáyhữuhạntrạngtháicóđầuraMộtmáyhữuhạntrạngthái(finite-statemachine)𝑀=𝑆,𝐼,𝑂,𝑓,𝑔,𝑠!gồmmộttậphữuhạn𝑆cáctrạngthái,mộtbộchữcáihữuhạnđầuvào𝐼,mộtbộchữcáihữuhạnđầura𝑂,mộthàmchuyển𝑓gánchomỗicặpgồmmộttrạngtháivàmộtđầuvàomộttrạngtháimới,mộthàmđầura𝑔gánchomỗicặpgồmmộttrạngtháivàmộtđầuvàomộtđầura,vàmộttrạngtháibanđầu𝑠!.
+
+===== PAGE 5 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Máyhữuhạntrạngtháicóđầura
+HÌNH 1. MÁY BÁN HÀNG TỰ ĐỘNG
+nước camnước táo
+Xuấtphát
+
+===== PAGE 6 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+MáyhữuhạntrạngtháicóđầuraqVí dụ máy hữu hạn trạng thái có đầu ra
+
+===== PAGE 7 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+qTìmxâudo máyhữuhạndướiđâysinhrakhinónhậnđầuvàolàxâu101011.
+Máyhữuhạntrạngtháicóđầura
+
+
+===== PAGE 8 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+qMáylàmtrễmộtđơnvịthờigianxuấtraxâu0x1x2. . . xk−1khinhậnxâuđầuvàox1x2. . . xk.
+Máyhữuhạntrạngtháicóđầura
+
+
+===== PAGE 9 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+qMáyhữuhạntrạngtháicộnghaisốnguyêndươngtừbiểudiễnnhịphâncủachúng.
+Máyhữuhạntrạngtháicóđầura
+
+
+===== PAGE 10 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Máyhữuhạntrạngtháicóđầura
+Với𝑀=𝑆,𝐼,𝑂,𝑓,𝑔,𝑠!làmộtmáyhữuhạntrạngtháivà𝐿⊆𝐼∗.Tagọi𝑀chấpnhận(nhậndạng)𝐿nếumộtxâuđầuvào𝑥thuộc𝐿khivàchỉkhibitđầuracuốicùngsinhrabởi𝑀vớiđầuvào𝑥làbit1.
+
+===== PAGE 11 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+qMáyhữuhạntrạngtháitrảra1 nếuvàchỉnếuxâuđầuvàohiệnđangđọckếtthúcbởi111.
+Máyhữuhạntrạngtháicóđầura
+
+
+===== PAGE 12 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+qXây dựng một máy hữu hạn trạng thái cho việc nhập mật khẩu vào một máy rút tiền tự động với các quy tắc sau:¨Người dùng nhập một chuỗi gồm bốn chữ số, mỗi lần nhập một chữ số.¨Nếu người dùng nhập đúng mật khẩu, máy sẽ hiển thị màn hình chào mừng.¨Khi người dùng nhập sai, máy sẽ hiển thị màn hình thông báo rằng mật khẩu đã nhập là không chính xác.¨Nếu người dùng nhập sai mật khẩu ba lần, tài khoản sẽ bị khóa.
+Máyhữuhạntrạngtháicóđầura
+
+===== PAGE 13 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+qHãy xây dựng một máy hữu hạn trạng thái xuất ra 1 nếu số ký tự đầu vào đã đọc cho đến hiện tại chia hết cho 3, và đầu ra là 0 trong các trường hợp ngược lại.qHãy xây dựng một máy hữu hạn trạng thái để xác định liệu chuỗi đầu vào đã đọc cho đến hiện tại có kết thúc bằng ít nhất năm số 1 liên tiếp hay không?
+Máyhữuhạntrạngtháicóđầura
+
+===== PAGE 14 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Máyhữuhạntrạngtháikhôngđầura
+Mộtautomathữuhạn(finite-stateautomat)𝑀=𝑆,𝐼,𝑓,𝑠!,𝐹gồmmộttậphữuhạn𝑆cáctrạngthái,mộtbộchữcáiđầuvào𝐼,mộthàmchuyển(transitionfunction)𝑓gántrạngtháitiếptheochomỗicặptrạngtháiđầuvào,trạngtháixuấtphát𝑠!vàmộttậpcon𝐹của𝑆gồmcáctrạngtháikếtthúc.
+
+===== PAGE 15 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+qMộtmáyhữuhạntrạngthái𝑀=𝑆,𝐼,𝑓,𝑠-,𝐹¨Hàmchuyển𝑓cóthểđượcmởrộngthànhhàm:𝑓:𝑆×𝐼∗→𝑆¡Cóthểđịnhnghĩahàmchuyểnmởrộng𝑓bằngđệquy(i)𝑓𝑠,𝜆=𝑠chotấtcảcáctrạngthái𝑠∈𝑆;và(ii)𝑓𝑠,𝑥𝑎=𝑓𝑓𝑠,𝑥,𝑎vớimọi𝑠∈𝑆,𝑥∈𝐼∗,và𝑎∈𝐼.
+Máyhữuhạntrạngtháikhôngđầura
+
+===== PAGE 16 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+qDựnggiảnđồtrạngtháicủamộtautomathữuhạn𝑀=𝑆,𝐼,𝑓,𝑠-,𝐹với𝑆={𝑠-,𝑠.,𝑠/,𝑠0},𝐼={0,1},𝐹=𝑠-,𝑠0vàhàmchuyển𝑓đượcchobởibảng:Trạngthái𝑓Đầuvào01𝑠!𝑠!𝑠#𝑠#𝑠!𝑠$𝑠$𝑠!𝑠!𝑠%𝑠$𝑠#
+Máyhữuhạntrạngtháikhôngđầura
+
+===== PAGE 17 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Đoánnhậnngônngữbởimáyhữuhạntrạngthái
+Mộtxâu𝑥đượcgọilàđượcchấpnhận(recognize,accept)bởimáy𝑀=𝑆,𝐼,𝑓,𝑠!,𝐹nếunóđưatrạngtháixuấtpháttớimộttrạngtháikếtthúc,tứclà𝑓𝑠!,𝑥làmộttrạngtháithuộc𝐹.Ngônngữđượcchấpnhậnbởimáy𝑀,đượckýhiệulà𝐿𝑀,làtậptấtcảcácxâuđượcchấpnhậnbởi𝑀.
+
+===== PAGE 18 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+ĐoánnhậnngônngữbởimáyhữuhạntrạngtháiqL(M1) = {1n | n = 0, 1, 2, . . . }qL(M2) = {1, 01}qL(M3) = {0n, 0n10x | n = 0, 1, 2, . . . , x là một xâu bất kỳ}
+
+
+===== PAGE 19 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+qHãyxâydựngcácmáynhậndạngđượcmỗimộtngônngữsau:¨Tậpcácxâubit bắtđầubằnghaisố0.¨Tậpcácxâubit chứahaisố0 liêntiếp.¨Tậpcácxâubit khôngchứahaisố0 liêntiếp.¨Tậpcácxâubit kếtthúcbằnghaisố0.¨Tậpcácxâubit chứaítnhấthaisố0.
+Đoánnhậnngônngữbởimáyhữuhạntrạngthái
+
+===== PAGE 20 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Đoánnhậnngônngữbởimáyhữuhạntrạngthái
+
+===== PAGE 21 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+qHãy xây dựng một máy nhận dạng được tập các xâu bit chứa một số lẻ số 1 và kết thúc bằng ít nhất hai số 0 liên tiếp.
+Đoánnhậnngônngữbởimáyhữuhạntrạngthái
+
+
+===== PAGE 22 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+qTìm ngôn ngữ hai máy dưới đây nhận dạng được?Đoánnhậnngônngữbởimáyhữuhạntrạngthái
+
+
+===== PAGE 23 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+qHãyxâydựngmộtmáynhậndạngđượctậptấtcảcácxâubit chứaítnhấtbasố0.qHãy xây dựng một máy nhận dạng được tập tất cả các xâu bit chứa một số chẵn số 0 và một số lẻ số 1.
+Đoánnhậnngônngữbởimáyhữuhạntrạngthái
+
+===== PAGE 24 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Máy tương đươngqHai máy hữu hạn được gọi là tương đương, nếu chúng cùng chấp nhận (nhận dang) một ngôn ngữ.
+
+===== PAGE 25 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+MáyhữuhạnkhôngtấtđịnhqCácmáyđượcgiớithiệutrướcđâyđềulàcácmáytấtđịnh(deterministic)¨Mỗicặptrạngtháivàgiátrịđầuvàochỉchuyểnđếnmộttrạngtháitiếptheoduynhất.qAutomat khôngtấtđịnh(nondeterministic)¨Cóthểcónhiềutrạngtháitiếptheo¨Quan trọngtrongviệcxácđịnhngônngữnàocóthểđoánnhậnđượcbởimáyhữuhạn
+
+===== PAGE 26 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Máyhữuhạnkhôngtấtđịnh
+Máyhữuhạnkhôngtấtđịnh𝑀=𝑆,𝐼,𝑓,𝑠!,𝐹gồmtập𝑆cáctrạngthái,mộtbộchữcái𝐼,môthàmchuyển𝑓gánchomỗicặptrạngtháivàđầuvàomộttậpcáctrạngthái(𝑓:S×I→P(S)),trạngtháixuấtphát𝑠!vàtậpcon𝐹của𝑆gồmcáctrạngtháikếtthúc.
+
+===== PAGE 27 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+MáyhữuhạnkhôngtấtđịnhqVídụ:Lậpbảnghàmchuyểnchomáyhữuhạnkhôngtấtđịnhcócáctrạngtháinhưhìnhdưới:
+qNgônngữ:{0n,0n01,0n11|n≥0}
+Xuấtphát
+Trạngthái𝑓Đầuvào01𝑠!𝑠!,𝑠$𝑠#𝑠#𝑠%𝑠&𝑠$ 𝑠&𝑠%𝑠%𝑠&𝑠%𝑠%
+
+===== PAGE 28 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+MáyhữuhạnkhôngtấtđịnhĐịnh lý 1: Nếu ngôn ngữ 𝐿được chấp nhận bởi một automat hữu hạn không tất định 𝑀-thì 𝐿cũng được chấp nhận bởi một automat tất định 𝑀.¨Chứng minh: trong giáo trình
+
+===== PAGE 29 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+MáyhữuhạnkhôngtấtđịnhqVídụ: Mộtmáyhữuhạntấtđịnh(dưới) tươngđươngvớimáyhữuhạnkhôngtấtđịnh(trái).
+
+
+===== PAGE 30 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+Thựchànhmáyhữuhạnkhôngtấtđịnh
+qTìm ngôn ngữ nhận dạng được bởi máy dưới đây.qXây dựng máy không tất định tương đương.
+
+===== PAGE 31 =====
+KhoaCôngNghệThôngTin -TrườngĐH CôngNghệ, ĐHQGHN
+qHãy tìm một máy hữu hạn không tất định, có số trạng thái ít nhất có thể, nhận dạng được mỗi một ngôn ngữ dưới đây.¨{0} ¨{1, 00}¨{1n| n = 2, 3, 4, . . . }
+Thựchànhmáyhữuhạnkhôngtấtđịnh

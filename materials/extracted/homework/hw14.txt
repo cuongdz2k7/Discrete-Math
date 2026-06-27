@@ -1,0 +1,38 @@
+===== PAGE 1 =====
+Bài tập về nhà tuần 14: Tập chính quy & Đoán nhận
+ngôn ngữ
+Bộ môn Khoa học và Kỹ thuật tính toán (VNU-UET-FIT)
+2026-02-22
+Họ và tên: …………………………………………………… MSV: ………………………..
+Bài 1 (Rosen.8th.13.4.2): Miêu tả các tập sau đây bằng cách sử dụng ngôn ngữ tự nhiên
+và biểu thức chính quy:
+a) 001∗
+b) (01)∗
+c) 01 ∪ 001∗
+d) 0(11 ∪ 0)∗
+e) (101∗)∗
+f) (0∗ ∪ 1)11
+Bài 2 (Rosen.8th.13.4.6): Miêu tả các tập sau đây bằng biểu thức chính quy:
+a) Tập hợp chứa tất cả các chuỗi có không, một, hoặc hai bit.
+b) Tập hợp các chuỗi bắt đầu bằng hai chữ số 0, theo sau là không hoặc nhiều chữ số 1, và
+kết thúc bằng một chữ số 0.
+c) Tập hợp các chuỗi mà trong đó mọi chữ số 1 đều được theo sau bởi hai chữ số 0.
+d) Tập hợp các chuỗi kết thúc bằng 00 và không chứa chuỗi con 11.
+e) Tập hợp các chuỗi chứa một số lượng chẵn các chữ số 1.
+Bài 3 (Rosen.8th.13.4.12): Hãy tìm các máy trạng thái hữu hạn không đơn định (NF A)
+nhận biết mỗi tập ngôn ngữ sau:
+a) 0 1∗
+b) (0 ∪ 1) 1∗
+c) 00 (1∗ ∪ 10)
+Bài 4 (Rosen.8th.13.4.14): Hãy xây dựng một máy hữu hạn không tất định (NF A) nhận
+biết ngôn ngữ sinh bởi văn phạm chính quy G = (V, T, S, P), trong đó V = {0, 1, S, A, B},
+T = {0, 1}, S là ký hiệu bắt đầu, và P là tập các luật sinh; với các trường hợp sau:
+1
+
+===== PAGE 2 =====
+a) S → 0A, S → 1B, A → 0, B → 0.
+b) S → 1A, S → 0, S → ￿, A → 0B, B → 1B, B → 1.
+c) S → 1B, S → 0, A → 1A, A → 0B, A → 1, A → 0, B → 1.
+Bài 5 (Rosen.8th.13.4.16): Hãy xây dựng một văn pham chính quy sinh ra ngôn ngữ được
+mô tả bởi máy trạng thái hữu hạn không đơn định (NF A) sau:
+2
